@@ -1,4 +1,4 @@
-For use with the [EWC community spreadsheet](https://docs.google.com/spreadsheets/d/13eLMZGCbE6iU02jESu1ncxSvK3E2GO5n30kPT4gf5TQ/edit?usp=sharing). This repo serves as the base for updating which entries from the MasterItems go into the spreadsheet.
+For use with the [EWC community spreadsheet](https://docs.google.com/spreadsheets/d/13eLMZGCbE6iU02jESu1ncxSvK3E2GO5n30kPT4gf5TQ/edit?gid=0#gid=0&fvid=1290397566). This repo serves as the base for updating which entries from the MasterItems go into the spreadsheet.
 
 This is all just thrown together while I'm procrastinating from work, so the specific process can be streamlined and optimized.
 
