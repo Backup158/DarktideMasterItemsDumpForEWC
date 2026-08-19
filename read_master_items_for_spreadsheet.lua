@@ -34,24 +34,35 @@ file = io.open("master_items_attachments_for_spreadsheet.txt", "w")
 for name, table_entry in pairs(master_items) do
     -- These are some common cases we can catch
     -- The "and true" basically means "include this"
-    --  To no include it, change it to "and false" like I have for chained rig
+    --  To not include it, change it to "and false"
     local entry_is_player_weapon_attachment = (table_entry.item_type == "WEAPON_ATTACHMENT (string)") and true
     local entry_is_player_trinket = (table_entry.attach_node == "ap_trinket (string)") and true
     local entry_is_grenade = (string_find(name, "content/items/weapons/player/grenade")) and true
     local entry_is_bullets = (string_find(name, "content/items/weapons/player/ranged/bullets")) and true
-    local entry_is_throwing_knife = (table_entry.base_unit and string_find(table_entry.base_unit, "throwing_knife")) and true
-    local entry_is_deployable = (table_entry.base_unit and string_find(table_entry.base_unit, "pickups")) and true
-    local entry_is_chained_rig = (table_entry.base_unit and string_find(table_entry.base_unit, "chained_rig")) and false
     local entry_is_enemy_weapon = (string_find(name, "content/items/weapons/minions/")) and true
 
-    if entry_is_player_weapon_attachment or 
+    -- some weapon attachments count as chained rig
+    -- so I have this section of logic to avoid that
+    local entry_is_throwing_knife = table_entry.base_unit and string_find(table_entry.base_unit, "throwing_knife")
+    local allow_throwing_knife = true
+    local entry_is_deployable = table_entry.base_unit and string_find(table_entry.base_unit, "pickups")
+    local allow_deployable = true
+    local entry_is_chained_rig = table_entry.base_unit and string_find(table_entry.base_unit, "chained_rig")
+    local allow_chained_rig = false
+    local base_unit_contains_evil_ass_option = false
+    if (entry_is_throwing_knife and not allow_throwing_knife) or
+        (entry_is_deployable and not allow_deployable) or
+        (entry_is_chained_rig and not allow_chained_rig)
+    then
+        base_unit_contains_evil_ass_option = true
+    end
+
+    if (not base_unit_contains_evil_ass_option) and 
+    (entry_is_player_weapon_attachment or 
     entry_is_player_trinket or 
     entry_is_grenade or 
     entry_is_bullets or 
-    entry_is_throwing_knife or 
-    entry_is_deployable or 
-    entry_is_chained_rig or 
-    entry_is_enemy_weapon then
+    entry_is_enemy_weapon) then
         file:write(name.."\t"..get_string_of_base_unit_and_slot(table_entry).."\n")
     --[[
     -- This would also print gear, eye color, etc.
