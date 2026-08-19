@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,maximum-scale=2">
+    <link rel="stylesheet" type="text/css" media="screen" href="/assets/css/style.css?v=53161df075d07f660e4180cb8efe641a27fe536b">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Darktide: MasterItems Dump | Helpers for updating the MasterItems analysis spreadsheet.</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="Darktide: MasterItems Dump" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Helpers for updating the MasterItems analysis spreadsheet." />
+<meta property="og:description" content="Helpers for updating the MasterItems analysis spreadsheet." />
+<link rel="canonical" href="http://localhost:4000/" />
+<meta property="og:url" content="http://localhost:4000/" />
+<meta property="og:site_name" content="Darktide: MasterItems Dump" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Darktide: MasterItems Dump" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","description":"Helpers for updating the MasterItems analysis spreadsheet.","headline":"Darktide: MasterItems Dump","name":"Darktide: MasterItems Dump","url":"http://localhost:4000/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  <style>.markdown-alert{padding:.5rem 1rem;margin-bottom:1rem;color:inherit;border-left:.25em solid #30363d}.markdown-alert>:first-child{margin-top:0}.markdown-alert>:last-child{margin-bottom:0}.markdown-alert .markdown-alert-title{display:flex;font-weight:500;align-items:center;line-height:1}.markdown-alert svg{margin-right:.5rem!important}.markdown-alert svg path{fill:currentColor}.markdown-alert.markdown-alert-note{border-left-color:#4493f8}.markdown-alert.markdown-alert-note .markdown-alert-title{color:#4493f8}.markdown-alert.markdown-alert-important{border-left-color:#ab7df8}.markdown-alert.markdown-alert-important .markdown-alert-title{color:#ab7df8}.markdown-alert.markdown-alert-warning{border-left-color:#9e6a03}.markdown-alert.markdown-alert-warning .markdown-alert-title{color:#d29922}.markdown-alert.markdown-alert-tip{border-left-color:#238636}.markdown-alert.markdown-alert-tip .markdown-alert-title{color:#3fb950}.markdown-alert.markdown-alert-caution{border-left-color:#da3633}.markdown-alert.markdown-alert-caution .markdown-alert-title{color:#f85149}</style></head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          
+            <a id="forkme_banner" href="https://github.com/Backup158/DarktideMasterItemsDumpForEWC">View on GitHub</a>
+          
+
+          <h1 id="project_title">Darktide: MasterItems Dump</h1>
+          <h2 id="project_tagline">Helpers for updating the MasterItems analysis spreadsheet.</h2>
+
+          
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <p>For use with the <a href="https://docs.google.com/spreadsheets/d/13eLMZGCbE6iU02jESu1ncxSvK3E2GO5n30kPT4gf5TQ/edit?gid=0#gid=0&amp;fvid=1290397566">EWC community spreadsheet</a>. This repo serves as the base for updating which entries from the MasterItems go into the spreadsheet.</p>
+<p>This is all just thrown together while I'm procrastinating from work, so the specific process can be streamlined and optimized.</p>
+<h1 id="how-to-use">How to Use</h1>
+<ol>
+<li>Clone this repository somewhere.</li>
+<li>Export the MasterItems table with the <a href="https://www.nexusmods.com/warhammer40kdarktide/mods/822">master_items_export</a> mod.
+<ul>
+<li>Contents will be dumped into the AppData folder: <code>%AppData%\Fatshark\Darktide\master_items_export</code>.</li>
+<li>See <a href="https://dmf-docs.darkti.de/#/faqs?id=what-is-and-where-is-the-appdata-folder">this</a> for help finding the AppData folder.</li>
+</ul>
+</li>
+<li>Move the latest MasterItems dump into this repo.
+<ul>
+<li>The file will be named something like <code>master_items_export_v133319_1786176329</code>.</li>
+<li>The numbers will depend on the game version.</li>
+</ul>
+</li>
+<li>Rename the dump to <code>master_items_export.lua</code>.
+<ul>
+<li>The file itself is a lua file but has no extension by default (if there's already one, you don't need to add another).</li>
+<li>This is so the script knows which one to read regardless of version. There's many ways to accomplish this, but the listed instruction is the simplest.</li>
+</ul>
+</li>
+<li>Run the script.
+<ul>
+<li>I found the easiest way was through the terminal: <code>lua read_master_items_for_spreadsheet.lua</code>
+<ul>
+<li>Make sure you have Lua installed!</li>
+<li>I had to run (on a Debian-based Linux distro) <code>sudo apt install lua5.4</code></li>
+</ul>
+</li>
+<li>You could probably do this through an IDE or something.</li>
+</ul>
+</li>
+<li>Open the resulting <code>master_items_attachments_for_spreadsheet.txt</code> in a text editor.</li>
+<li>Sort the list into alphabetical order with your text editor. There has to be a better way than this, but I'm lazy :D</li>
+<li>Compare the differences between that text file and the reference text file from this repo.
+<ul>
+<li>I used <a href="https://meldmerge.org/">Meld</a> to highlight differences.</li>
+<li>It doesn't matter exactly how you do it.</li>
+</ul>
+</li>
+<li>Find where new items will be inserted, and add the row into the spreadsheet.
+<ul>
+<li>This pretty tedious. Feedback and contributions are welcome.</li>
+<li>E.g. You find a new lasgun barrel: <code>content/items/weapons/player/ranged/barrels/lasgun_rifle_barrel_69</code>
+<ol>
+<li>Search for <code>content/items/weapons/player/ranged/barrels/lasgun_rifle_barrel</code> in the spreadsheet</li>
+<li>You see that <code>content/items/weapons/player/ranged/barrels/lasgun_rifle_barrel_11</code> is the last one there (besides the master <code>ml01</code> one)</li>
+<li>Right click the row below where you want to insert (so here, right click the one for <code>barrel_ml01</code>)</li>
+<li>Select &quot;Insert 1 table row above&quot;</li>
+<li>Copy the relevant line from <code>master_items_attachments_for_spreadsheet.txt</code></li>
+<li>On the spreadsheet, paste it into the new row, in the &quot;Name Address&quot; column</li>
+</ol>
+</li>
+<li>Edits you make will count as a &quot;Suggestion&quot; and will need me to review and approve it.</li>
+</ul>
+</li>
+</ol>
+<div class='markdown-alert markdown-alert-tip'><p class='markdown-alert-title'><svg data-component="Octicon" class="octicon octicon-light-bulb" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 0 1-1.484.211c-.04-.282-.163-.547-.37-.847a8.456 8.456 0 0 0-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.751.751 0 0 1-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75ZM5.75 12h4.5a.75.75 0 0 1 0 1.5h-4.5a.75.75 0 0 1 0-1.5ZM6 15.25a.75.75 0 0 1 .75-.75h2.5a.75.75 0 0 1 0 1.5h-2.5a.75.75 0 0 1-.75-.75Z"></path></svg> Tip</p><p>It's CRITICAL to insert new rows for each new attachment instead of just copying over the whole list. 99% of the reason the spreadsheet exists is to link (pictures, name address, comments). By pasting the whole new list at once, it breaks the relationship between them, because now the pictures and comments may not match up with the correct name address!</p>
+<p>Someone may mention a database would be more suited for this. I don't know how to do that in an easily sharable and editable way. Suggestions and contributions are welcome though!</p>
+</div>
+
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        
+        <p class="copyright">Darktide: MasterItems Dump maintained by <a href="https://github.com/Backup158">Backup158</a></p>
+        
+        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
+      </footer>
+    </div>
+  </body>
+</html>
