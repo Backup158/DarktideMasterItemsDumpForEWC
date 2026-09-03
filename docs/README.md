@@ -1,41 +1,27 @@
-For use with the [EWC community spreadsheet](https://docs.google.com/spreadsheets/d/13eLMZGCbE6iU02jESu1ncxSvK3E2GO5n30kPT4gf5TQ/edit?gid=0#gid=0&fvid=1290397566). This repo serves as the base for updating which entries from the MasterItems go into the spreadsheet.
+The Google Sheets plan was more trouble than it was worth. Let's create a new plan.
 
-This is all just thrown together while I'm procrastinating from work, so the specific process can be streamlined and optimized.
+# Hosting the Attachments Library on GitHub Pages
+1. Extract the game files
+2. Read the attachment > weapon folder (?) relationships
+3. Generate a manifest or some other guide file listing these out
+    1. Create the base entry for the type of attachment you want to find (e.g "Stocks")
+    2. Have something to look through each weapon folder in content/weapons/player/ranged/ and see if it finds any attachment folders named "stock_*". Or something involving the folder paths
+    3. if it finds any attachment folders with that name, create the weapon entry in the table based off of the weapon folder it's currently in (e.g if it's currently looking through the "autogun_rifle" folder, it'll create an entry with that name\*) 
+    4. then if it makes that weapon entry, go through and add each attachment named "stock_*" as a sub-entry
+    5. repeat until it's gone through each weapon folder to find stocks, then go through the next attachment category
+    6. if you wanted to overcomplicate it, you could potentially even create a localisation table, so if it finds "autogun_rifle_ak" for example, it converts to "Braced Autogun"
+4. Upload the manifest into the repo
+5. Have the GitHub Page with the code to dynamically fill out the attachment names using that manifest
+6. Read the master_items dump for supplementary information on each attachment
+    - Just need the base_unit, since the item address is the file address
+    - The item address is how we'll find which row to edit
+7. Dynamically add that info to each row on the GitHub Page
+8. Have our separate images/notes created, with some mapping to each attachment
+    - I imagine it'll be a json, mapped by the item address
+    - `{ "content/items/weapons/player/ranged/stocks/plasma_rifle_stock_04" = "Notes as one big string. Could there be markdown with this? A question for later "}`
+    - I'm not sure how images would go. Maybe instead of `"item address" = "notes in a string"`, it's `"item address" = {"notes" = "note", "image_urls" = ["url1"] }`
+9. Also dynamically add that to each row on the page
 
-# How to Use
-1. Clone this repository somewhere.
-2. Export the MasterItems table with the [master_items_export](https://www.nexusmods.com/warhammer40kdarktide/mods/822) mod.
-    - Contents will be dumped into the AppData folder: `%AppData%\Fatshark\Darktide\master_items_export`.
-    - See [this](https://dmf-docs.darkti.de/#/faqs?id=what-is-and-where-is-the-appdata-folder) for help finding the AppData folder.
-3. Move the latest MasterItems dump into this repo.
-    - The file will be named something like `master_items_export_v133319_1786176329`.
-    - The numbers will depend on the game version.
-4. Rename the dump to `master_items_export.lua`.
-    - The file itself is a lua file but has no extension by default (if there's already one, you don't need to add another).
-    - This is so the script knows which one to read regardless of version. There's many ways to accomplish this, but the listed instruction is the simplest.
-5. Run the script.
-    - I found the easiest way was through the terminal: `lua read_master_items_for_spreadsheet.lua`
-        - Make sure you have Lua installed! 
-        - I had to run (on a Debian-based Linux distro) `sudo apt install lua5.4`
-    - You could probably do this through an IDE or something.
-6. Open the resulting `master_items_attachments_for_spreadsheet.txt` in a text editor.
-7. Sort the list into alphabetical order with your text editor. There has to be a better way than this, but I'm lazy :D
-8. Compare the differences between that text file and the reference text file from this repo.
-    - I used [Meld](https://meldmerge.org/) to highlight differences.
-    - It doesn't matter exactly how you do it.
-9. Find where new items will be inserted, and add the row into the spreadsheet.
-    - This pretty tedious. Feedback and contributions are welcome.
-    - E.g. You find a new lasgun barrel: `content/items/weapons/player/ranged/barrels/lasgun_rifle_barrel_69`
-        1. Search for `content/items/weapons/player/ranged/barrels/lasgun_rifle_barrel` in the spreadsheet
-        2. You see that `content/items/weapons/player/ranged/barrels/lasgun_rifle_barrel_11` is the last one there (besides the master `ml01` one)
-        3. Right click the row below where you want to insert (so here, right click the one for `barrel_ml01`)
-        4. Select "Insert 1 table row above"
-        5. Copy the relevant line from `master_items_attachments_for_spreadsheet.txt`
-        6. On the spreadsheet, paste it into the new row, in the "Name Address" column
-    - Edits you make will count as a "Suggestion" and will need me to review and approve it.
+The end result is probably something like this:
 
->[!Tip]
->
->It's CRITICAL to insert new rows for each new attachment instead of just copying over the whole list. 99% of the reason the spreadsheet exists is to link (pictures, name address, comments). By pasting the whole new list at once, it breaks the relationship between them, because now the pictures and comments may not match up with the correct name address!
->
->Someone may mention a database would be more suited for this. I don't know how to do that in an easily sharable and editable way. Suggestions and contributions are welcome though!
+![webpage mockup](.assets/infrastructure_drafts/masteritem_dump_mockup.png)
