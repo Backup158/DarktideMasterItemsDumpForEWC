@@ -31,12 +31,15 @@ The Google Sheets plan was more trouble than it was worth. Let's create a new pl
 1. Read the master_items dump for supplementary information on each attachment
     - Just need the base_unit, since the item address is the file address
     - The item address is how we'll find which row to edit
+    - hm the attachment point (ap_stock_01) could help too
 2. Dynamically add that info to each row on the GitHub Page
 3. Have our separate images/notes created, with some mapping to each attachment
     - I imagine it'll be a json, mapped by the item address
     - `{ "content/items/weapons/player/ranged/stocks/plasma_rifle_stock_04" = "Notes as one big string. Could there be markdown with this? A question for later "}`
     - I'm not sure how images would go. Maybe instead of `"item address" = "notes in a string"`, it's `"item address" = {"notes" = "note", "image_urls" = ["url1"] }`
 4. Also dynamically add that to each row on the page
+
+
 
 >[!WARNING]
 > 
