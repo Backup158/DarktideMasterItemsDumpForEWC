@@ -24,7 +24,7 @@ The Google Sheets plan was more trouble than it was worth. Let's create a new pl
 
 The end result is probably something like this:
 
-![webpage mockup](.assets/infrastructure_drafts/masteritem_dump_mockup.png)
+![webpage mockup](./assets/infrastructure_drafts/masteritem_dump_mockup.png)
 
 >[!WARNING]
 > 
