@@ -25,3 +25,13 @@ The Google Sheets plan was more trouble than it was worth. Let's create a new pl
 The end result is probably something like this:
 
 ![webpage mockup](.assets/infrastructure_drafts/masteritem_dump_mockup.png)
+
+>[!WARNING]
+> 
+> Getting the images will be very tedious
+> 
+> There should be a way to automate this, but still allow the flexibility of manually added images
+> 
+> The "working" plan is to somehow create a Blender script which renders all attachments --> displays them one frame at a time --> screenshots each frame and names the file after the file address --> dump that in the repo --> dynamically fill rows based on that
+> 
+> In theory, could this be made to have an exploded view of each part, with the nodes/sub-meshes clearly labelled?
