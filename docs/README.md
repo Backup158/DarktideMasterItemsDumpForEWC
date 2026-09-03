@@ -1,8 +1,15 @@
 The Google Sheets plan was more trouble than it was worth. Let's create a new plan.
 
 # Hosting the Attachments Library on GitHub Pages
+## Establish the Relationships Between Weapon Family and Attachments
 1. Extract the game files
+    - Use [limn](https://github.com/ManShanko/limn)
+    - idk the specifics because I got no more drive space 
 2. Read the attachment > weapon folder (?) relationships
+    1. Go through `content/weapons/player/ranged` and `melee`
+    2. Check each immediate subfolder. We will use that as the Slot (with a default generic fallback slot)
+    3. Inside each are the attachments?
+    - pls verify I wrote this on the toilet
 3. Generate a manifest or some other guide file listing these out
     1. Create the base entry for the type of attachment you want to find (e.g "Stocks")
     2. Have something to look through each weapon folder in content/weapons/player/ranged/ and see if it finds any attachment folders named "stock_*". Or something involving the folder paths
@@ -10,21 +17,26 @@ The Google Sheets plan was more trouble than it was worth. Let's create a new pl
     4. then if it makes that weapon entry, go through and add each attachment named "stock_*" as a sub-entry
     5. repeat until it's gone through each weapon folder to find stocks, then go through the next attachment category
     6. if you wanted to overcomplicate it, you could potentially even create a localisation table, so if it finds "autogun_rifle_ak" for example, it converts to "Braced Autogun"
+    - I imagine this would be `attachment_to_weapon_family_manifest.json` or something
 4. Upload the manifest into the repo
-5. Have the GitHub Page with the code to dynamically fill out the attachment names using that manifest
-6. Read the master_items dump for supplementary information on each attachment
+
+## Generate the Website on GitHub Pages
+1. Have some basic HTML/CSS. The end result is probably something like this:
+
+![webpage mockup](./assets/infrastructure_drafts/masteritem_dump_mockup.png)
+
+2. Have JavaScript or something to read the manifest, then dynamically create the collapsible side bars, and create rows for each attachment in each section
+
+## Flesh Out Each Attachment Row
+1. Read the master_items dump for supplementary information on each attachment
     - Just need the base_unit, since the item address is the file address
     - The item address is how we'll find which row to edit
-7. Dynamically add that info to each row on the GitHub Page
-8. Have our separate images/notes created, with some mapping to each attachment
+2. Dynamically add that info to each row on the GitHub Page
+3. Have our separate images/notes created, with some mapping to each attachment
     - I imagine it'll be a json, mapped by the item address
     - `{ "content/items/weapons/player/ranged/stocks/plasma_rifle_stock_04" = "Notes as one big string. Could there be markdown with this? A question for later "}`
     - I'm not sure how images would go. Maybe instead of `"item address" = "notes in a string"`, it's `"item address" = {"notes" = "note", "image_urls" = ["url1"] }`
-9. Also dynamically add that to each row on the page
-
-The end result is probably something like this:
-
-![webpage mockup](./assets/infrastructure_drafts/masteritem_dump_mockup.png)
+4. Also dynamically add that to each row on the page
 
 >[!WARNING]
 > 
