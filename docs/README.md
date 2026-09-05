@@ -1,6 +1,10 @@
 The Google Sheets plan was more trouble than it was worth. Let's create a new plan.
 
 # Hosting the Attachments Library on GitHub Pages
+We envision the moving part to be something like this:
+
+![chart of moving parts](./assets/infrastructure_drafts/masteritem_dump_workflow.png)
+
 ## Establish the Relationships Between Weapon Family and Attachments
 1. Extract the game files
     - Use [limn](https://github.com/ManShanko/limn)
