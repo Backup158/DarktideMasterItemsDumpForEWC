@@ -19,6 +19,14 @@ In the end, you'll have an "out" folder containing all the game meshes. There wi
 
 ![exported out folder](./assets/images/exported_darktide_out.png)
 
+> [!TIP]
+> 
+> Pay attention to the documentation for limn
+> 
+> Your exact circumstances may require passing different arguments into it
+> 
+> The command I gave was just for example purposes
+
 ## Generate the Website on GitHub Pages
 1. Have some basic HTML/CSS. The end result is probably something like this:
 
@@ -75,15 +83,10 @@ Just a folder we dump all the screenshots into. It'll probably be `docs/assets/i
     1. Render all attachment 
     2. Display them one frame at a time 
     3. Screenshot each frame and names the file after the file name 
+    4. In theory, could this be made to have an exploded view of each part, with the nodes/sub-meshes clearly labelled? That'd be a good second image to make
 2. Manual screenshots for community notes
 
 
 >[!WARNING]
 > 
-> Getting the images will be very tedious
-> 
-> There should be a way to automate this, but still allow the flexibility of manually added images
-> 
-> The "working" plan is to somehow create a Blender script which r
-> 
-> In theory, could this be made to have an exploded view of each part, with the nodes/sub-meshes clearly labelled?
+> Handling the community notes will be tedious as FFFUUUUUUUUUUUU
