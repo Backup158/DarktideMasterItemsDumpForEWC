@@ -53,41 +53,55 @@ end
 local function check_if_table_entry_should_be_logged(file_name, table_entry)
     -- ================
     -- Configuration
+    -- Change these to true/false to include/disclude them
+    -- I'm not doing a table for this since it shouldn't be recreated all the time
     -- ================
+    -- Common Cases
+    local allow_cc_player_weapon_attachment = true
+    local allow_cc_player_trinket = true
+    local allow_cc_grenade = true
+    local allow_cc_bullets = true
+    local allow_cc_enemy_weapon = true
+    -- Evil Ass Base Unit
+    local allow_ea_throwing_knife = true
+    local allow_ea_deployable = true
+    local allow_ea_chained_rig = false
+    --   There is a lot of overlap inside of these, so the check for them is separate
     -- This would also print gear, eye color, etc.
     local allow_body_parts = false
 
-    -- These are some common cases we can catch
-    -- The "and true" basically means "include this"
-    --  To not include it, change it to "and false"
-    local entry_is_player_weapon_attachment = (table_entry.item_type == "WEAPON_ATTACHMENT (string)") and true
-    local entry_is_player_trinket = (table_entry.attach_node == "ap_trinket (string)") and true
-    local entry_is_grenade = (string_find(file_name, "content/items/weapons/player/grenade")) and true
-    local entry_is_bullets = (string_find(file_name, "content/items/weapons/player/ranged/bullets")) and true
-    local entry_is_enemy_weapon = (string_find(file_name, "content/items/weapons/minions/")) and true
-    local final_entry_is_valid = (entry_is_player_weapon_attachment or 
-        entry_is_player_trinket or 
-        entry_is_grenade or 
-        entry_is_bullets or 
-        entry_is_enemy_weapon)
+    -- ================
+    -- Logic Execution
+    -- ================
+    -- Common Cases
+    local entry_is_player_weapon_attachment = (table_entry.item_type == "WEAPON_ATTACHMENT (string)") 
+    local entry_is_player_trinket = (table_entry.attach_node == "ap_trinket (string)") 
+    local entry_is_grenade = (string_find(file_name, "content/items/weapons/player/grenade")) 
+    local entry_is_bullets = (string_find(file_name, "content/items/weapons/player/ranged/bullets")) 
+    local entry_is_enemy_weapon = (string_find(file_name, "content/items/weapons/minions/")) 
+    local final_entry_is_valid = (
+        (entry_is_player_weapon_attachment and allow_cc_player_weapon_attachment) or 
+        (entry_is_player_trinket and allow_cc_player_trinket) or 
+        (entry_is_grenade and allow_cc_grenade) or 
+        (entry_is_bullets and allow_cc_bullets) or 
+        (entry_is_enemy_weapon and allow_cc_enemy_weapon)
+    ) -- Indenting like this makes me a psycho
 
-    -- some weapon attachments count as chained rig
-    -- so I have this section of logic to avoid that
+    -- Evil Ass Base Unit
+    --   Some weapon attachments count as chained rig
+    --   so I have this section of logic to avoid that
     local entry_is_throwing_knife = table_entry.base_unit and string_find(table_entry.base_unit, "throwing_knife")
-    local allow_throwing_knife = true
     local entry_is_deployable = table_entry.base_unit and string_find(table_entry.base_unit, "pickups")
-    local allow_deployable = true
     local entry_is_chained_rig = table_entry.base_unit and string_find(table_entry.base_unit, "chained_rig")
-    local allow_chained_rig = false
     local base_unit_contains_evil_ass_option = false
-    if (entry_is_throwing_knife and not allow_throwing_knife) or
-        (entry_is_deployable and not allow_deployable) or
-        (entry_is_chained_rig and not allow_chained_rig)
+    if (entry_is_throwing_knife and not allow_ea_throwing_knife) or
+        (entry_is_deployable and not allow_ea_deployable) or
+        (entry_is_chained_rig and not allow_ea_chained_rig)
     then
         base_unit_contains_evil_ass_option = true
     end
 
-    if (not base_unit_contains_evil_ass_option) and final_entry_is_valid then
+    if final_entry_is_valid and (not base_unit_contains_evil_ass_option) then
         return true
     elseif allow_body_parts and table_entry.base_unit then
         return true
