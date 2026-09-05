@@ -1,0 +1,238 @@
+{
+  "arc_rifle": {
+    "code_name": "arc_rifle_p1_m1",
+    "real_name": "Arc Rifle"
+  },
+  "autogun_rifle": {
+    "code_name": "autogun_p1_m1",
+    "real_name": "Infantry Autogun"
+  },
+  "autogun_rifle_ak": {
+    "code_name": "autogun_p2_m1",
+    "real_name": "Braced Autogun"
+  },
+  "autogun_rifle_killshot": {
+    "code_name": "autogun_p3_m1",
+    "real_name": "Vigilant Autogun"
+  },
+  "autogun_pistol": {
+    "code_name": ["autopistol_p1_m1", "dual_stubpistols_p1_m1"],
+    "real_name": "Shredder Autopistol/Dual Stub Pistols"
+  },
+  "boltgun_rifle": {
+    "code_name": "bolter_p1_m1",
+    "real_name": "Spearhead Boltgun"
+  },
+  "boltgun_pistol": {
+    "code_name": "boltpistol_p1_m1",
+    "real_name": "Bolt Pistol"
+  },
+  "chain_axe": {
+    "code_name": "chainaxe_p1_m1",
+    "real_name": "Assault Chainaxe"
+  },
+  "2h_chain_sword": {
+    "code_name": "chainsword_2h_p1_m1",
+    "real_name": "Heavy Eviscerator"
+  },
+  "chain_sword": {
+    "code_name": "chainsword_p1_m1",
+    "real_name": "Assault Chainsword"
+  },
+  "axe": {
+    "code_name": "combataxe_p1_m1",
+    "real_name": "Combat Axe"
+  },
+  "hatchet": {
+    "code_name": "combataxe_p2_m1",
+    "real_name": "Tactical Axe"
+  },
+  "shovel": {
+    "code_name": "combataxe_p3_m1",
+    "real_name": "Sapper Shovel"
+  },
+  "combat_knife": {
+    "code_name": "combatknife_p1_m1",
+    "real_name": "Combat Blade"
+  },
+  "combat_sword": {
+    "code_name": "combatsword_p1_m1",
+    "real_name": "\"Devil's Claw\" Sword"
+  },
+  "falchion": {
+    "code_name": "combatsword_p2_m1",
+    "real_name": "Heavy Sword"
+  },
+  "sabre": {
+    "code_name": "combatsword_p3_m1",
+    "real_name": "Dueling Sword"
+  },
+  "crowbar": {
+    "code_name": "crowbar_p1_m1",
+    "real_name": "Crowbar"
+  },
+  "autogun_pistol_compact": {
+    "code_name": "dual_autopistols_p1_m1",
+    "real_name": "Dual Autopistols"
+  },
+  "shiv": {
+    "code_name": "dual_shivs_p1_m1",
+    "real_name": "Shivs"
+  },
+  "flamer_rifle": {
+    "code_name": "flamer_p1_m1",
+    "real_name": "Purgation Flamer"
+  },
+  "force_staff": {
+    "code_name": "forcestaff_p1_m1",
+    "real_name": "Force Staff"
+  },
+  "2h_force_sword": {
+    "code_name": "forcesword_2h_p1_m1",
+    "real_name": "Force Greatsword"
+  },
+  "force_sword": {
+    "code_name": "forcesword_p1_m1",
+    "real_name": "Force Sword"
+  },
+  "galvanic_rifle": {
+    "code_name": "galvanic_rifle_p1_m1",
+    "real_name": "Galvanic Rifle"
+  },
+  "lasgun_rifle": {
+    "code_name": "lasgun_p1_m1",
+    "real_name": "Infantry Lasgun"
+  },
+  "lasgun_rifle_krieg": {
+    "code_name": "lasgun_p2_m1",
+    "real_name": "Helbore Lasgun"
+  },
+  "lasgun_rifle_elysian": {
+    "code_name": "lasgun_p3_m1",
+    "real_name": "Recon Lasgun"
+  },
+  "lasgun_pistol": {
+    "code_name": "laspistol_p1_m1",
+    "real_name": "Heavy Laspistol"
+  },
+  "needle_pistol": {
+    "code_name": "needlepistol_p1_m1",
+    "real_name": "Needle Pistol"
+  },
+  "shovel_ogryn": {
+    "code_name": "ogryn_club_p1_m1",
+    "real_name": "Latrine Shovel"
+  },
+  "ogryn_club_pipe": {
+    "code_name": "ogryn_club_p2_m1",
+    "real_name": "Bully Club"
+  },
+  "combat_blade": {
+    "code_name": "ogryn_combatblade_p1_m1",
+    "real_name": "Cleaver"
+  },
+  "gauntlet_basic": {
+    "code_name": "ogryn_gauntlet_p1_m1",
+    "real_name": "Grenadier Gauntlet"
+  },
+  "stubgun_ogryn": {
+    "code_name": "ogryn_heavystubber_p1_m1",
+    "real_name": "Twin-Linked Heavy Stubber"
+  },
+  "stubgun_ogryn_heavy": {
+    "code_name": "ogryn_heavystubber_p2_m1",
+    "real_name": "Heavy Stubber"
+  },
+  "ogryn_pickaxe": {
+    "code_name": "ogryn_pickaxe_2h_p1_m1",
+    "real_name": "Delver's Pickaxe"
+  },
+  "power_maul": {
+    "code_name": "ogryn_powermaul_p1_m1",
+    "real_name": "Power Maul"
+  },
+  "": {
+    "code_name": "ogryn_powermaul_slabshield_p1_m1",
+    "real_name": "Battle Maul & Slab Shield"
+  },
+  "rippergun_rifle": {
+    "code_name": "ogryn_rippergun_p1_m1",
+    "real_name": "Ripper Gun"
+  },
+  "shotgun_grenade": {
+    "code_name": "ogryn_thumper_p1_m1",
+    "real_name": "Rumbler/Kickback"
+  },
+  "phosphor_pistol": {
+    "code_name": "phosphor_pistol_p1_m1",
+    "real_name": "Phosphor Pistol"
+  },
+  "plasma_rifle": {
+    "code_name": "plasmagun_p1_m1",
+    "real_name": "Plasma Gun"
+  },
+  "2h_power_maul": {
+    "code_name": "powermaul_2h_p1_m1",
+    "real_name": "Crusher"
+  },
+  "human_power_maul": {
+    "code_name": ["powermaul_p1_m1", "powermaul_p2_m1", "powermaul_p3_m1"],
+    "real_name": "Shock Maul/Arbites Shock Maul/Arc Maul"
+  },
+  "assault": {
+    "code_name": "powermaul_shield_p1_m1",
+    "real_name": "Shock Maul and Suppression Shield"
+  },
+  "2h_power_sword": {
+    "code_name": "powersword_2h_p1_m1",
+    "real_name": "Relic Blade"
+  },
+  "power_sword": {
+    "code_name": ["powersword_p1_m1", "powersword_p3_m1"],
+    "real_name": "Power Sword/Mechanicus Power Sword"
+  },
+  "power_falchion": {
+    "code_name": "powersword_p2_m1",
+    "real_name": "Power Falchion"
+  },
+  "saw": {
+    "code_name": "saw_p1_m1",
+    "real_name": "Bone Saw"
+  },
+  "shotgun_rifle": {
+    "code_name": "shotgun_p1_m1",
+    "real_name": "Combat Shotgun"
+  },
+  "shotgun_double_barrel": {
+    "code_name": "shotgun_p2_m1",
+    "real_name": "Double-barrelled Shotgun"
+  },
+  "assault_shotgun": {
+    "code_name": "shotgun_p4_m1",
+    "real_name": "Exterminator Shotgun"
+  },
+  "shotpistol": {
+    "code_name": "shotpistol_shield_p1_m1",
+    "real_name": "Subductor Shotpistol and Riot Shield"
+  },
+  "stubgun_pistol": {
+    "code_name": "stubrevolver_p1_m1",
+    "real_name": "Quickdraw Stub Revolver"
+  },
+  "thunder_hammer": {
+    "code_name": "thunderhammer_2h_p1_m1",
+    "real_name": "Thunder Hammer"
+  },
+  "transonic_knife": {
+    "code_name": "transonic_knife_p1_m1",
+    "real_name": "Paired Transonic Blades (Knife)"
+  },
+  "transonic_sword": {
+    "code_name": "transonic_sword_p1_m1",
+    "real_name": "Paired Transonic Blades (Sword)"
+  },
+  "transonic": {
+    "code_name": "transonic_sword_transonic_knife_p1_m1",
+    "real_name": "Paired Transonic Blades"
+  }
+}
