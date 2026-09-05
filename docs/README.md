@@ -1,4 +1,4 @@
-The Google Sheets plan was more trouble than it was worth. Let's create a new plan.
+The Google Sheets plan was more trouble than it was worth. Let's create a new plan. [Old documents](README_OLD.md) for reference.
 
 # Hosting the Attachments Library on GitHub Pages
 We envision the moving part to be something like this:
