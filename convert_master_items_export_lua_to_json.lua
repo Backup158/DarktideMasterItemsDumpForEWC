@@ -63,6 +63,7 @@ local function check_if_table_entry_should_be_logged(file_name, table_entry)
     local allow_cc_bullets = true
     local allow_cc_enemy_weapon = true
     -- Evil Ass Base Unit
+    --   These get accepted under common cases, but may be considered exceptions
     local allow_ea_throwing_knife = true
     local allow_ea_deployable = true
     local allow_ea_chained_rig = false
