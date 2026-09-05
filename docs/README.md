@@ -37,25 +37,64 @@ In the end, you'll have an "out" folder containing all the game meshes. There wi
 Ideally, this code only runs during building, resulting in static pages (the data is static; the page can still have collapsible sidebars).
 
 ## 1 - Establish the Relationships Between Weapon Family and Attachments
+`attachment_to_weapon_family_manifest.json`
+
 1. Read the attachment > weapon folder (?) relationships
     1. Go through `content/weapons/player/ranged` and `melee`
     2. Check each immediate subfolder. We will use that as the Slot (with a default generic fallback slot)
     3. Inside each are the attachments?
     - pls verify I wrote this on the toilet
-2. Generate a manifest (`attachment_to_weapon_family_manifest.json`) listing these out: v
+2. Generate a manifest listing these out: v
     1. Create the base entry for the type of attachment you want to find (e.g "Stocks")
     2. Have something to look through each weapon folder in content/weapons/player/ranged/ and see if it finds any attachment folders named "stock_*". Or something involving the folder paths
     3. if it finds any attachment folders with that name, create the weapon entry in the table based off of the weapon folder it's currently in (e.g if it's currently looking through the "autogun_rifle" folder, it'll create an entry with that name\*) 
     4. then if it makes that weapon entry, go through and add each attachment named "stock_*" as a sub-entry
     5. repeat until it's gone through each weapon folder to find stocks, then go through the next attachment category
 
+```json
+{
+  "ranged": {
+    "muzzles": {
+      "lasgun_rifle": [
+        "muzzle_01",
+        "muzzle_02"
+      ],
+      "autogun_rifle": [
+        "muzzle_01"
+      ],
+      "misc": [
+        "muzzle_01"
+      ]
+    },
+    "flashlights": { ... }
+  },
+  "melee": { ... }
+}
+```
+
 ## 1.1 - Create a Localization Table for UI/UX on the Pages
+`file_name_localization.lua`
+
 Hand-craft a name guide so it's easier for users to read. We have these names
 - File name: The name used in the actual file name and for the "item" value in the MasterItems. `autogun_rifle_ak`
 - Lua code name: The internal weapon ID in the code. This is how the lua code knows which is which. We only care about the family name (p), so just use the first mark (m) for simplicity. `autogun_p2_m1`
 - Localized name: The actual human-friendly name that shows up in game. `Braced Autogun`
 
 For lua code name to localized name, I would normally do Localize("loc_weapon_family_"..key.code_name), but this isn't running in-game.
+
+```json
+{
+  "lasgun_rifle": {
+    "code_name": "lasgun_p1_m1",
+    "real_name": "Infantry Lasgun"
+  },
+  "lasgun_rifle_krieg": {
+    "code_name": "lasgun_p2_m1",
+    "real_name": "Helbore Lasgun"
+  },
+  ...
+}
+```
 
 ## 2 - MasterItems Export
 1. Install [Master Items Export](https://www.nexusmods.com/warhammer40kdarktide/mods/822)
@@ -65,16 +104,39 @@ For lua code name to localized name, I would normally do Localize("loc_weapon_fa
     - Identify using the file name, which is simple since that's the key as well
     - Track the
         - base_unit address
-        - attachment_point slot
+        - attach_node slot
 
 The website will parse through this file, and add the information based on each row
+
+```json
+{
+  "content/weapons/player/ranged/stocks/plasma_rifle_stock_05": {
+    "base_unit": "content/weapons/player/ranged/plasma_rifle/attachments/stock_05/stock_05",
+    "attach_node": "ap_stock_01"
+  },
+  ...
+}
+```
 
 ## 3 - Create the Community Notess
 Hand-made `community_notes.json` object.
 
 The main fields will be the file name, with an object containing the notes and array of image names.
 
-The images are added separately by hand into the image pool. This json just tells you where in the pool you'll get the image. The exact naming scheme is undecided. Oh yeah.
+The images are added separately by hand into the image pool. This json just tells you where in the pool you'll get the image. 
+
+```json
+{
+  "content/weapons/player/ranged/stocks/plasma_rifle_stock_05": {
+    "notes": "whatever the user wants to say",
+    "additional_images": ["plasma_rifle_stock_05_01.png"]
+  },
+  "content/weapons/player/ranged/sights/reflex_sight_01": {
+    "notes": "kiss your sister",
+    "additional_images": ["1.png"]
+  }
+}
+```
 
 ## 3.1 - The Image Pool
 Just a folder we dump all the screenshots into. It'll probably be `docs/assets/images/pool`.
@@ -85,6 +147,7 @@ Just a folder we dump all the screenshots into. It'll probably be `docs/assets/i
     3. Screenshot each frame and names the file after the file name 
     4. In theory, could this be made to have an exploded view of each part, with the nodes/sub-meshes clearly labelled? That'd be a good second image to make
 2. Manual screenshots for community notes
+    - File naming scheme is up for discussion
 
 
 >[!WARNING]
