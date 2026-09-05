@@ -6,7 +6,10 @@
 -- #################
 local cjson = require("cjson")
 
-local whole_master_items = dofile("master_items_export.lua")
+-- arg[1] is the second cli argument (the one after the name)
+-- Lua is 1-indexed elsewhere, but not here
+local master_items_file_name = arg[1] or "master_items_export.lua"
+local whole_master_items = dofile(master_items_file_name)
 
 -- #################
 -- Performance
