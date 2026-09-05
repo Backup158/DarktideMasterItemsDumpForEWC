@@ -1,6 +1,6 @@
-title: "Darktide: MasterItems Dump"
+title: "Darktide: MasterItems Dump - EWC Library"
 repository: Backup158/DarktideMasterItemsDumpForEWC
-description: "Helpers for updating the MasterItems analysis spreadsheet."
+description: "Helpers for finding individual attachments."
 theme: 'jekyll-theme-slate'
 plugins: 
   - jekyll-gfm-admonitions
