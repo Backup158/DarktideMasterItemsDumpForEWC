@@ -73,7 +73,7 @@ Ideally, this code only runs during building, resulting in static pages (the dat
 ```
 
 ## 1.1 - Create a Localization Table for UI/UX on the Pages
-`file_name_localization.lua`
+`file_name_localization.json`
 
 Hand-craft a name guide so it's easier for users to read. We have these names
 - File name: The name used in the actual file name and for the "item" value in the MasterItems. `autogun_rifle_ak`
