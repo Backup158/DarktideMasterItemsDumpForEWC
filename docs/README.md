@@ -19,6 +19,15 @@ In the end, you'll have an "out" folder containing all the game meshes. There wi
 
 ![exported out folder](./assets/images/exported_darktide_out.png)
 
+## Generate the Website on GitHub Pages
+1. Have some basic HTML/CSS. The end result is probably something like this:
+
+![webpage mockup](./assets/infrastructure_drafts/masteritem_dump_mockup.png)
+
+2. Have JavaScript or something to read the manifest, then dynamically create the collapsible side bars, and create rows for each attachment in each section
+
+Ideally, this code only runs during building, resulting in static pages (the data is static; the page can still have collapsible sidebars).
+
 ## 1 - Establish the Relationships Between Weapon Family and Attachments
 1. Read the attachment > weapon folder (?) relationships
     1. Go through `content/weapons/player/ranged` and `melee`
@@ -50,20 +59,23 @@ For lua code name to localized name, I would normally do Localize("loc_weapon_fa
         - base_unit address
         - attachment_point slot
 
-## Generate the Website on GitHub Pages
-1. Have some basic HTML/CSS. The end result is probably something like this:
+The website will parse through this file, and add the information based on each row
 
-![webpage mockup](./assets/infrastructure_drafts/masteritem_dump_mockup.png)
+## 3 - Create the Community Notess
+Hand-made `community_notes.json` object.
 
-2. Have JavaScript or something to read the manifest, then dynamically create the collapsible side bars, and create rows for each attachment in each section
+The main fields will be the file name, with an object containing the notes and array of image names.
 
-## Flesh Out Each Attachment Row
-3. Have our separate images/notes created, with some mapping to each attachment
-    - I imagine it'll be a json, mapped by the item address
-    - `{ "content/items/weapons/player/ranged/stocks/plasma_rifle_stock_04" = "Notes as one big string. Could there be markdown with this? A question for later "}`
-    - I'm not sure how images would go. Maybe instead of `"item address" = "notes in a string"`, it's `"item address" = {"notes" = "note", "image_urls" = ["url1"] }`
-4. Also dynamically add that to each row on the page
+The images are added separately by hand into the image pool. This json just tells you where in the pool you'll get the image. The exact naming scheme is undecided. Oh yeah.
 
+## 3.1 - The Image Pool
+Just a folder we dump all the screenshots into. It'll probably be `docs/assets/images/pool`.
+
+1. Get the basic images from the extracted data, by making a script with Blender + Python
+    1. Render all attachment 
+    2. Display them one frame at a time 
+    3. Screenshot each frame and names the file after the file name 
+2. Manual screenshots for community notes
 
 
 >[!WARNING]
@@ -72,6 +84,6 @@ For lua code name to localized name, I would normally do Localize("loc_weapon_fa
 > 
 > There should be a way to automate this, but still allow the flexibility of manually added images
 > 
-> The "working" plan is to somehow create a Blender script which renders all attachments --> displays them one frame at a time --> screenshots each frame and names the file after the file address --> dump that in the repo --> dynamically fill rows based on that
+> The "working" plan is to somehow create a Blender script which r
 > 
 > In theory, could this be made to have an exploded view of each part, with the nodes/sub-meshes clearly labelled?
