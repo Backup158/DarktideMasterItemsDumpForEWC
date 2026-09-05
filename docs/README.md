@@ -4,7 +4,13 @@ The Google Sheets plan was more trouble than it was worth. Let's create a new pl
 ## Establish the Relationships Between Weapon Family and Attachments
 1. Extract the game files
     - Use [limn](https://github.com/ManShanko/limn)
-    - idk the specifics because I got no more drive space 
+        - Run in command line (use wine if on Linux)
+        - Or do it in Blender using the [Bitsquid tools and limn](https://gitlab.com/qasikfwn/bitsquid-blender-tools/-/wikis/home/Extracting-game-files)
+    - Make sure you get the linked dictionary from the [Bitsquid Blender Tools repository](https://gitlab.com/qasikfwn/bitsquid-blender-tools)
+        - Make sure you use the flag `limn --dict dictionary_hashcat_dt.txt`
+        - This gives file names instead of just lxkjoiu8013fnu AAAAAAAA
+    - It's the packages, so make sure you have **110 GB** of free space
+    - For me, I ran limn with wine like `wine limn-0.7.2-x86_64-pc-windows-msvc/limn.exe --dict dictionary_hashcat_dt.txt -i "/mnt/data/SteamLibrary/steamapps/common/Warhammer 40,000 DARKTIDE/bundle" package`
 2. Read the attachment > weapon folder (?) relationships
     1. Go through `content/weapons/player/ranged` and `melee`
     2. Check each immediate subfolder. We will use that as the Slot (with a default generic fallback slot)
