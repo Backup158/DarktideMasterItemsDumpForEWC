@@ -50,10 +50,13 @@ local function get_string_of_keys_as_values(master_item_table_entry, array_of_ke
     return keys_return_table
 end
 
--- ##################################
--- Execution
--- ##################################
-for file_name, table_entry in pairs(master_items) do
+local function check_if_table_entry_should_be_logged(file_name, table_entry)
+    -- ================
+    -- Configuration
+    -- ================
+    -- This would also print gear, eye color, etc.
+    local allow_body_parts = false
+
     -- These are some common cases we can catch
     -- The "and true" basically means "include this"
     --  To not include it, change it to "and false"
@@ -62,6 +65,11 @@ for file_name, table_entry in pairs(master_items) do
     local entry_is_grenade = (string_find(file_name, "content/items/weapons/player/grenade")) and true
     local entry_is_bullets = (string_find(file_name, "content/items/weapons/player/ranged/bullets")) and true
     local entry_is_enemy_weapon = (string_find(file_name, "content/items/weapons/minions/")) and true
+    local final_entry_is_valid = (entry_is_player_weapon_attachment or 
+        entry_is_player_trinket or 
+        entry_is_grenade or 
+        entry_is_bullets or 
+        entry_is_enemy_weapon)
 
     -- some weapon attachments count as chained rig
     -- so I have this section of logic to avoid that
@@ -79,20 +87,22 @@ for file_name, table_entry in pairs(master_items) do
         base_unit_contains_evil_ass_option = true
     end
 
-    if (not base_unit_contains_evil_ass_option) and 
-    (entry_is_player_weapon_attachment or 
-    entry_is_player_trinket or 
-    entry_is_grenade or 
-    entry_is_bullets or 
-    entry_is_enemy_weapon) then
-        lua_data[file_name] = get_string_of_keys_as_values(table_entry, desired_master_items_keys)
-    --[[
-    -- This would also print gear, eye color, etc.
-    elseif table_entry.base_unit then
-        lua_data[file_name] = get_string_of_keys_as_values(table_entry, desired_master_items_keys)
+    if (not base_unit_contains_evil_ass_option) and final_entry_is_valid then
+        return true
+    elseif allow_body_parts and table_entry.base_unit then
+        return true
     else
-        print(name.." has no base_unit")
-    ]]
+        return false
+    end
+end
+
+-- ##################################
+-- Execution
+-- ##################################
+for file_name, table_entry in pairs(master_items) do
+    local should_write_data = check_if_table_entry_should_be_logged(file_name, table_entry)
+    if should_write_data then
+        lua_data[file_name] = get_string_of_keys_as_values(table_entry, desired_master_items_keys)
     end
 end
 
