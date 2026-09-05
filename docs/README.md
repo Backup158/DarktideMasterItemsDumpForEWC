@@ -150,6 +150,25 @@ Just a folder we dump all the screenshots into. It'll probably be `docs/assets/i
     - File naming scheme is up for discussion
 
 
->[!WARNING]
+> [!WARNING]
 > 
 > Handling the community notes will be tedious as FFFUUUUUUUUUUUU
+
+# Plan and Execution (S6 E7)
+## MasterItems Conversion
+I created a lua script that would read the lua export then convert it json.
+
+Requires:
+- lua
+- cjson
+
+If you don't have cjson installed, install it (on Ubuntu) by running `apt install luarocks` then `sudo luarocks install lua-cjson`. Other options are [in the docs](https://kyne.au/%7Emark/software/lua-cjson-manual.html#_installation).
+
+### Running
+After that, run it in lua: `lua -i convert_master_items_export_lua_to_json.lua master_items_export_vXXXXXXXX.lua`
+
+It runs on whichever first file you give it. If given nothing, it defaults to `master_items_export.lua`
+
+Note that it may be some things you don't want (bullets, enemy weapons, etc.). If you don't want those, edit the file and look for the commented banner CONFIG section.
+
+This generates `master_items_export.json`. Cjson is evil so it goes all on one line. You won't need to read this, so just ignore it. Also note that it escapes the forward slashes for HTML compatibility.
