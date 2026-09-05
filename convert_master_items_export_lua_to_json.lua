@@ -121,15 +121,18 @@ for file_name, table_entry in pairs(master_items) do
     local should_write_data = check_if_table_entry_should_be_logged(file_name, table_entry)
     if should_write_data then
         lua_data[file_name] = get_string_of_keys_as_values(table_entry, desired_master_items_keys)
+        print("Adding to table: "..file_name)
     end
 end
 
 -- Convert to json
+print("Converting to json")
 local json_output = cjson.encode(lua_data)
 local file = io.open("master_items_export.json", "w")
 if file then 
     file:write(json_output)
     file:close()
+    print("Let's go")
 else
     print("Failed to create Json file. All your work was for naught.")
 end
