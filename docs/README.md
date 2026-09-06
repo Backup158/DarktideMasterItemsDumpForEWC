@@ -76,9 +76,11 @@ Ideally, this code only runs during building, resulting in static pages (the dat
 `file_name_localization.json`
 
 Hand-craft a name guide so it's easier for users to read. We have these names
-- File name: The name used in the actual file name and for the "item" value in the MasterItems. `autogun_rifle_ak`
-- Lua code name: The internal weapon ID in the code. This is how the lua code knows which is which. We only care about the family name (p), so just use the first mark (m) for simplicity. `autogun_p2_m1`
-- Localized name: The actual human-friendly name that shows up in game. `Braced Autogun`
+- File name: The name used in the actual file name and for the "item" value in the MasterItems. `"autogun_rifle_ak"`
+- Lua code name: The internal weapon ID in the code. This is how the lua code knows which is which. We only care about the family name (p), so just use the first mark (m) for simplicity. `"autogun_p2_m1"`
+  - However, some file names are used for multiple actual weapons
+  - In those cases, use an array. `["powersword_p1_m1", "powersword_p3_m1"]`
+- Localized name: The actual human-friendly name that shows up in game. `"Braced Autogun"`
 
 For lua code name to localized name, I would normally do Localize("loc_weapon_family_"..key.code_name), but this isn't running in-game.
 
