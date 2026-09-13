@@ -135,11 +135,11 @@
     "code_name": "ogryn_gauntlet_p1_m1",
     "real_name": "Grenadier Gauntlet"
   },
-  "stubgun_ogryn": {
+  "stubgun_ogryn_heavy": {
     "code_name": "ogryn_heavystubber_p1_m1",
     "real_name": "Twin-Linked Heavy Stubber"
   },
-  "stubgun_ogryn_heavy": {
+  "stubgun_ogryn": {
     "code_name": "ogryn_heavystubber_p2_m1",
     "real_name": "Heavy Stubber"
   },
