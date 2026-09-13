@@ -44,7 +44,7 @@ Ideally, this code only runs during building, resulting in static pages (the dat
     2. Check each immediate subfolder. We will use that as the Slot (with a default generic fallback slot)
     3. Inside each are the attachments?
     - pls verify I wrote this on the toilet
-2. Generate a manifest listing these out: v
+2. Generate a manifest listing these out:
     1. Create the base entry for the type of attachment you want to find (e.g "Stocks")
     2. Have something to look through each weapon folder in content/weapons/player/ranged/ and see if it finds any attachment folders named "stock_*". Or something involving the folder paths
     3. if it finds any attachment folders with that name, create the weapon entry in the table based off of the weapon folder it's currently in (e.g if it's currently looking through the "autogun_rifle" folder, it'll create an entry with that name\*) 
