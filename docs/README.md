@@ -12,8 +12,8 @@ We envision the moving part to be something like this:
 - Make sure you get the linked dictionary from the [Bitsquid Blender Tools repository](https://gitlab.com/qasikfwn/bitsquid-blender-tools)
     - Make sure you use the flag `limn --dict dictionary_hashcat_dt.txt`
     - This gives file names instead of just lxkjoiu8013fnu AAAAAAAA
-- It's the packages, so make sure you have **110 GB** of free space
-- For me, I ran limn with wine like `wine limn-0.7.2-x86_64-pc-windows-msvc/limn.exe --dict dictionary_hashcat_dt.txt -i "/mnt/data/SteamLibrary/steamapps/common/Warhammer 40,000 DARKTIDE/bundle" package`
+- It's the units, so make sure you have **110 GB** of free space
+- For me, I ran limn with Wine, like `wine limn-0.7.2-x86_64-pc-windows-msvc/limn.exe --dict dictionary_hashcat_dt.txt -i "/mnt/data/SteamLibrary/steamapps/common/Warhammer 40,000 DARKTIDE/bundle" unit`
 
 In the end, you'll have an "out" folder containing all the game meshes. There will be some unclear names, but the dictionary means you'll have the attachments named normally.
 
