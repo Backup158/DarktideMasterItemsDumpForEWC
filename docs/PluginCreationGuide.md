@@ -16,10 +16,12 @@ Some of the exact ordering can be rearranged, but the important thing is that it
 4. Consult the [EWC wiki](https://github.com/grasmann/darktide-mods/wiki/EWC-%E2%80%90-001-Plugin-Definition) for technical details.
 
 # Glossary
+### Discord and FAQ
 Before you start, join us in the [Darktide Modders Discord](https://discord.gg/rKYWtaDx4D). This is basically the only place we congregate, and most knowledge/help on EWC is buried in there. Most discussion occurs in *#weapon-customization-mod*. 
 
 General information on EWC (for users) is kept at the [EWC FAQ](https://backup158.github.io/DarktideWeaponCustomizationOwO/EWC_FAQ), which I may refer to at times. This includes links to all the other plugins the community has shared, for reference.
 
+### Tables
 One little thing about coding. Lua structures things as "tables" which are the curly braces: `{ ... }`. Tables are used to store multiple things stored under one name, such as: `fruits = {"apple", "banana", "tomato"}`. So when you say `fruits`, you're getting this table of three fruit. Inside tables are "key-value" pairs: `name = "Pho Khun Ramkhamhaeng the Great"`. The key is the identifier, and value is... value, which can some text or even another table. Now, you may hear that look at the earlier table, and wonder where the keys are. Under the hood, when you don't give any keys, it just goes like this:
 
 ```
@@ -32,7 +34,13 @@ fruits = {
 
 So you can write `fruits[2]` to get `"banana"`. You can go into the nitty gritty in the [Lua reference manual](https://lua.org/manual/5.5/), but that's really not essential for an EWC plugin. You just need to know the basics of tables, since we'll be referring to those a lot.
 
+### MasterItems
 I'll also refer to a MasterItems dump/export. This is a table containing all equipment in Darktide. You can get it by following the instructions on the [main page of this repository](README.md) (if that link doesn't work, [go here](https://backup158.github.io/DarktideMasterItemsDumpForEWC/)
+
+### Hot-reload
+~~When you change a magazine and it presses its forehead against yours.~~ Basically, making all the mods quit then act as if the game just opened again. This is like a shortcut for restarting the game in most cases, but be warned that it is not always accurate to an actual restart. Doing it too often without closing the game will also eventually leak enough memory to crash.
+
+In Mod Options --> Darktide Mod Framework --> turn on Developer Mode. Then it'll be CTRL + SHIFT + R by default, which can be rebinded in that same menu.
 
 # Making a Mod
 Make a new mod using the [Darktide Mod Builder script](https://dmf-docs.darkti.de/#/creating-mods). You need to define a table `mod.extended_weapon_customization_plugin`; just copy this [template from the wiki](https://github.com/grasmann/darktide-mods/wiki/EWC-%E2%80%90-001-Plugin-Definition) or the [example plugin](https://github.com/grasmann/darktide-mods/blob/main/ewc_example_plugin_2/scripts/mods/ewc_example_plugin_2/ewc_example_plugin_2.lua). The wiki has a lot of good information, but it's a bit technical. Starting from zero, I would avoid it for now. The example plugin, on the other hand, is written for beginners. These give a good description of what each part means. 
