@@ -136,6 +136,7 @@ content/items/weapons/player/melee/blades/combat_knife_blade_07	content/weapons/
 content/items/weapons/player/melee/blades/combat_knife_blade_08	content/weapons/player/melee/combat_knife/attachments/blade_08/blade_08	ap_blade_01
 content/items/weapons/player/melee/blades/combat_knife_blade_09	content/weapons/player/melee/combat_knife/attachments/blade_09/blade_09	ap_blade_01
 content/items/weapons/player/melee/blades/combat_knife_blade_10	content/weapons/player/melee/combat_knife/attachments/blade_10/blade_10	ap_blade_01
+content/items/weapons/player/melee/blades/combat_knife_blade_11	content/weapons/player/melee/combat_knife/attachments/blade_11/blade_11	ap_blade_01
 content/items/weapons/player/melee/blades/combat_knife_blade_ml01	content/weapons/player/melee/combat_knife/attachments/blade_ml01/blade_ml01	ap_blade_01
 content/items/weapons/player/melee/blades/combat_sword_blade_01	content/weapons/player/melee/combat_sword/attachments/blade_01/blade_01	ap_blade_01
 content/items/weapons/player/melee/blades/combat_sword_blade_02	content/weapons/player/melee/combat_sword/attachments/blade_02/blade_02	ap_blade_01
@@ -162,6 +163,7 @@ content/items/weapons/player/melee/blades/force_sword_blade_06	content/weapons/p
 content/items/weapons/player/melee/blades/force_sword_blade_ml01	content/weapons/player/melee/force_sword/attachments/blade_ml01/blade_ml01	ap_blade_01
 content/items/weapons/player/melee/blades/power_falchion_blade_01	content/weapons/player/melee/power_falchion/attachments/blade_01/blade_01	ap_blade_01
 content/items/weapons/player/melee/blades/power_falchion_blade_02	content/weapons/player/melee/power_falchion/attachments/blade_02/blade_02	ap_blade_01
+content/items/weapons/player/melee/blades/power_falchion_blade_04	content/weapons/player/melee/power_falchion/attachments/blade_04/blade_04	ap_blade_01
 content/items/weapons/player/melee/blades/power_falchion_blade_ml01	content/weapons/player/melee/power_falchion/attachments/blade_ml01/blade_ml01	ap_blade_01
 content/items/weapons/player/melee/blades/power_sword_blade_01	content/weapons/player/melee/power_sword/attachments/blade_01/blade_01	ap_blade_01
 content/items/weapons/player/melee/blades/power_sword_blade_02	content/weapons/player/melee/power_sword/attachments/blade_02/blade_02	ap_blade_01
@@ -240,6 +242,7 @@ content/items/weapons/player/melee/connectors/thunder_hammer_connector_05	conten
 content/items/weapons/player/melee/connectors/thunder_hammer_connector_06	content/weapons/player/melee/thunder_hammer/attachments/connector_06/connector_06	ap_connector_01
 content/items/weapons/player/melee/connectors/thunder_hammer_connector_07	content/weapons/player/melee/thunder_hammer/attachments/connector_07/connector_07	ap_connector_01
 content/items/weapons/player/melee/connectors/thunder_hammer_connector_08	content/weapons/player/melee/thunder_hammer/attachments/connector_08/connector_08	ap_connector_01
+content/items/weapons/player/melee/connectors/thunder_hammer_connector_09	content/weapons/player/melee/thunder_hammer/attachments/connector_09/connector_09	ap_connector_01
 content/items/weapons/player/melee/connectors/thunder_hammer_connector_ml01	content/weapons/player/melee/thunder_hammer/attachments/connector_ml01/connector_ml01	ap_connector_01
 content/items/weapons/player/melee/full/2h_chain_sword_body_01	content/weapons/player/melee/2h_chain_sword/attachments/body_01/body_01	ap_body_01
 content/items/weapons/player/melee/full/2h_chain_sword_body_02	content/weapons/player/melee/2h_chain_sword/attachments/body_02/body_02	ap_body_01
@@ -363,6 +366,7 @@ content/items/weapons/player/melee/grips/combat_knife_grip_05	content/weapons/pl
 content/items/weapons/player/melee/grips/combat_knife_grip_06	content/weapons/player/melee/combat_knife/attachments/grip_06/grip_06	rp_combat_knife_chained_rig
 content/items/weapons/player/melee/grips/combat_knife_grip_07	content/weapons/player/melee/combat_knife/attachments/grip_07/grip_07	rp_combat_knife_chained_rig
 content/items/weapons/player/melee/grips/combat_knife_grip_08	content/weapons/player/melee/combat_knife/attachments/grip_08/grip_08	rp_combat_knife_chained_rig
+content/items/weapons/player/melee/grips/combat_knife_grip_09	content/weapons/player/melee/combat_knife/attachments/grip_09/grip_09	rp_combat_knife_chained_rig
 content/items/weapons/player/melee/grips/combat_knife_grip_ml01	content/weapons/player/melee/combat_knife/attachments/grip_ml01/grip_ml01	rp_combat_knife_chained_rig
 content/items/weapons/player/melee/grips/combat_sword_grip_01	content/weapons/player/melee/combat_sword/attachments/grip_01/grip_01	rp_combat_sword_chained_rig
 content/items/weapons/player/melee/grips/combat_sword_grip_02	content/weapons/player/melee/combat_sword/attachments/grip_02/grip_02	rp_combat_sword_chained_rig
@@ -393,6 +397,7 @@ content/items/weapons/player/melee/grips/hatchet_grip_05	content/weapons/player/
 content/items/weapons/player/melee/grips/hatchet_grip_06	content/weapons/player/melee/hatchet/attachments/grip_06/grip_06	rp_grip_01
 content/items/weapons/player/melee/grips/power_falchion_grip_01	content/weapons/player/melee/power_falchion/attachments/grip_01/grip_01	rp_power_sword_chained_rig
 content/items/weapons/player/melee/grips/power_falchion_grip_02	content/weapons/player/melee/power_falchion/attachments/grip_02/grip_02	rp_power_sword_chained_rig
+content/items/weapons/player/melee/grips/power_falchion_grip_04	content/weapons/player/melee/power_falchion/attachments/grip_04/grip_04	rp_power_sword_chained_rig
 content/items/weapons/player/melee/grips/power_falchion_grip_ml01	content/weapons/player/melee/power_falchion/attachments/grip_ml01/grip_ml01	rp_power_sword_chained_rig
 content/items/weapons/player/melee/grips/power_sword_grip_01	content/weapons/player/melee/power_sword/attachments/grip_01/grip_01	rp_power_sword_chained_rig
 content/items/weapons/player/melee/grips/power_sword_grip_02	content/weapons/player/melee/power_sword/attachments/grip_02/grip_02	rp_power_sword_chained_rig
@@ -511,6 +516,7 @@ content/items/weapons/player/melee/heads/power_maul_head_04	content/weapons/play
 content/items/weapons/player/melee/heads/power_maul_head_05	content/weapons/player/melee/power_maul/attachments/head_05/head_05	ap_head_01
 content/items/weapons/player/melee/heads/power_maul_head_06	content/weapons/player/melee/power_maul/attachments/head_06/head_06	ap_head_01
 content/items/weapons/player/melee/heads/power_maul_head_07	content/weapons/player/melee/power_maul/attachments/head_07/head_07	ap_head_01
+content/items/weapons/player/melee/heads/power_maul_head_08	content/weapons/player/melee/power_maul/attachments/head_08/head_08	ap_head_01
 content/items/weapons/player/melee/heads/power_maul_head_ml01	content/weapons/player/melee/power_maul/attachments/head_ml01/head_ml01	ap_head_01
 content/items/weapons/player/melee/heads/shovel_head_01	content/weapons/player/melee/shovel/attachments/head_01/head_01	ap_head_01
 content/items/weapons/player/melee/heads/shovel_head_02	content/weapons/player/melee/shovel/attachments/head_02/head_02	ap_head_01
@@ -533,6 +539,7 @@ content/items/weapons/player/melee/heads/thunder_hammer_head_05	content/weapons/
 content/items/weapons/player/melee/heads/thunder_hammer_head_06	content/weapons/player/melee/thunder_hammer/attachments/head_06/head_06	ap_head_01
 content/items/weapons/player/melee/heads/thunder_hammer_head_07	content/weapons/player/melee/thunder_hammer/attachments/head_07/head_07	ap_head_01
 content/items/weapons/player/melee/heads/thunder_hammer_head_08	content/weapons/player/melee/thunder_hammer/attachments/head_08/head_08	ap_head_01
+content/items/weapons/player/melee/heads/thunder_hammer_head_09	content/weapons/player/melee/thunder_hammer/attachments/head_09/head_09	ap_head_01
 content/items/weapons/player/melee/heads/thunder_hammer_head_ml01	content/weapons/player/melee/thunder_hammer/attachments/head_ml01/head_ml01	ap_head_01
 content/items/weapons/player/melee/hilts/2h_force_sword_hilt_01	content/weapons/player/melee/2h_force_sword/attachments/hilt_01/hilt_01	ap_hilt_01
 content/items/weapons/player/melee/hilts/2h_force_sword_hilt_02	content/weapons/player/melee/2h_force_sword/attachments/hilt_02/hilt_02	ap_hilt_01
@@ -607,6 +614,7 @@ content/items/weapons/player/melee/pommels/ogryn_pickaxe_2h_pommel_07	content/we
 content/items/weapons/player/melee/pommels/ogryn_pickaxe_2h_pommel_ml01	content/weapons/player/melee/2h_pickaxe_ogryn/attachments/pommel_ml01/pommel_ml01	ap_pommel_01
 content/items/weapons/player/melee/pommels/power_falchion_pommel_01	content/weapons/player/melee/power_falchion/attachments/pommel_01/pommel_01	ap_pommel_01
 content/items/weapons/player/melee/pommels/power_falchion_pommel_02	content/weapons/player/melee/power_falchion/attachments/pommel_02/pommel_02	ap_pommel_01
+content/items/weapons/player/melee/pommels/power_falchion_pommel_04	content/weapons/player/melee/power_falchion/attachments/pommel_04/pommel_04	ap_pommel_01
 content/items/weapons/player/melee/pommels/power_maul_pommel_01	content/weapons/player/melee/power_maul/attachments/pommel_01/pommel_01	ap_pommel_01
 content/items/weapons/player/melee/pommels/power_maul_pommel_02	content/weapons/player/melee/power_maul/attachments/pommel_02/pommel_02	ap_pommel_01
 content/items/weapons/player/melee/pommels/power_maul_pommel_03	content/weapons/player/melee/power_maul/attachments/pommel_03/pommel_03	ap_pommel_01
@@ -614,6 +622,7 @@ content/items/weapons/player/melee/pommels/power_maul_pommel_04	content/weapons/
 content/items/weapons/player/melee/pommels/power_maul_pommel_05	content/weapons/player/melee/power_maul/attachments/pommel_05/pommel_05	ap_pommel_01
 content/items/weapons/player/melee/pommels/power_maul_pommel_06	content/weapons/player/melee/power_maul/attachments/pommel_06/pommel_06	ap_pommel_01
 content/items/weapons/player/melee/pommels/power_maul_pommel_07	content/weapons/player/melee/power_maul/attachments/pommel_07/pommel_07	ap_pommel_01
+content/items/weapons/player/melee/pommels/power_maul_pommel_08	content/weapons/player/melee/power_maul/attachments/pommel_08/pommel_08	ap_pommel_01
 content/items/weapons/player/melee/pommels/power_maul_pommel_ml01	content/weapons/player/melee/power_maul/attachments/pommel_ml01/pommel_ml01	ap_pommel_01
 content/items/weapons/player/melee/pommels/power_sword_pommel_01	content/weapons/player/melee/power_sword/attachments/pommel_01/pommel_01	ap_pommel_01
 content/items/weapons/player/melee/pommels/power_sword_pommel_02	content/weapons/player/melee/power_sword/attachments/pommel_02/pommel_02	ap_pommel_01
@@ -645,6 +654,7 @@ content/items/weapons/player/melee/pommels/thunder_hammer_pommel_04	content/weap
 content/items/weapons/player/melee/pommels/thunder_hammer_pommel_05	content/weapons/player/melee/thunder_hammer/attachments/pommel_05/pommel_05	ap_pommel_01
 content/items/weapons/player/melee/pommels/thunder_hammer_pommel_06	content/weapons/player/melee/thunder_hammer/attachments/pommel_06/pommel_06	ap_pommel_01
 content/items/weapons/player/melee/pommels/thunder_hammer_pommel_07	content/weapons/player/melee/thunder_hammer/attachments/pommel_07/pommel_07	ap_pommel_01
+content/items/weapons/player/melee/pommels/thunder_hammer_pommel_08	content/weapons/player/melee/thunder_hammer/attachments/pommel_08/pommel_08	ap_pommel_01
 content/items/weapons/player/melee/pommels/thunder_hammer_pommel_ml01	content/weapons/player/melee/thunder_hammer/attachments/pommel_ml01/pommel_ml01	ap_pommel_01
 content/items/weapons/player/melee/shafts/2h_power_maul_shaft_01	content/weapons/player/melee/2h_power_maul/attachments/grip_01/shaft_01	rp_power_maul_chained_rig
 content/items/weapons/player/melee/shafts/2h_power_maul_shaft_02	content/weapons/player/melee/2h_power_maul/attachments/grip_02/shaft_02	rp_power_maul_chained_rig
@@ -706,6 +716,7 @@ content/items/weapons/player/ranged/barrels/autogun_rifle_barrel_04	content/weap
 content/items/weapons/player/ranged/barrels/autogun_rifle_barrel_05	content/weapons/player/ranged/autogun_rifle/attachments/barrel_05/barrel_05	ap_barrel_01
 content/items/weapons/player/ranged/barrels/autogun_rifle_barrel_06	content/weapons/player/ranged/autogun_rifle/attachments/barrel_06/barrel_06	ap_barrel_01
 content/items/weapons/player/ranged/barrels/autogun_rifle_barrel_07	content/weapons/player/ranged/autogun_rifle/attachments/barrel_07/barrel_07	ap_barrel_01
+content/items/weapons/player/ranged/barrels/autogun_rifle_barrel_08	content/weapons/player/ranged/autogun_rifle/attachments/barrel_08/barrel_08	ap_barrel_01
 content/items/weapons/player/ranged/barrels/autogun_rifle_barrel_ak_01	content/weapons/player/ranged/autogun_rifle_ak/attachments/barrel_01/barrel_01	ap_barrel_01
 content/items/weapons/player/ranged/barrels/autogun_rifle_barrel_ak_02	content/weapons/player/ranged/autogun_rifle_ak/attachments/barrel_02/barrel_02	ap_barrel_01
 content/items/weapons/player/ranged/barrels/autogun_rifle_barrel_ak_03	content/weapons/player/ranged/autogun_rifle_ak/attachments/barrel_03/barrel_03	ap_barrel_01
@@ -714,11 +725,13 @@ content/items/weapons/player/ranged/barrels/autogun_rifle_barrel_ak_05	content/w
 content/items/weapons/player/ranged/barrels/autogun_rifle_barrel_ak_06	content/weapons/player/ranged/autogun_rifle_ak/attachments/barrel_06/barrel_06	ap_barrel_01
 content/items/weapons/player/ranged/barrels/autogun_rifle_barrel_ak_07	content/weapons/player/ranged/autogun_rifle_ak/attachments/barrel_07/barrel_07	ap_barrel_01
 content/items/weapons/player/ranged/barrels/autogun_rifle_barrel_ak_08	content/weapons/player/ranged/autogun_rifle_ak/attachments/barrel_08/barrel_08	ap_barrel_01
+content/items/weapons/player/ranged/barrels/autogun_rifle_barrel_ak_09	content/weapons/player/ranged/autogun_rifle_ak/attachments/barrel_09/barrel_09	ap_barrel_01
 content/items/weapons/player/ranged/barrels/autogun_rifle_barrel_ak_ml01	content/weapons/player/ranged/autogun_rifle_ak/attachments/barrel_ml01/barrel_ml01	ap_barrel_01
 content/items/weapons/player/ranged/barrels/autogun_rifle_barrel_killshot_01	content/weapons/player/ranged/autogun_rifle_killshot/attachments/barrel_01/barrel_01	ap_barrel_01
 content/items/weapons/player/ranged/barrels/autogun_rifle_barrel_killshot_03	content/weapons/player/ranged/autogun_rifle_killshot/attachments/barrel_03/barrel_03	ap_barrel_01
 content/items/weapons/player/ranged/barrels/autogun_rifle_barrel_killshot_04	content/weapons/player/ranged/autogun_rifle_killshot/attachments/barrel_04/barrel_04	ap_barrel_01
 content/items/weapons/player/ranged/barrels/autogun_rifle_barrel_killshot_05	content/weapons/player/ranged/autogun_rifle_killshot/attachments/barrel_05/barrel_05	ap_barrel_01
+content/items/weapons/player/ranged/barrels/autogun_rifle_barrel_killshot_06	content/weapons/player/ranged/autogun_rifle_killshot/attachments/barrel_06/barrel_06	ap_barrel_01
 content/items/weapons/player/ranged/barrels/autogun_rifle_barrel_killshot_ml01	content/weapons/player/ranged/autogun_rifle_killshot/attachments/barrel_ml01/barrel_ml01	ap_barrel_01
 content/items/weapons/player/ranged/barrels/autogun_rifle_barrel_ml01	content/weapons/player/ranged/autogun_rifle/attachments/barrel_ml01/barrel_ml01	ap_barrel_01
 content/items/weapons/player/ranged/barrels/barrel_01	content/weapons/player/attachments/barrels/barrel_01/barrel_01	ap_barrel_01
@@ -1002,6 +1015,7 @@ content/items/weapons/player/ranged/grips/autogun_rifle_grip_ak_02	content/weapo
 content/items/weapons/player/ranged/grips/autogun_rifle_grip_ak_03	content/weapons/player/ranged/autogun_rifle_ak/attachments/grip_03/grip_03	ap_grip_01
 content/items/weapons/player/ranged/grips/autogun_rifle_grip_ak_04	content/weapons/player/ranged/autogun_rifle_ak/attachments/grip_04/grip_04	ap_grip_01
 content/items/weapons/player/ranged/grips/autogun_rifle_grip_ak_05	content/weapons/player/ranged/autogun_rifle_ak/attachments/grip_05/grip_05	ap_grip_01
+content/items/weapons/player/ranged/grips/autogun_rifle_grip_ak_06	content/weapons/player/ranged/autogun_rifle_ak/attachments/grip_06/grip_06	ap_grip_01
 content/items/weapons/player/ranged/grips/autogun_rifle_grip_ak_ml01	content/weapons/player/ranged/autogun_rifle_ak/attachments/grip_ml01/grip_ml01	ap_grip_01
 content/items/weapons/player/ranged/grips/autogun_rifle_grip_killshot_01	content/weapons/player/ranged/autogun_rifle_killshot/attachments/grip_01/grip_01	ap_grip_01
 content/items/weapons/player/ranged/grips/autogun_rifle_grip_killshot_ml01	content/weapons/player/ranged/autogun_rifle_killshot/attachments/grip_ml01/grip_ml01	ap_grip_01
@@ -1095,6 +1109,7 @@ content/items/weapons/player/ranged/handles/rippergun_rifle_handle_02	content/we
 content/items/weapons/player/ranged/handles/rippergun_rifle_handle_03	content/weapons/player/ranged/rippergun_rifle/attachments/handle_03/handle_03	ap_handle_01
 content/items/weapons/player/ranged/handles/rippergun_rifle_handle_04	content/weapons/player/ranged/rippergun_rifle/attachments/handle_04/handle_04	ap_handle_01
 content/items/weapons/player/ranged/handles/rippergun_rifle_handle_05	content/weapons/player/ranged/rippergun_rifle/attachments/handle_05/handle_05	ap_handle_01
+content/items/weapons/player/ranged/handles/rippergun_rifle_handle_06	content/weapons/player/ranged/rippergun_rifle/attachments/handle_06/handle_06	ap_handle_01
 content/items/weapons/player/ranged/handles/rippergun_rifle_handle_07	content/weapons/player/ranged/rippergun_rifle/attachments/handle_07/handle_07	ap_handle_01
 content/items/weapons/player/ranged/handles/rippergun_rifle_handle_ml01	content/weapons/player/ranged/rippergun_rifle/attachments/handle_ml01/handle_ml01	ap_handle_01
 content/items/weapons/player/ranged/magazines/arc_rifle_magazine_01	content/weapons/player/ranged/arc_rifle/attachments/magazine_01/magazine_01	ap_magazine_01
@@ -1103,6 +1118,7 @@ content/items/weapons/player/ranged/magazines/arc_rifle_magazine_ml01	content/we
 content/items/weapons/player/ranged/magazines/autogun_pistol_compact_magazine_01	content/weapons/player/ranged/autogun_pistol_compact/attachments/magazine_01/magazine_01	ap_magazine_01
 content/items/weapons/player/ranged/magazines/autogun_pistol_magazine_01	content/weapons/player/ranged/autogun_pistol/attachments/magazine_01/magazine_01	ap_magazine_01
 content/items/weapons/player/ranged/magazines/autogun_rifle_ak_magazine_01	content/weapons/player/ranged/autogun_rifle_ak/attachments/magazine_01/magazine_01	ap_magazine_01
+content/items/weapons/player/ranged/magazines/autogun_rifle_killshot_magazine_01	content/weapons/player/ranged/autogun_rifle_killshot/attachments/magazine_01/magazine_01	ap_magazine_01
 content/items/weapons/player/ranged/magazines/autogun_rifle_magazine_01	content/weapons/player/ranged/autogun_rifle/attachments/magazine_01/magazine_01	ap_magazine_01
 content/items/weapons/player/ranged/magazines/autogun_rifle_magazine_02	content/weapons/player/ranged/autogun_rifle/attachments/magazine_02/magazine_02	ap_magazine_01
 content/items/weapons/player/ranged/magazines/autogun_rifle_magazine_03	content/weapons/player/ranged/autogun_rifle/attachments/magazine_03/magazine_03	ap_magazine_01
@@ -1152,6 +1168,7 @@ content/items/weapons/player/ranged/magazines/rippergun_rifle_magazine_04	conten
 content/items/weapons/player/ranged/magazines/rippergun_rifle_magazine_05	content/weapons/player/ranged/rippergun_rifle/attachments/magazine_05/magazine_05	ap_magazine_01
 content/items/weapons/player/ranged/magazines/rippergun_rifle_magazine_06	content/weapons/player/ranged/rippergun_rifle/attachments/magazine_06/magazine_06	ap_magazine_01
 content/items/weapons/player/ranged/magazines/rippergun_rifle_magazine_07	content/weapons/player/ranged/rippergun_rifle/attachments/magazine_07/magazine_07	ap_magazine_01
+content/items/weapons/player/ranged/magazines/rippergun_rifle_magazine_08	content/weapons/player/ranged/rippergun_rifle/attachments/magazine_08/magazine_08	ap_magazine_01
 content/items/weapons/player/ranged/magazines/rippergun_rifle_magazine_09	content/weapons/player/ranged/rippergun_rifle/attachments/magazine_09/magazine_09	ap_magazine_01
 content/items/weapons/player/ranged/magazines/rippergun_rifle_magazine_ml01	content/weapons/player/ranged/rippergun_rifle/attachments/magazine_ml01/magazine_ml01	ap_magazine_01
 content/items/weapons/player/ranged/magazines/stubgun_heavy_ogryn_magazine_01	content/weapons/player/ranged/stubgun_heavy_ogryn/attachments/magazine_01/magazine_01	ap_magazine_01
@@ -1196,11 +1213,13 @@ content/items/weapons/player/ranged/muzzles/autogun_rifle_ak_muzzle_02	content/w
 content/items/weapons/player/ranged/muzzles/autogun_rifle_ak_muzzle_03	content/weapons/player/ranged/autogun_rifle_ak/attachments/muzzle_03/muzzle_03	ap_muzzle_01
 content/items/weapons/player/ranged/muzzles/autogun_rifle_ak_muzzle_04	content/weapons/player/ranged/autogun_rifle_ak/attachments/muzzle_04/muzzle_04	ap_muzzle_01
 content/items/weapons/player/ranged/muzzles/autogun_rifle_ak_muzzle_05	content/weapons/player/ranged/autogun_rifle_ak/attachments/muzzle_05/muzzle_05	ap_muzzle_01
+content/items/weapons/player/ranged/muzzles/autogun_rifle_ak_muzzle_06	content/weapons/player/ranged/autogun_rifle_ak/attachments/muzzle_06/muzzle_06	ap_muzzle_01
 content/items/weapons/player/ranged/muzzles/autogun_rifle_ak_muzzle_ml01	content/weapons/player/ranged/autogun_rifle_ak/attachments/muzzle_ml01/muzzle_ml01	ap_muzzle_01
 content/items/weapons/player/ranged/muzzles/autogun_rifle_killshot_muzzle_01	content/weapons/player/ranged/autogun_rifle_killshot/attachments/muzzle_01/muzzle_01	ap_muzzle_01
 content/items/weapons/player/ranged/muzzles/autogun_rifle_killshot_muzzle_03	content/weapons/player/ranged/autogun_rifle_killshot/attachments/muzzle_03/muzzle_03	ap_muzzle_01
 content/items/weapons/player/ranged/muzzles/autogun_rifle_killshot_muzzle_04	content/weapons/player/ranged/autogun_rifle_killshot/attachments/muzzle_04/muzzle_04	ap_muzzle_01
 content/items/weapons/player/ranged/muzzles/autogun_rifle_killshot_muzzle_05	content/weapons/player/ranged/autogun_rifle_killshot/attachments/muzzle_05/muzzle_05	ap_muzzle_01
+content/items/weapons/player/ranged/muzzles/autogun_rifle_killshot_muzzle_06	content/weapons/player/ranged/autogun_rifle_killshot/attachments/muzzle_06/muzzle_06	ap_muzzle_01
 content/items/weapons/player/ranged/muzzles/autogun_rifle_killshot_muzzle_ml01	content/weapons/player/ranged/autogun_rifle_killshot/attachments/muzzle_ml01/muzzle_ml01	ap_muzzle_01
 content/items/weapons/player/ranged/muzzles/autogun_rifle_muzzle_01	content/weapons/player/ranged/autogun_rifle/attachments/muzzle_01/muzzle_01	ap_muzzle_01
 content/items/weapons/player/ranged/muzzles/autogun_rifle_muzzle_02	content/weapons/player/ranged/autogun_rifle/attachments/muzzle_02/muzzle_02	ap_muzzle_01
@@ -1208,6 +1227,7 @@ content/items/weapons/player/ranged/muzzles/autogun_rifle_muzzle_03	content/weap
 content/items/weapons/player/ranged/muzzles/autogun_rifle_muzzle_04	content/weapons/player/ranged/autogun_rifle/attachments/muzzle_04/muzzle_04	ap_muzzle_01
 content/items/weapons/player/ranged/muzzles/autogun_rifle_muzzle_05	content/weapons/player/ranged/autogun_rifle/attachments/muzzle_05/muzzle_05	ap_muzzle_01
 content/items/weapons/player/ranged/muzzles/autogun_rifle_muzzle_06	content/weapons/player/ranged/autogun_rifle/attachments/muzzle_06/muzzle_06	ap_muzzle_01
+content/items/weapons/player/ranged/muzzles/autogun_rifle_muzzle_07	content/weapons/player/ranged/autogun_rifle/attachments/muzzle_07/muzzle_07	ap_muzzle_01
 content/items/weapons/player/ranged/muzzles/autogun_rifle_muzzle_ml01	content/weapons/player/ranged/autogun_rifle/attachments/muzzle_ml01/muzzle_ml01	ap_muzzle_01
 content/items/weapons/player/ranged/muzzles/galvanic_rifle_muzzle_01	content/weapons/player/ranged/galvanic_rifle/attachments/muzzel_01/muzzel_01	ap_muzzle_01
 content/items/weapons/player/ranged/muzzles/galvanic_rifle_muzzle_deluxe01	content/weapons/player/ranged/galvanic_rifle/attachments/muzzel_deluxe01/muzzel_deluxe01	ap_muzzle_01
@@ -1370,6 +1390,7 @@ content/items/weapons/player/ranged/recievers/rippergun_rifle_receiver_06	conten
 content/items/weapons/player/ranged/recievers/rippergun_rifle_receiver_07	content/weapons/player/ranged/rippergun_rifle/attachments/receiver_07/receiver_07	rp_rippergun_rifle_chained_rig
 content/items/weapons/player/ranged/recievers/rippergun_rifle_receiver_08	content/weapons/player/ranged/rippergun_rifle/attachments/receiver_08/receiver_08	rp_rippergun_rifle_chained_rig
 content/items/weapons/player/ranged/recievers/rippergun_rifle_receiver_09	content/weapons/player/ranged/rippergun_rifle/attachments/receiver_09/receiver_09	rp_rippergun_rifle_chained_rig
+content/items/weapons/player/ranged/recievers/rippergun_rifle_receiver_10	content/weapons/player/ranged/rippergun_rifle/attachments/receiver_10/receiver_10	rp_rippergun_rifle_chained_rig
 content/items/weapons/player/ranged/recievers/rippergun_rifle_receiver_11	content/weapons/player/ranged/rippergun_rifle/attachments/receiver_11/receiver_11	rp_rippergun_rifle_chained_rig
 content/items/weapons/player/ranged/recievers/rippergun_rifle_receiver_ml01	content/weapons/player/ranged/rippergun_rifle/attachments/receiver_ml01/receiver_ml01	rp_rippergun_rifle_chained_rig
 content/items/weapons/player/ranged/recievers/shotgun_double_barrel_receiver_01	content/weapons/player/ranged/shotgun_double_barrel/attachments/receiver_01/receiver_01	rp_shotgun_rig
@@ -1453,6 +1474,7 @@ content/items/weapons/player/ranged/shafts/power_maul_shaft_05	content/weapons/p
 content/items/weapons/player/ranged/shafts/power_maul_shaft_06	content/weapons/player/melee/power_maul/attachments/shaft_06/shaft_06	rp_power_maul_chained_rig
 content/items/weapons/player/ranged/shafts/power_maul_shaft_07	content/weapons/player/melee/power_maul/attachments/shaft_07/shaft_07	rp_power_maul_chained_rig
 content/items/weapons/player/ranged/shafts/power_maul_shaft_08	content/weapons/player/melee/power_maul/attachments/shaft_08/shaft_08	rp_power_maul_chained_rig
+content/items/weapons/player/ranged/shafts/power_maul_shaft_09	content/weapons/player/melee/power_maul/attachments/shaft_09/shaft_09	rp_power_maul_chained_rig
 content/items/weapons/player/ranged/shafts/power_maul_shaft_ml01	content/weapons/player/melee/power_maul/attachments/shaft_ml01/shaft_ml01	rp_power_maul_chained_rig
 content/items/weapons/player/ranged/shafts/thunder_hammer_shaft_01	content/weapons/player/melee/thunder_hammer/attachments/shaft_01/shaft_01	rp_thunder_hammer_chained_rig
 content/items/weapons/player/ranged/shafts/thunder_hammer_shaft_02	content/weapons/player/melee/thunder_hammer/attachments/shaft_02/shaft_02	rp_thunder_hammer_chained_rig
@@ -1461,6 +1483,7 @@ content/items/weapons/player/ranged/shafts/thunder_hammer_shaft_04	content/weapo
 content/items/weapons/player/ranged/shafts/thunder_hammer_shaft_05	content/weapons/player/melee/thunder_hammer/attachments/shaft_05/shaft_05	rp_thunder_hammer_chained_rig
 content/items/weapons/player/ranged/shafts/thunder_hammer_shaft_06	content/weapons/player/melee/thunder_hammer/attachments/shaft_06/shaft_06	rp_thunder_hammer_chained_rig
 content/items/weapons/player/ranged/shafts/thunder_hammer_shaft_07	content/weapons/player/melee/thunder_hammer/attachments/shaft_07/shaft_07	rp_thunder_hammer_chained_rig
+content/items/weapons/player/ranged/shafts/thunder_hammer_shaft_08	content/weapons/player/melee/thunder_hammer/attachments/shaft_08/shaft_08	rp_thunder_hammer_chained_rig
 content/items/weapons/player/ranged/shafts/thunder_hammer_shaft_ml01	content/weapons/player/melee/thunder_hammer/attachments/shaft_ml01/shaft_ml01	rp_thunder_hammer_chained_rig
 content/items/weapons/player/ranged/sights/autogun_pistol_sight_01	content/weapons/player/ranged/autogun_pistol/attachments/sight_01/sight_01	ap_sight_01
 content/items/weapons/player/ranged/sights/autogun_rifle_ak_sight_01	content/weapons/player/ranged/autogun_rifle_ak/attachments/sight_01/sight_01	ap_sight_01
@@ -1505,6 +1528,7 @@ content/items/weapons/player/ranged/stocks/autogun_rifle_ak_stock_04	content/wea
 content/items/weapons/player/ranged/stocks/autogun_rifle_ak_stock_05	content/weapons/player/ranged/autogun_rifle_ak/attachments/stock_05/stock_05	ap_stock_01
 content/items/weapons/player/ranged/stocks/autogun_rifle_ak_stock_06	content/weapons/player/ranged/autogun_rifle_ak/attachments/stock_06/stock_06	ap_stock_01
 content/items/weapons/player/ranged/stocks/autogun_rifle_ak_stock_07	content/weapons/player/ranged/autogun_rifle_ak/attachments/stock_07/stock_07	ap_stock_01
+content/items/weapons/player/ranged/stocks/autogun_rifle_ak_stock_08	content/weapons/player/ranged/autogun_rifle_ak/attachments/stock_08/stock_08	ap_stock_01
 content/items/weapons/player/ranged/stocks/autogun_rifle_ak_stock_ml01	content/weapons/player/ranged/autogun_rifle_ak/attachments/stock_ml01/stock_ml01	ap_stock_01
 content/items/weapons/player/ranged/stocks/autogun_rifle_killshot_stock_01	content/weapons/player/ranged/autogun_rifle_killshot/attachments/stock_01/stock_01	ap_stock_01
 content/items/weapons/player/ranged/stocks/autogun_rifle_killshot_stock_02	content/weapons/player/ranged/autogun_rifle_killshot/attachments/stock_02/stock_02	ap_stock_01
@@ -1514,6 +1538,7 @@ content/items/weapons/player/ranged/stocks/autogun_rifle_stock_02	content/weapon
 content/items/weapons/player/ranged/stocks/autogun_rifle_stock_03	content/weapons/player/ranged/autogun_rifle/attachments/stock_03/stock_03	ap_stock_01
 content/items/weapons/player/ranged/stocks/autogun_rifle_stock_04	content/weapons/player/ranged/autogun_rifle/attachments/stock_04/stock_04	ap_stock_01
 content/items/weapons/player/ranged/stocks/autogun_rifle_stock_05	content/weapons/player/ranged/autogun_rifle/attachments/stock_05/stock_05	ap_stock_01
+content/items/weapons/player/ranged/stocks/autogun_rifle_stock_06	content/weapons/player/ranged/autogun_rifle/attachments/stock_06/stock_06	ap_stock_01
 content/items/weapons/player/ranged/stocks/autogun_rifle_stock_ml01	content/weapons/player/ranged/autogun_rifle/attachments/stock_ml01/stock_ml01	ap_stock_01
 content/items/weapons/player/ranged/stocks/galvanic_rifle_stock_01	content/weapons/player/ranged/galvanic_rifle/attachments/stock_01/stock_01	ap_stock_01
 content/items/weapons/player/ranged/stocks/galvanic_rifle_stock_deluxe01	content/weapons/player/ranged/galvanic_rifle/attachments/stock_deluxe01/stock_deluxe01	ap_stock_01
@@ -1635,6 +1660,7 @@ content/items/weapons/player/trinkets/trinket_19	content/weapons/player/attachme
 content/items/weapons/player/trinkets/trinket_1a	content/weapons/player/attachments/trinkets/trinket_1a/trinket_1a	ap_trinket
 content/items/weapons/player/trinkets/trinket_1c	content/weapons/player/attachments/trinkets/trinket_1c/trinket_1c	ap_trinket
 content/items/weapons/player/trinkets/trinket_1d	content/weapons/player/attachments/trinkets/trinket_1d/trinket_1d	ap_trinket
+content/items/weapons/player/trinkets/trinket_20c	content/weapons/player/attachments/trinkets/trinket_20c/trinket_20c	ap_trinket
 content/items/weapons/player/trinkets/trinket_21a	content/weapons/player/attachments/trinkets/trinket_21a/trinket_21a	ap_trinket
 content/items/weapons/player/trinkets/trinket_2a	content/weapons/player/attachments/trinkets/trinket_2a/trinket_2a	ap_trinket
 content/items/weapons/player/trinkets/trinket_2b	content/weapons/player/attachments/trinkets/trinket_2b/trinket_2b	ap_trinket

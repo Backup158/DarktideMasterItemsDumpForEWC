@@ -93357,6 +93357,7 @@ return {
                 [1] = "ROTATION_martinez (string)",
                 [2] = "ROTATION_rafal (string)",
                 [3] = "ROTATION_victoria (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             hide_beard = "false (boolean)",
             hide_eyebrows = "false (boolean)",
@@ -93682,6 +93683,7 @@ return {
                 [10] = "ROTATION_rodger (string)",
                 [11] = "ROTATION_rodger_catherine_3 (string)",
                 [12] = "ROTATION_stefan (string)",
+                [13] = "ROTATION_victoria_mick (string)",
             },
             hide_beard = "false (boolean)",
             hide_eyebrows = "false (boolean)",
@@ -102902,6 +102904,7 @@ return {
                 [14] = "ROTATION_week_3 (string)",
                 [15] = "ROTATION_wilkazo (string)",
                 [16] = "ROTATION_zoya (string)",
+                [17] = "ROTATION_bobby_jeff (string)",
             },
             hide_slots = {
             },
@@ -102956,6 +102959,7 @@ return {
                 [6] = "ROTATION_rodcat_2 (string)",
                 [7] = "ROTATION_twitch_1_12_0 (string)",
                 [8] = "ROTATION_rodger_catherine_3 (string)",
+                [9] = "ROTATION_victoria_mick (string)",
             },
             hide_slots = {
             },
@@ -103068,6 +103072,7 @@ return {
                 [10] = "ROTATION_twitch_1_12_0 (string)",
                 [11] = "ROTATION_rodger_catherine_3 (string)",
                 [12] = "ROTATION_ursula_ulf (string)",
+                [13] = "ROTATION_victoria_mick (string)",
             },
             hide_slots = {
             },
@@ -103220,6 +103225,7 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_charles (string)",
                 [3] = "ROTATION_mick (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             hide_slots = {
             },
@@ -104452,6 +104458,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_bobby (string)",
+                [3] = "ROTATION_bobby_jeff (string)",
             },
             hide_slots = {
             },
@@ -104518,6 +104525,8 @@ return {
                 [17] = "ROTATION_week_1 (string)",
                 [18] = "ROTATION_wilkazo (string)",
                 [19] = "ROTATION_ursula_ulf (string)",
+                [20] = "ROTATION_bobby_jeff (string)",
+                [21] = "ROTATION_victoria_mick (string)",
             },
             hide_slots = {
             },
@@ -105108,6 +105117,7 @@ return {
                 [2] = "ROTATION_oskar (string)",
                 [3] = "ROTATION_pete (string)",
                 [4] = "ROTATION_pete_2 (string)",
+                [5] = "ROTATION_bobby_jeff (string)",
             },
             hide_slots = {
             },
@@ -106580,6 +106590,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_bobby (string)",
+                [3] = "ROTATION_bobby_jeff (string)",
             },
             hide_slots = {
             },
@@ -106627,6 +106638,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "ROTATION_bobbylorene (string)",
+                [2] = "ROTATION_bobby_jeff (string)",
             },
             hide_slots = {
             },
@@ -108444,6 +108456,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_bobby (string)",
+                [3] = "ROTATION_bobby_jeff (string)",
             },
             hide_slots = {
             },
@@ -109067,6 +109080,7 @@ return {
                 [24] = "ROTATION_wilmer (string)",
                 [25] = "ROTATION_twitch_1_12_0 (string)",
                 [26] = "ROTATION_rodger_catherine_3 (string)",
+                [27] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -109347,6 +109361,7 @@ return {
                 [14] = "ROTATION_week_3 (string)",
                 [15] = "ROTATION_wilkazo (string)",
                 [16] = "ROTATION_zoya (string)",
+                [17] = "ROTATION_bobby_jeff (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -109414,6 +109429,7 @@ return {
                 [6] = "ROTATION_rodcat_2 (string)",
                 [7] = "ROTATION_twitch_1_12_0 (string)",
                 [8] = "ROTATION_rodger_catherine_3 (string)",
+                [9] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -110264,6 +110280,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_bobby (string)",
+                [3] = "ROTATION_bobby_jeff (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -110295,6 +110312,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_week_1 (string)",
+                [3] = "ROTATION_bobby_jeff (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -110337,6 +110355,7 @@ return {
                 [11] = "ROTATION_nork (string)",
                 [12] = "ROTATION_week_1 (string)",
                 [13] = "ROTATION_wilkazo (string)",
+                [14] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -110522,6 +110541,7 @@ return {
                 [4] = "ROTATION_kate (string)",
                 [5] = "ROTATION_mick (string)",
                 [6] = "ROTATION_week_1 (string)",
+                [7] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -111122,6 +111142,7 @@ return {
                 [13] = "ROTATION_pete (string)",
                 [14] = "ROTATION_pete_2 (string)",
                 [15] = "ROTATION_week_1 (string)",
+                [16] = "ROTATION_bobby_jeff (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -113544,6 +113565,7 @@ return {
                 [12] = "ROTATION_twitch_1_12_0 (string)",
                 [13] = "ROTATION_rodger_catherine_3 (string)",
                 [14] = "ROTATION_ursula_ulf (string)",
+                [15] = "ROTATION_victoria_mick (string)",
             },
             hide_slots = {
             },
@@ -113757,6 +113779,7 @@ return {
                 [19] = "ROTATION_week_2 (string)",
                 [20] = "ROTATION_week_3 (string)",
                 [21] = "ROTATION_wilmer (string)",
+                [22] = "ROTATION_victoria_mick (string)",
             },
             hide_slots = {
             },
@@ -113812,6 +113835,7 @@ return {
                 [25] = "ROTATION_wilmer (string)",
                 [26] = "ROTATION_elsawilmer (string)",
                 [27] = "ROTATION_cadumbra (string)",
+                [28] = "ROTATION_bobby_jeff (string)",
             },
             hide_slots = {
             },
@@ -114113,6 +114137,7 @@ return {
                 [5] = "ROTATION_lorene (string)",
                 [6] = "ROTATION_lorene_2 (string)",
                 [7] = "ROTATION_week_2 (string)",
+                [8] = "ROTATION_victoria_mick (string)",
             },
             hide_slots = {
             },
@@ -114212,6 +114237,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_bobby (string)",
+                [3] = "ROTATION_bobby_jeff (string)",
             },
             hide_slots = {
             },
@@ -114241,6 +114267,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_bobby (string)",
+                [3] = "ROTATION_bobby_jeff (string)",
             },
             hide_slots = {
             },
@@ -114274,6 +114301,7 @@ return {
                 [4] = "ROTATION_week_1 (string)",
                 [5] = "ROTATION_rodcat_2 (string)",
                 [6] = "ROTATION_rodger_catherine_3 (string)",
+                [7] = "ROTATION_bobby_jeff (string)",
             },
             hide_slots = {
             },
@@ -114402,6 +114430,7 @@ return {
                 [18] = "ROTATION_week_3 (string)",
                 [19] = "ROTATION_zorro (string)",
                 [20] = "ROTATION_nick (string)",
+                [21] = "ROTATION_victoria_mick (string)",
             },
             hide_slots = {
             },
@@ -114446,6 +114475,7 @@ return {
                 [13] = "ROTATION_wilmer (string)",
                 [14] = "ROTATION_zoya (string)",
                 [15] = "ROTATION_francisco_malcador (string)",
+                [16] = "ROTATION_victoria_mick (string)",
             },
             hide_slots = {
             },
@@ -115032,6 +115062,7 @@ return {
                 [2] = "ROTATION_johanna (string)",
                 [3] = "ROTATION_pete (string)",
                 [4] = "ROTATION_pete_2 (string)",
+                [5] = "ROTATION_bobby_jeff (string)",
             },
             hide_slots = {
             },
@@ -115546,6 +115577,7 @@ return {
                 [4] = "ROTATION_mick (string)",
                 [5] = "ROTATION_stefan (string)",
                 [6] = "ROTATION_luke_2 (string)",
+                [7] = "ROTATION_victoria_mick (string)",
             },
             hide_slots = {
             },
@@ -116589,6 +116621,7 @@ return {
                 [20] = "ROTATION_zorro (string)",
                 [21] = "ROTATION_zoya (string)",
                 [22] = "ROTATION_nick (string)",
+                [23] = "ROTATION_bobby_jeff (string)",
             },
             hide_slots = {
             },
@@ -116624,6 +116657,7 @@ return {
                 [3] = "ROTATION_elsawilmer (string)",
                 [4] = "ROTATION_mick (string)",
                 [5] = "ROTATION_wilmer (string)",
+                [6] = "ROTATION_victoria_mick (string)",
             },
             hide_slots = {
             },
@@ -117008,6 +117042,7 @@ return {
                 [4] = "ROTATION_kate (string)",
                 [5] = "ROTATION_mick (string)",
                 [6] = "ROTATION_week_1 (string)",
+                [7] = "ROTATION_victoria_mick (string)",
             },
             hide_slots = {
             },
@@ -117388,6 +117423,7 @@ return {
                 [18] = "ROTATION_zoya (string)",
                 [19] = "ROTATION_rodger_catherine_3 (string)",
                 [20] = "ROTATION_francisco_malcador (string)",
+                [21] = "ROTATION_victoria_mick (string)",
             },
             hide_slots = {
             },
@@ -117494,6 +117530,7 @@ return {
                 [2] = "ROTATION_lenny (string)",
                 [3] = "ROTATION_week_1 (string)",
                 [4] = "ROTATION_francisco_malcador (string)",
+                [5] = "ROTATION_bobby_jeff (string)",
             },
             hide_slots = {
             },
@@ -117565,6 +117602,7 @@ return {
                 [6] = "ROTATION_stefan (string)",
                 [7] = "ROTATION_twitch_1_9_0 (string)",
                 [8] = "ROTATION_zoya (string)",
+                [9] = "ROTATION_victoria_mick (string)",
             },
             hide_slots = {
             },
@@ -117811,6 +117849,7 @@ return {
                 [14] = "ROTATION_pete_2 (string)",
                 [15] = "ROTATION_week_1 (string)",
                 [16] = "ROTATION_sebastian_duncan (string)",
+                [17] = "ROTATION_bobby_jeff (string)",
             },
             hide_slots = {
             },
@@ -117890,6 +117929,7 @@ return {
                 [17] = "ROTATION_week_1 (string)",
                 [18] = "ROTATION_wilkazo (string)",
                 [19] = "ROTATION_luke_kasrkin (string)",
+                [20] = "ROTATION_bobby_jeff (string)",
             },
             hide_slots = {
             },
@@ -118383,6 +118423,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_bobby (string)",
+                [3] = "ROTATION_bobby_jeff (string)",
             },
             hide_slots = {
             },
@@ -118413,6 +118454,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "ROTATION_bobbylorene (string)",
+                [2] = "ROTATION_bobby_jeff (string)",
             },
             hide_slots = {
             },
@@ -119286,6 +119328,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_bobby (string)",
+                [3] = "ROTATION_bobby_jeff (string)",
             },
             hide_slots = {
             },
@@ -120326,6 +120369,7 @@ return {
                 [1] = "ROTATION_louise (string)",
                 [2] = "ROTATION_mick (string)",
                 [3] = "ROTATION_stefan (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -142471,6 +142515,122 @@ return {
             },
             workflow_state = "RELEASABLE (string)",
         },
+        ["content/items/characters/player/human/gear_head/catachan_catchan_jungd_fighters_02_var_01"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "veteran (string)",
+            },
+            attach_node = "j_spine2 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_head/catchan_jungd_fighters_02 (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_colors/color_3_colour_city_03 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_02 (string)",
+                        [3] = "content/items/material_overrides/gear_patterns/pattern_camo_14_inv (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/characters/player/human/third_person/base_gear_rig (string)",
+            breeds = {
+                [1] = "human (string)",
+            },
+            crimes = {
+            },
+            deform_mesh_source = "from_male (string)",
+            description = "loc_catachan_catchan_jungd_fighters_02_var_01_desc (string)",
+            dev_description = "Catachan themed headset with headband. Blue and black colour scheme (string)",
+            dev_name = "catachan_catchan_jungd_fighters_02_var_01 (string)",
+            display_name = "loc_catachan_catchan_jungd_fighters_02_var_01 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_beard = "false (boolean)",
+            hide_eyebrows = "false (boolean)",
+            hide_slots = {
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_HEAD (string)",
+            mask_face = " (string)",
+            mask_face_accessory = " (string)",
+            mask_face_accessory_item = " (string)",
+            mask_face_item = " (string)",
+            mask_facial_hair = " (string)",
+            mask_facial_hair_item = " (string)",
+            mask_hair = " (string)",
+            mask_hair_item = " (string)",
+            mask_hair_override = {
+            },
+            material_override_items = {
+                [1] = " (string)",
+            },
+            name = "content/items/characters/player/human/gear_head/catachan_catchan_jungd_fighters_02_var_01 (string)",
+            parent_slot_names = {
+                [1] = "slot_body_face (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/human/third_person/base_gear_rig"] = "true (boolean)",
+            },
+            slots = {
+                [1] = "slot_gear_head (string)",
+            },
+            sort_order = "0 (number)",
+            source = "premium_store (string)",
+            stabilize_neck = "0 (number)",
+            tags = {
+            },
+            voice_effect_combination = "default (string)",
+            voice_fx_preset = "voice_fx_rtpc_none (string)",
+            workflow_checklist = {
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
         ["content/items/characters/player/human/gear_head/catachan_colonel_cap_a_var_05"] = {
             always_owned = "false (boolean)",
             archetypes = {
@@ -145611,6 +145771,7 @@ return {
                 [16] = "ROTATION_rodger (string)",
                 [17] = "ROTATION_week_3 (string)",
                 [18] = "ROTATION_zoya (string)",
+                [19] = "ROTATION_bobby_jeff (string)",
             },
             genders = {
             },
@@ -145727,6 +145888,7 @@ return {
                 [2] = "ROTATION_niva_2 (string)",
                 [3] = "ROTATION_robin (string)",
                 [4] = "ROTATION_stefan (string)",
+                [5] = "ROTATION_bobby_jeff (string)",
             },
             genders = {
             },
@@ -158750,6 +158912,7 @@ return {
             feature_flags = {
                 [1] = "ROTATION_gun (string)",
                 [2] = "ROTATION_mick (string)",
+                [3] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -161263,6 +161426,7 @@ return {
             display_name = "loc_eye_tech_01_var_02 (string)",
             feature_flags = {
                 [1] = "ROTATION_sebastiankajsa (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -162568,6 +162732,7 @@ return {
                 [3] = "ROTATION_lorene (string)",
                 [4] = "ROTATION_lorene_2 (string)",
                 [5] = "ROTATION_martinez (string)",
+                [6] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -162711,6 +162876,7 @@ return {
             display_name = "loc_frateris_militia_a_03_headgear_set_05 (string)",
             feature_flags = {
                 [1] = "ROTATION_martinez (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -162856,6 +163022,7 @@ return {
             display_name = "loc_frateris_militia_a_03_headgear_set_06 (string)",
             feature_flags = {
                 [1] = "ROTATION_martinez (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -167224,6 +167391,7 @@ return {
             display_name = "loc_guardsman_c_headgear_set_05 (string)",
             feature_flags = {
                 [1] = "ROTATION_elsa (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -168795,6 +168963,7 @@ return {
             always_owned = "false (boolean)",
             archetypes = {
                 [1] = "psyker (string)",
+                [2] = "zealot (string)",
             },
             attach_node = "j_spine2 (string)",
             attachments = {
@@ -168916,6 +169085,7 @@ return {
             always_owned = "false (boolean)",
             archetypes = {
                 [1] = "psyker (string)",
+                [2] = "zealot (string)",
             },
             attach_node = "j_spine2 (string)",
             attachments = {
@@ -169843,6 +170013,7 @@ return {
                 [14] = "ROTATION_rodgercatherine (string)",
                 [15] = "ROTATION_zoya (string)",
                 [16] = "ROTATION_sebastian_duncan (string)",
+                [17] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -171249,6 +171420,7 @@ return {
                 [6] = "ROTATION_rodgercatherine (string)",
                 [7] = "ROTATION_stefan (string)",
                 [8] = "ROTATION_luke_kasrkin (string)",
+                [9] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -176490,6 +176662,7 @@ return {
                 [1] = "ROTATION_lorene (string)",
                 [2] = "ROTATION_lorene_2 (string)",
                 [3] = "ROTATION_mick (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -184962,6 +185135,7 @@ return {
                 [26] = "ROTATION_zoya (string)",
                 [27] = "ROTATION_urskyr (string)",
                 [28] = "ROTATION_ursula_ulf (string)",
+                [29] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -191953,7 +192127,7 @@ return {
             mask_face = "mask_face_both_ears (string)",
             mask_face_accessory = " (string)",
             mask_face_accessory_item = " (string)",
-            mask_face_item = "content/items/material_overrides/player_face_mask/mask_face_both_ears (string)",
+            mask_face_item = "content/items/material_overrides/player_face_mask/mask_face_both_ears_01 (string)",
             mask_facial_hair = " (string)",
             mask_facial_hair_item = " (string)",
             mask_hair = "hair_mask_shrink_sides_03 (string)",
@@ -197453,6 +197627,123 @@ return {
             },
             workflow_state = "RELEASABLE (string)",
         },
+        ["content/items/characters/player/human/gear_head/psyker_catachan_headgear_a_var_08"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "psyker (string)",
+            },
+            attach_node = "j_spine2 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/characters/player/human/attachments_gear/headgear/psyker_catachan_headgear_a/psyker_catachan_headgear_a (string)",
+            breeds = {
+                [1] = "human (string)",
+            },
+            crimes = {
+            },
+            deform_mesh_source = "from_male (string)",
+            description = "loc_psyker_catachan_headgear_a_var_08_desc (string)",
+            dev_description = "Psyker catachan headgear. Padded collar and eyefold. Blue and black colour scheme. (string)",
+            dev_name = "psyker_catachan_headgear_a_var_08 (string)",
+            display_name = "loc_psyker_catachan_headgear_a_var_08 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_beard = "false (boolean)",
+            hide_eyebrows = "false (boolean)",
+            hide_slots = {
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_HEAD (string)",
+            mask_face = "mask_brow (string)",
+            mask_face_accessory = " (string)",
+            mask_face_accessory_item = " (string)",
+            mask_face_item = "content/items/material_overrides/player_face_mask/mask_brow (string)",
+            mask_facial_hair = " (string)",
+            mask_facial_hair_item = " (string)",
+            mask_hair = " (string)",
+            mask_hair_item = " (string)",
+            mask_hair_override = {
+            },
+            material_override_items = {
+                [1] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_02 (string)",
+                [2] = "content/items/material_overrides/gear_colors/color_3_colour_city_03 (string)",
+                [3] = "content/items/material_overrides/gear_patterns/pattern_camo_14_inv (string)",
+                [4] = "content/items/material_overrides/gear_patterns/pattern_camo_empty_01 (string)",
+                [5] = "content/items/material_overrides/player_pattern_properties/pattern_01_rotation_03 (string)",
+            },
+            name = "content/items/characters/player/human/gear_head/psyker_catachan_headgear_a_var_08 (string)",
+            parent_slot_names = {
+                [1] = "slot_body_face (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/human/attachments_gear/headgear/psyker_catachan_headgear_a/psyker_catachan_headgear_a"] = "true (boolean)",
+            },
+            slots = {
+                [1] = "slot_gear_head (string)",
+            },
+            sort_order = "0 (number)",
+            source = "premium_store (string)",
+            stabilize_neck = "75 (number)",
+            tags = {
+            },
+            voice_effect_combination = "default (string)",
+            voice_fx_preset = "voice_fx_rtpc_none (string)",
+            workflow_checklist = {
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
         ["content/items/characters/player/human/gear_head/psyker_chem_dogs_headgear_a_collar"] = {
             always_owned = "false (boolean)",
             archetypes = {
@@ -200044,6 +200335,7 @@ return {
             feature_flags = {
                 [1] = "ROTATION_victoria (string)",
                 [2] = "ROTATION_luke_2 (string)",
+                [3] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -203789,6 +204081,7 @@ return {
             display_name = " (string)",
             feature_flags = {
                 [1] = "ROTATION_bobbylorene (string)",
+                [2] = "ROTATION_bobby_jeff (string)",
             },
             genders = {
             },
@@ -203902,6 +204195,7 @@ return {
             display_name = " (string)",
             feature_flags = {
                 [1] = "ROTATION_bobbylorene (string)",
+                [2] = "ROTATION_bobby_jeff (string)",
             },
             genders = {
             },
@@ -204015,6 +204309,7 @@ return {
             display_name = " (string)",
             feature_flags = {
                 [1] = "ROTATION_bobbylorene (string)",
+                [2] = "ROTATION_bobby_jeff (string)",
             },
             genders = {
             },
@@ -204429,6 +204724,404 @@ return {
                 [3] = " (string)",
             },
             name = "content/items/characters/player/human/gear_head/psyker_enforcer_headgear_b_var_03 (string)",
+            parent_slot_names = {
+                [1] = "slot_body_face (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/human/third_person/base_gear_rig"] = "true (boolean)",
+            },
+            slots = {
+                [1] = "slot_gear_head (string)",
+            },
+            sort_order = "0 (number)",
+            source = "premium_store (string)",
+            stabilize_neck = "75 (number)",
+            tags = {
+            },
+            voice_effect_combination = "default (string)",
+            voice_fx_preset = "voice_fx_rtpc_epic_enforcer (string)",
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+                [2] = "SFX_DONE (string)",
+                [3] = "TA_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/characters/player/human/gear_head/psyker_enforcer_headgear_b_var_04"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "psyker (string)",
+            },
+            attach_node = "j_spine2 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_head/psyker_enforcer_headgear_b (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/oxidized_metal_steel_wear_02 (string)",
+                        [2] = "content/items/material_overrides/gear_colors/color_1_colour_black_01 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/coated_wear_03 (string)",
+                        [4] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_02 (string)",
+                        [5] = "content/items/material_overrides/player_emissive/emissive_yellow_02 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_head/psyker_enforcer_headgear_b_hood_01 (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_colors/color_2_colour_red_06 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_02 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/oxidized_metal_steel_wear_02 (string)",
+                        [4] = " (string)",
+                        [5] = " (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/characters/player/human/third_person/base_gear_rig (string)",
+            breeds = {
+                [1] = "human (string)",
+            },
+            crimes = {
+            },
+            deform_mesh_source = "from_male (string)",
+            description = "loc_psyker_enforcer_headgear_b_var_04_desc (string)",
+            dev_description = "Psyker enforcer headgear b. Helmet combined with hood - Black metal. Black hood. Orange yellow emissive (string)",
+            dev_name = "psyker_enforcer_headgear_b_var_04 (string)",
+            display_name = "loc_psyker_enforcer_headgear_b_var_04 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_beard = "true (boolean)",
+            hide_eyebrows = "true (boolean)",
+            hide_slots = {
+                [1] = "slot_body_hair (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_HEAD (string)",
+            mask_face = "mask_face_keep_neck_d (string)",
+            mask_face_accessory = "mask_accessory_remove_all (string)",
+            mask_face_accessory_item = "content/items/material_overrides/player_face_mask/mask_accessory_remove_all (string)",
+            mask_face_item = "content/items/material_overrides/player_face_mask/mask_face_keep_neck_d (string)",
+            mask_facial_hair = " (string)",
+            mask_facial_hair_item = " (string)",
+            mask_hair = " (string)",
+            mask_hair_item = " (string)",
+            mask_hair_override = {
+            },
+            material_override_items = {
+                [1] = " (string)",
+                [2] = " (string)",
+                [3] = " (string)",
+            },
+            name = "content/items/characters/player/human/gear_head/psyker_enforcer_headgear_b_var_04 (string)",
+            parent_slot_names = {
+                [1] = "slot_body_face (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/human/third_person/base_gear_rig"] = "true (boolean)",
+            },
+            slots = {
+                [1] = "slot_gear_head (string)",
+            },
+            sort_order = "0 (number)",
+            source = "premium_store (string)",
+            stabilize_neck = "75 (number)",
+            tags = {
+            },
+            voice_effect_combination = "default (string)",
+            voice_fx_preset = "voice_fx_rtpc_epic_enforcer (string)",
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+                [2] = "SFX_DONE (string)",
+                [3] = "TA_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/characters/player/human/gear_head/psyker_enforcer_headgear_b_var_05"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "psyker (string)",
+            },
+            attach_node = "j_spine2 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_head/psyker_enforcer_headgear_b (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/oxidized_metal_steel_wear_02 (string)",
+                        [2] = "content/items/material_overrides/gear_colors/color_1_colour_forest_01 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/coated_wear_03 (string)",
+                        [4] = "content/items/material_overrides/gear_materials/fabric_cotton_01_denim_01_wear_01 (string)",
+                        [5] = "content/items/material_overrides/player_emissive/emissive_yellow_01 (string)",
+                        [6] = "content/items/material_overrides/player_gear_decals/decal_slot_index/coated_decal_slot_01_index_08 (string)",
+                        [7] = "content/items/material_overrides/player_gear_decals/decal_atlasses/coated_decal_atlas_broker_gang_01 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_head/psyker_enforcer_headgear_b_hood (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_colors/color_1_colour_forest_01 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_01 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/oxidized_metal_steel_wear_02 (string)",
+                        [4] = " (string)",
+                        [5] = " (string)",
+                        [6] = " (string)",
+                        [7] = "content/items/material_overrides/gear_materials/outfit_dirt_03 (string)",
+                        [8] = "content/items/material_overrides/gear_materials/decal_blend_02 (string)",
+                        [9] = " (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/characters/player/human/third_person/base_gear_rig (string)",
+            breeds = {
+                [1] = "human (string)",
+            },
+            crimes = {
+            },
+            deform_mesh_source = "from_male (string)",
+            description = "loc_psyker_enforcer_headgear_b_var_05_desc (string)",
+            dev_description = "Psyker enforcer headgear b. Helmet combined with hood - Black metal  with yellow and black hazard stripes and green hood. Yellow emissive (string)",
+            dev_name = "psyker_enforcer_headgear_b_var_05 (string)",
+            display_name = "loc_psyker_enforcer_headgear_b_var_05 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_beard = "true (boolean)",
+            hide_eyebrows = "true (boolean)",
+            hide_slots = {
+                [1] = "slot_body_hair (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_HEAD (string)",
+            mask_face = "mask_face_keep_neck_d (string)",
+            mask_face_accessory = "mask_accessory_remove_all (string)",
+            mask_face_accessory_item = "content/items/material_overrides/player_face_mask/mask_accessory_remove_all (string)",
+            mask_face_item = "content/items/material_overrides/player_face_mask/mask_face_keep_neck_d (string)",
+            mask_facial_hair = " (string)",
+            mask_facial_hair_item = " (string)",
+            mask_hair = " (string)",
+            mask_hair_item = " (string)",
+            mask_hair_override = {
+            },
+            material_override_items = {
+                [1] = " (string)",
+                [2] = " (string)",
+                [3] = " (string)",
+            },
+            name = "content/items/characters/player/human/gear_head/psyker_enforcer_headgear_b_var_05 (string)",
+            parent_slot_names = {
+                [1] = "slot_body_face (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/human/third_person/base_gear_rig"] = "true (boolean)",
+            },
+            slots = {
+                [1] = "slot_gear_head (string)",
+            },
+            sort_order = "0 (number)",
+            source = "premium_store (string)",
+            stabilize_neck = "75 (number)",
+            tags = {
+            },
+            voice_effect_combination = "default (string)",
+            voice_fx_preset = "voice_fx_rtpc_epic_enforcer (string)",
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+                [2] = "SFX_DONE (string)",
+                [3] = "TA_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/characters/player/human/gear_head/psyker_enforcer_headgear_b_var_06"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "psyker (string)",
+            },
+            attach_node = "j_spine2 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_head/psyker_enforcer_headgear_b (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/oxidized_metal_steel_wear_02 (string)",
+                        [2] = "content/items/material_overrides/gear_colors/color_3_colour_gray_03 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/coated_wear_03 (string)",
+                        [4] = "content/items/material_overrides/gear_materials/fabric_leather_03_wear_01 (string)",
+                        [5] = "content/items/material_overrides/player_emissive/emissive_blue_02 (string)",
+                        [6] = "content/items/material_overrides/player_gear_decals/decal_atlasses/coated_decal_atlas_broker_gang_04 (string)",
+                        [7] = "content/items/material_overrides/player_gear_decals/decal_slot_index/coated_decal_slot_01_index_15 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_head/psyker_enforcer_headgear_b_hood (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_colors/color_3_colour_gray_03 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_02 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/oxidized_metal_steel_wear_02 (string)",
+                        [4] = "content/items/material_overrides/player_pattern_properties/pattern_01_tiling_02 (string)",
+                        [5] = " (string)",
+                        [6] = "content/items/material_overrides/player_pattern_properties/pattern_01_rotation_04 (string)",
+                        [7] = "content/items/material_overrides/gear_materials/outfit_dirt_03 (string)",
+                        [8] = "content/items/material_overrides/gear_materials/decal_blend_02 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/characters/player/human/third_person/base_gear_rig (string)",
+            breeds = {
+                [1] = "human (string)",
+            },
+            crimes = {
+            },
+            deform_mesh_source = "from_male (string)",
+            description = "loc_psyker_enforcer_headgear_b_var_06_desc (string)",
+            dev_description = "Psyker enforcer headgear b. Helmet combined with hood - Grey metal and hood. Blue emissive (string)",
+            dev_name = "psyker_enforcer_headgear_b_var_06 (string)",
+            display_name = "loc_psyker_enforcer_headgear_b_var_06 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_beard = "true (boolean)",
+            hide_eyebrows = "true (boolean)",
+            hide_slots = {
+                [1] = "slot_body_hair (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_HEAD (string)",
+            mask_face = "mask_face_keep_neck_d (string)",
+            mask_face_accessory = "mask_accessory_remove_all (string)",
+            mask_face_accessory_item = "content/items/material_overrides/player_face_mask/mask_accessory_remove_all (string)",
+            mask_face_item = "content/items/material_overrides/player_face_mask/mask_face_keep_neck_d (string)",
+            mask_facial_hair = " (string)",
+            mask_facial_hair_item = " (string)",
+            mask_hair = " (string)",
+            mask_hair_item = " (string)",
+            mask_hair_override = {
+            },
+            material_override_items = {
+                [1] = " (string)",
+                [2] = " (string)",
+                [3] = " (string)",
+            },
+            name = "content/items/characters/player/human/gear_head/psyker_enforcer_headgear_b_var_06 (string)",
             parent_slot_names = {
                 [1] = "slot_body_face (string)",
             },
@@ -209969,6 +210662,7 @@ return {
                 [1] = "ROTATION_cadumbra (string)",
                 [2] = "ROTATION_claus (string)",
                 [3] = "ROTATION_martinez (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -210124,6 +210818,7 @@ return {
             display_name = "loc_psyker_metal_cap_hood_01_var_02 (string)",
             feature_flags = {
                 [1] = "ROTATION_claus (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -210372,6 +211067,7 @@ return {
             feature_flags = {
                 [1] = "ROTATION_cadumbra (string)",
                 [2] = "ROTATION_martinez (string)",
+                [3] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -210617,6 +211313,7 @@ return {
             display_name = "loc_psyker_metal_cap_hood_01_var_06 (string)",
             feature_flags = {
                 [1] = "ROTATION_martinez (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -213277,6 +213974,7 @@ return {
             feature_flags = {
                 [1] = "ROTATION_luke_2 (string)",
                 [2] = "ROTATION_rodger_catherine_3 (string)",
+                [3] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -213511,6 +214209,7 @@ return {
             display_name = "loc_psyker_rogue_trader_headgear_02_circlet_headgear_01_var_02 (string)",
             feature_flags = {
                 [1] = "ROTATION_luke_2 (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -213630,6 +214329,7 @@ return {
             display_name = "loc_psyker_rogue_trader_headgear_02_circlet_headgear_01_var_03 (string)",
             feature_flags = {
                 [1] = "ROTATION_luke_2 (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -213749,6 +214449,7 @@ return {
             display_name = "loc_psyker_rogue_trader_headgear_02_circlet_headgear_01_var_04 (string)",
             feature_flags = {
                 [1] = "ROTATION_luke_2 (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -214938,6 +215639,7 @@ return {
             display_name = "loc_psyker_rogue_trader_headgear_a_var_01 (string)",
             feature_flags = {
                 [1] = "ROTATION_rodgercatherine (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -215057,7 +215759,8 @@ return {
                 [2] = "ROTATION_kajsa (string)",
                 [3] = "ROTATION_rodger (string)",
                 [4] = "ROTATION_rodgercatherine (string)",
-                [5] = "ROTATION_wilkazo (string)",
+                [5] = "ROTATION_victoria_mick (string)",
+                [6] = "ROTATION_wilkazo (string)",
             },
             genders = {
             },
@@ -215175,6 +215878,7 @@ return {
             display_name = "loc_psyker_rogue_trader_headgear_a_var_03 (string)",
             feature_flags = {
                 [1] = "ROTATION_rodgercatherine (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -222257,6 +222961,7 @@ return {
                 [3] = "ROTATION_creed (string)",
                 [4] = "ROTATION_creed_2 (string)",
                 [5] = "ROTATION_louise (string)",
+                [6] = "ROTATION_bobby_jeff (string)",
             },
             genders = {
             },
@@ -226300,6 +227005,125 @@ return {
             },
             workflow_state = "RELEASABLE (string)",
         },
+        ["content/items/characters/player/human/gear_head/rogue_trader_leather_hood_w_goggles_a_var_02"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "zealot (string)",
+            },
+            attach_node = "j_spine2 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/characters/player/human/attachments_gear/headgear/leather_hood_w_goggles_a/leather_hood_w_goggles_a (string)",
+            breeds = {
+                [1] = "human (string)",
+            },
+            crimes = {
+            },
+            deform_mesh_source = "from_male (string)",
+            description = "loc_rogue_trader_leather_hood_w_goggles_a_var_02_desc (string)",
+            dev_description = "Rogue Trader themed hood with goggles. Turqoise color scheme with brass metal.  (string)",
+            dev_name = "rogue_trader_leather_hood_w_goggles_a_var_02 (string)",
+            display_name = "loc_rogue_trader_leather_hood_w_goggles_a_var_02 (string)",
+            feature_flags = {
+                [1] = "ROTATION_victoria_mick (string)",
+            },
+            genders = {
+            },
+            hide_beard = "false (boolean)",
+            hide_eyebrows = "true (boolean)",
+            hide_slots = {
+                [1] = "slot_body_hair (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_HEAD (string)",
+            mask_face = "mask_face_both_ears (string)",
+            mask_face_accessory = " (string)",
+            mask_face_accessory_item = " (string)",
+            mask_face_item = "content/items/material_overrides/player_face_mask/mask_face_both_ears (string)",
+            mask_facial_hair = "facial_hair_mask_sides_01 (string)",
+            mask_facial_hair_item = "content/items/material_overrides/player_hair_headgear_mask/facial_hair_mask_sides_01 (string)",
+            mask_hair = " (string)",
+            mask_hair_item = " (string)",
+            mask_hair_override = {
+            },
+            material_override_items = {
+                [1] = "content/items/material_overrides/gear_materials/fabric_wool_02_wear_02 (string)",
+                [2] = "content/items/material_overrides/gear_colors/color_3_colour_city_06 (string)",
+                [3] = " (string)",
+                [4] = "content/items/material_overrides/gear_materials/oxidized_metal_brass_wear_01 (string)",
+            },
+            name = "content/items/characters/player/human/gear_head/rogue_trader_leather_hood_w_goggles_a_var_02 (string)",
+            parent_slot_names = {
+                [1] = "slot_body_face (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/human/attachments_gear/headgear/leather_hood_w_goggles_a/leather_hood_w_goggles_a"] = "true (boolean)",
+            },
+            slots = {
+                [1] = "slot_gear_head (string)",
+            },
+            sort_order = "0 (number)",
+            source = "premium_store (string)",
+            stabilize_neck = "0 (number)",
+            tags = {
+            },
+            voice_effect_combination = "default (string)",
+            voice_fx_preset = "voice_fx_rtpc_none (string)",
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+                [2] = "SFX_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
         ["content/items/characters/player/human/gear_head/rogue_trader_leather_hood_w_goggles_a_var_04"] = {
             always_owned = "false (boolean)",
             archetypes = {
@@ -226368,7 +227192,8 @@ return {
                 [2] = "ROTATION_nork (string)",
                 [3] = "ROTATION_pete (string)",
                 [4] = "ROTATION_pete_2 (string)",
-                [5] = "ROTATION_week_3 (string)",
+                [5] = "ROTATION_victoria_mick (string)",
+                [6] = "ROTATION_week_3 (string)",
             },
             genders = {
             },
@@ -226488,7 +227313,8 @@ return {
             display_name = "loc_rogue_trader_leather_hood_w_goggles_a_var_05 (string)",
             feature_flags = {
                 [1] = "ROTATION_elsawilmer (string)",
-                [2] = "ROTATION_wilmer (string)",
+                [2] = "ROTATION_victoria_mick (string)",
+                [3] = "ROTATION_wilmer (string)",
             },
             genders = {
             },
@@ -229411,12 +230237,13 @@ return {
             dev_name = "rogue_trader_safety_goggles_a_var_01 (string)",
             display_name = "loc_rogue_trader_safety_goggles_a_var_01 (string)",
             feature_flags = {
-                [1] = "ROTATION_lenny (string)",
-                [2] = "ROTATION_lukas (string)",
-                [3] = "ROTATION_pete (string)",
-                [4] = "ROTATION_pete_2 (string)",
-                [5] = "ROTATION_stefan (string)",
-                [6] = "ROTATION_week_3 (string)",
+                [1] = "ROTATION_bobby_jeff (string)",
+                [2] = "ROTATION_lenny (string)",
+                [3] = "ROTATION_lukas (string)",
+                [4] = "ROTATION_pete (string)",
+                [5] = "ROTATION_pete_2 (string)",
+                [6] = "ROTATION_stefan (string)",
+                [7] = "ROTATION_week_3 (string)",
             },
             genders = {
             },
@@ -229534,6 +230361,7 @@ return {
                 [1] = "ROTATION_rodcat_2 (string)",
                 [2] = "ROTATION_rodger (string)",
                 [3] = "ROTATION_rodger_catherine_3 (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -229649,6 +230477,7 @@ return {
                 [1] = "ROTATION_rodcat_2 (string)",
                 [2] = "ROTATION_rodger (string)",
                 [3] = "ROTATION_rodger_catherine_3 (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -251980,6 +252809,7 @@ return {
             feature_flags = {
                 [1] = "ROTATION_martinez (string)",
                 [2] = "ROTATION_vraksdavid (string)",
+                [3] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -252343,7 +253173,8 @@ return {
             display_name = "loc_veteran_beret_headgear_01_a_bioniceye_d_var_01 (string)",
             feature_flags = {
                 [1] = "ROTATION_martinez (string)",
-                [2] = "ROTATION_vraksdavid (string)",
+                [2] = "ROTATION_victoria_mick (string)",
+                [3] = "ROTATION_vraksdavid (string)",
             },
             genders = {
             },
@@ -252709,7 +253540,8 @@ return {
             dev_name = "veteran_beret_headgear_01_a_bioniceye_d_var_02 (string)",
             display_name = "loc_veteran_beret_headgear_01_a_bioniceye_d_var_02 (string)",
             feature_flags = {
-                [1] = "ROTATION_vraksdavid (string)",
+                [1] = "ROTATION_victoria_mick (string)",
+                [2] = "ROTATION_vraksdavid (string)",
             },
             genders = {
             },
@@ -253073,7 +253905,8 @@ return {
             dev_name = "veteran_beret_headgear_01_a_bioniceye_d_var_03 (string)",
             display_name = "loc_veteran_beret_headgear_01_a_bioniceye_d_var_03 (string)",
             feature_flags = {
-                [1] = "ROTATION_vraksdavid (string)",
+                [1] = "ROTATION_victoria_mick (string)",
+                [2] = "ROTATION_vraksdavid (string)",
             },
             genders = {
             },
@@ -258276,6 +259109,7 @@ return {
             feature_flags = {
                 [1] = "ROTATION_rafal (string)",
                 [2] = "ROTATION_victoria (string)",
+                [3] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -258390,6 +259224,7 @@ return {
             feature_flags = {
                 [1] = "ROTATION_rafal (string)",
                 [2] = "ROTATION_victoria (string)",
+                [3] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -259346,6 +260181,7 @@ return {
             display_name = "loc_veteran_ecclesiarchy_hood_a_bioniceye_d_var_01 (string)",
             feature_flags = {
                 [1] = "ROTATION_victoria (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -259602,6 +260438,7 @@ return {
             display_name = "loc_veteran_ecclesiarchy_hood_a_bioniceye_d_var_02 (string)",
             feature_flags = {
                 [1] = "ROTATION_rafal (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -259726,6 +260563,7 @@ return {
             display_name = "loc_veteran_ecclesiarchy_hood_a_bioniceye_d_var_03 (string)",
             feature_flags = {
                 [1] = "ROTATION_rafal (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -263091,6 +263929,377 @@ return {
             },
             workflow_state = "RELEASABLE (string)",
         },
+        ["content/items/characters/player/human/gear_head/veteran_enforcer_headgear_a_var_05"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "veteran (string)",
+            },
+            attach_node = "j_spine2 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/characters/player/human/attachments_gear/headgear/veteran_enforcer_headgear_a/veteran_enforcer_headgear_a (string)",
+            breeds = {
+                [1] = "human (string)",
+            },
+            crimes = {
+            },
+            deform_mesh_source = "from_male (string)",
+            description = "loc_veteran_enforcer_headgear_a_var_05_desc (string)",
+            dev_description = "veteran enforcer headgear a var 05 - Black metal, Orange yellow emissive\r\n (string)",
+            dev_name = "veteran_enforcer_headgear_a_var_05 (string)",
+            display_name = "loc_veteran_enforcer_headgear_a_var_05 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_beard = "false (boolean)",
+            hide_eyebrows = "false (boolean)",
+            hide_slots = {
+                [1] = "slot_body_face_hair (string)",
+                [2] = "slot_body_face_scar (string)",
+                [3] = "slot_body_hair (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_HEAD (string)",
+            mask_face = "mask_face_keep_neck_d (string)",
+            mask_face_accessory = " (string)",
+            mask_face_accessory_item = " (string)",
+            mask_face_item = "content/items/material_overrides/player_face_mask/mask_face_keep_neck_d (string)",
+            mask_facial_hair = " (string)",
+            mask_facial_hair_item = " (string)",
+            mask_hair = " (string)",
+            mask_hair_item = " (string)",
+            mask_hair_override = {
+            },
+            material_override_items = {
+                [1] = "content/items/material_overrides/gear_colors/color_1_colour_black_01 (string)",
+                [2] = "content/items/material_overrides/gear_materials/coated_wear_03 (string)",
+                [3] = "content/items/material_overrides/gear_materials/oxidized_metal_iron_wear_02 (string)",
+                [4] = "content/items/material_overrides/gear_materials/fabric_leather_03_wear_01 (string)",
+                [5] = "content/items/material_overrides/player_emissive/emissive_yellow_02 (string)",
+                [6] = " (string)",
+            },
+            name = "content/items/characters/player/human/gear_head/veteran_enforcer_headgear_a_var_05 (string)",
+            parent_slot_names = {
+                [1] = "slot_body_face (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/human/attachments_gear/headgear/veteran_enforcer_headgear_a/veteran_enforcer_headgear_a"] = "true (boolean)",
+            },
+            slots = {
+                [1] = "slot_gear_head (string)",
+            },
+            sort_order = "0 (number)",
+            source = "premium_store (string)",
+            stabilize_neck = "0 (number)",
+            tags = {
+            },
+            voice_effect_combination = "default (string)",
+            voice_fx_preset = "voice_fx_rtpc_epic_enforcer (string)",
+            workflow_checklist = {
+                [1] = "SFX_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/characters/player/human/gear_head/veteran_enforcer_headgear_a_var_06"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "veteran (string)",
+            },
+            attach_node = "j_spine2 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/characters/player/human/attachments_gear/headgear/veteran_enforcer_headgear_a/veteran_enforcer_headgear_a (string)",
+            breeds = {
+                [1] = "human (string)",
+            },
+            crimes = {
+            },
+            deform_mesh_source = "from_male (string)",
+            description = "loc_veteran_enforcer_headgear_a_var_06_desc (string)",
+            dev_description = "veteran enforcer headgear a var 06 - Black and yellow hazard stripes on painted metal, Yellow emissive\r\n (string)",
+            dev_name = "veteran_enforcer_headgear_a_var_06 (string)",
+            display_name = "loc_veteran_enforcer_headgear_a_var_06 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_beard = "false (boolean)",
+            hide_eyebrows = "false (boolean)",
+            hide_slots = {
+                [1] = "slot_body_face_hair (string)",
+                [2] = "slot_body_face_scar (string)",
+                [3] = "slot_body_hair (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_HEAD (string)",
+            mask_face = "mask_face_keep_neck_d (string)",
+            mask_face_accessory = " (string)",
+            mask_face_accessory_item = " (string)",
+            mask_face_item = "content/items/material_overrides/player_face_mask/mask_face_keep_neck_d (string)",
+            mask_facial_hair = " (string)",
+            mask_facial_hair_item = " (string)",
+            mask_hair = " (string)",
+            mask_hair_item = " (string)",
+            mask_hair_override = {
+            },
+            material_override_items = {
+                [1] = "content/items/material_overrides/gear_colors/color_1_colour_forest_01 (string)",
+                [2] = "content/items/material_overrides/gear_materials/coated_wear_03 (string)",
+                [3] = "content/items/material_overrides/gear_materials/oxidized_metal_iron_wear_03 (string)",
+                [4] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_01 (string)",
+                [5] = "content/items/material_overrides/player_emissive/emissive_yellow_01 (string)",
+                [6] = "content/items/material_overrides/player_gear_decals/decal_atlasses/coated_decal_atlas_broker_gang_01 (string)",
+                [7] = " (string)",
+                [8] = "content/items/material_overrides/player_gear_decals/decal_slot_index/coated_decal_slot_01_index_08 (string)",
+                [9] = " (string)",
+            },
+            name = "content/items/characters/player/human/gear_head/veteran_enforcer_headgear_a_var_06 (string)",
+            parent_slot_names = {
+                [1] = "slot_body_face (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/human/attachments_gear/headgear/veteran_enforcer_headgear_a/veteran_enforcer_headgear_a"] = "true (boolean)",
+            },
+            slots = {
+                [1] = "slot_gear_head (string)",
+            },
+            sort_order = "0 (number)",
+            source = "premium_store (string)",
+            stabilize_neck = "1 (number)",
+            tags = {
+            },
+            voice_effect_combination = "default (string)",
+            voice_fx_preset = "voice_fx_rtpc_epic_enforcer (string)",
+            workflow_checklist = {
+                [1] = "SFX_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/characters/player/human/gear_head/veteran_enforcer_headgear_a_var_07"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "veteran (string)",
+            },
+            attach_node = "j_spine2 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/characters/player/human/attachments_gear/headgear/veteran_enforcer_headgear_a/veteran_enforcer_headgear_a (string)",
+            breeds = {
+                [1] = "human (string)",
+            },
+            crimes = {
+            },
+            deform_mesh_source = "from_male (string)",
+            description = "loc_veteran_enforcer_headgear_a_var_07_desc (string)",
+            dev_description = "veteran enforcer headgear a var 07 - Grey fabric.  (Black and grey checkered pattern on painted metal), blue emissive\r\n (string)",
+            dev_name = "veteran_enforcer_headgear_a_var_07 (string)",
+            display_name = "loc_veteran_enforcer_headgear_a_var_07 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_beard = "false (boolean)",
+            hide_eyebrows = "false (boolean)",
+            hide_slots = {
+                [1] = "slot_body_face_hair (string)",
+                [2] = "slot_body_face_scar (string)",
+                [3] = "slot_body_hair (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_HEAD (string)",
+            mask_face = "mask_face_keep_neck_d (string)",
+            mask_face_accessory = " (string)",
+            mask_face_accessory_item = " (string)",
+            mask_face_item = "content/items/material_overrides/player_face_mask/mask_face_keep_neck_d (string)",
+            mask_facial_hair = " (string)",
+            mask_facial_hair_item = " (string)",
+            mask_hair = " (string)",
+            mask_hair_item = " (string)",
+            mask_hair_override = {
+            },
+            material_override_items = {
+                [1] = "content/items/material_overrides/gear_colors/color_3_colour_gray_03 (string)",
+                [2] = "content/items/material_overrides/gear_materials/coated_wear_03 (string)",
+                [3] = "content/items/material_overrides/gear_materials/oxidized_metal_steel_iron_wear_02 (string)",
+                [4] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_01 (string)",
+                [5] = "content/items/material_overrides/player_emissive/emissive_blue_02 (string)",
+                [6] = "content/items/material_overrides/player_gear_decals/decal_atlasses/coated_decal_atlas_broker_gang_04 (string)",
+                [7] = "content/items/material_overrides/player_gear_decals/decal_slot_index/coated_decal_slot_01_index_15 (string)",
+                [8] = " (string)",
+            },
+            name = "content/items/characters/player/human/gear_head/veteran_enforcer_headgear_a_var_07 (string)",
+            parent_slot_names = {
+                [1] = "slot_body_face (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/human/attachments_gear/headgear/veteran_enforcer_headgear_a/veteran_enforcer_headgear_a"] = "true (boolean)",
+            },
+            slots = {
+                [1] = "slot_gear_head (string)",
+            },
+            sort_order = "0 (number)",
+            source = "premium_store (string)",
+            stabilize_neck = "0 (number)",
+            tags = {
+            },
+            voice_effect_combination = "default (string)",
+            voice_fx_preset = "voice_fx_rtpc_epic_enforcer (string)",
+            workflow_checklist = {
+                [1] = "SFX_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
         ["content/items/characters/player/human/gear_head/veteran_enforcer_helmet_a"] = {
             always_owned = "false (boolean)",
             archetypes = {
@@ -263156,6 +264365,7 @@ return {
             display_name = " (string)",
             feature_flags = {
                 [1] = "ROTATION_bobby (string)",
+                [2] = "ROTATION_bobby_jeff (string)",
             },
             genders = {
             },
@@ -267293,6 +268503,7 @@ return {
             display_name = "loc_veteran_rogue_trader_headgear_a_var_02 (string)",
             feature_flags = {
                 [1] = "ROTATION_rodgercatherine (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -267426,6 +268637,7 @@ return {
             feature_flags = {
                 [1] = "ROTATION_rodger (string)",
                 [2] = "ROTATION_rodgercatherine (string)",
+                [3] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -267557,6 +268769,7 @@ return {
             display_name = "loc_veteran_rogue_trader_headgear_a_var_04 (string)",
             feature_flags = {
                 [1] = "ROTATION_rodgercatherine (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -285818,6 +287031,7 @@ return {
             display_name = " (string)",
             feature_flags = {
                 [1] = "ROTATION_bobby (string)",
+                [2] = "ROTATION_bobby_jeff (string)",
             },
             genders = {
             },
@@ -286342,6 +287556,385 @@ return {
                 [3] = " (string)",
             },
             name = "content/items/characters/player/human/gear_head/zealot_enforcer_headgear_a_var_04 (string)",
+            parent_slot_names = {
+                [1] = "slot_body_face (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/human/third_person/base_gear_rig"] = "true (boolean)",
+            },
+            slots = {
+                [1] = "slot_gear_head (string)",
+            },
+            sort_order = "0 (number)",
+            source = "premium_store (string)",
+            stabilize_neck = "0 (number)",
+            tags = {
+            },
+            voice_effect_combination = "default (string)",
+            voice_fx_preset = "voice_fx_rtpc_epic_enforcer (string)",
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+                [2] = "SFX_DONE (string)",
+                [3] = "TA_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/characters/player/human/gear_head/zealot_enforcer_headgear_a_var_05"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "zealot (string)",
+            },
+            attach_node = "j_spine2 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_head/zealot_enforcer_headgear_a (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = " (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_head/veteran_enforcer_helmet_a (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/coated_wear_03 (string)",
+                        [2] = "content/items/material_overrides/gear_colors/color_1_colour_black_01 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_02 (string)",
+                        [4] = "content/items/material_overrides/player_emissive/emissive_yellow_02 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/characters/player/human/third_person/base_gear_rig (string)",
+            breeds = {
+                [1] = "human (string)",
+            },
+            crimes = {
+            },
+            deform_mesh_source = "from_male (string)",
+            description = "loc_zealot_enforcer_headgear_a_var_05_desc (string)",
+            dev_description = "Zealot enforcer headgear. Black metal, Yellow orange emissive (string)",
+            dev_name = "zealot_enforcer_headgear_a_var_05 (string)",
+            display_name = "loc_zealot_enforcer_headgear_a_var_05 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_beard = "true (boolean)",
+            hide_eyebrows = "true (boolean)",
+            hide_slots = {
+                [1] = "slot_body_face_hair (string)",
+                [2] = "slot_body_hair (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_HEAD (string)",
+            mask_face = "mask_face_keep_neck_d (string)",
+            mask_face_accessory = " (string)",
+            mask_face_accessory_item = " (string)",
+            mask_face_item = "content/items/material_overrides/player_face_mask/mask_face_keep_neck_d (string)",
+            mask_facial_hair = " (string)",
+            mask_facial_hair_item = " (string)",
+            mask_hair = " (string)",
+            mask_hair_item = " (string)",
+            mask_hair_override = {
+            },
+            material_override_items = {
+                [1] = " (string)",
+                [2] = " (string)",
+                [3] = " (string)",
+            },
+            name = "content/items/characters/player/human/gear_head/zealot_enforcer_headgear_a_var_05 (string)",
+            parent_slot_names = {
+                [1] = "slot_body_face (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/human/third_person/base_gear_rig"] = "true (boolean)",
+            },
+            slots = {
+                [1] = "slot_gear_head (string)",
+            },
+            sort_order = "0 (number)",
+            source = "premium_store (string)",
+            stabilize_neck = "0 (number)",
+            tags = {
+            },
+            voice_effect_combination = "default (string)",
+            voice_fx_preset = "voice_fx_rtpc_epic_enforcer (string)",
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+                [2] = "SFX_DONE (string)",
+                [3] = "TA_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/characters/player/human/gear_head/zealot_enforcer_headgear_a_var_06"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "zealot (string)",
+            },
+            attach_node = "j_spine2 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_head/zealot_enforcer_headgear_a (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = " (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_head/veteran_enforcer_helmet_a (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/coated_wear_03 (string)",
+                        [2] = "content/items/material_overrides/gear_colors/color_1_colour_forest_01 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/fabric_wool_01_wear_01 (string)",
+                        [4] = "content/items/material_overrides/player_emissive/emissive_yellow_01 (string)",
+                        [5] = "content/items/material_overrides/player_gear_decals/decal_atlasses/coated_decal_atlas_broker_gang_01 (string)",
+                        [6] = "content/items/material_overrides/player_gear_decals/decal_slot_index/coated_decal_slot_01_index_08 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/characters/player/human/third_person/base_gear_rig (string)",
+            breeds = {
+                [1] = "human (string)",
+            },
+            crimes = {
+            },
+            deform_mesh_source = "from_male (string)",
+            description = "loc_zealot_enforcer_headgear_a_var_06_desc (string)",
+            dev_description = "Zealot enforcer headgear. Green fabric, yellow black hazard stripes. Yellow emissive (string)",
+            dev_name = "zealot_enforcer_headgear_a_var_06 (string)",
+            display_name = "loc_zealot_enforcer_headgear_a_var_06 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_beard = "true (boolean)",
+            hide_eyebrows = "true (boolean)",
+            hide_slots = {
+                [1] = "slot_body_face_hair (string)",
+                [2] = "slot_body_hair (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_HEAD (string)",
+            mask_face = "mask_face_keep_neck_d (string)",
+            mask_face_accessory = " (string)",
+            mask_face_accessory_item = " (string)",
+            mask_face_item = "content/items/material_overrides/player_face_mask/mask_face_keep_neck_d (string)",
+            mask_facial_hair = " (string)",
+            mask_facial_hair_item = " (string)",
+            mask_hair = " (string)",
+            mask_hair_item = " (string)",
+            mask_hair_override = {
+            },
+            material_override_items = {
+                [1] = " (string)",
+                [2] = " (string)",
+                [3] = " (string)",
+            },
+            name = "content/items/characters/player/human/gear_head/zealot_enforcer_headgear_a_var_06 (string)",
+            parent_slot_names = {
+                [1] = "slot_body_face (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/human/third_person/base_gear_rig"] = "true (boolean)",
+            },
+            slots = {
+                [1] = "slot_gear_head (string)",
+            },
+            sort_order = "0 (number)",
+            source = "premium_store (string)",
+            stabilize_neck = "0 (number)",
+            tags = {
+            },
+            voice_effect_combination = "default (string)",
+            voice_fx_preset = "voice_fx_rtpc_epic_enforcer (string)",
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+                [2] = "SFX_DONE (string)",
+                [3] = "TA_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/characters/player/human/gear_head/zealot_enforcer_headgear_a_var_07"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "zealot (string)",
+            },
+            attach_node = "j_spine2 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_head/zealot_enforcer_headgear_a (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = " (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_head/veteran_enforcer_helmet_a (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/coated_wear_03 (string)",
+                        [2] = "content/items/material_overrides/gear_colors/color_3_colour_gray_03 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/fabric_wool_01_wear_01 (string)",
+                        [4] = "content/items/material_overrides/player_emissive/emissive_blue_02 (string)",
+                        [5] = "content/items/material_overrides/player_gear_decals/decal_atlasses/coated_decal_atlas_broker_gang_04 (string)",
+                        [6] = "content/items/material_overrides/player_gear_decals/decal_slot_index/coated_decal_slot_01_index_15 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/characters/player/human/third_person/base_gear_rig (string)",
+            breeds = {
+                [1] = "human (string)",
+            },
+            crimes = {
+            },
+            deform_mesh_source = "from_male (string)",
+            description = "loc_zealot_enforcer_headgear_a_var_07_desc (string)",
+            dev_description = "Zealot enforcer headgear. Grey fabric and metal, black checkered metal. Blue emissive (string)",
+            dev_name = "zealot_enforcer_headgear_a_var_07 (string)",
+            display_name = "loc_zealot_enforcer_headgear_a_var_07 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_beard = "true (boolean)",
+            hide_eyebrows = "true (boolean)",
+            hide_slots = {
+                [1] = "slot_body_face_hair (string)",
+                [2] = "slot_body_hair (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_HEAD (string)",
+            mask_face = "mask_face_keep_neck_d (string)",
+            mask_face_accessory = " (string)",
+            mask_face_accessory_item = " (string)",
+            mask_face_item = "content/items/material_overrides/player_face_mask/mask_face_keep_neck_d (string)",
+            mask_facial_hair = " (string)",
+            mask_facial_hair_item = " (string)",
+            mask_hair = " (string)",
+            mask_hair_item = " (string)",
+            mask_hair_override = {
+            },
+            material_override_items = {
+                [1] = " (string)",
+                [2] = " (string)",
+                [3] = " (string)",
+            },
+            name = "content/items/characters/player/human/gear_head/zealot_enforcer_headgear_a_var_07 (string)",
             parent_slot_names = {
                 [1] = "slot_body_face (string)",
             },
@@ -291193,6 +292786,7 @@ return {
             feature_flags = {
                 [1] = "ROTATION_rodger (string)",
                 [2] = "ROTATION_rodgercatherine (string)",
+                [3] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -291333,6 +292927,7 @@ return {
             display_name = "loc_zealot_rogue_trader_headgear_a_var_05 (string)",
             feature_flags = {
                 [1] = "ROTATION_rodgercatherine (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -291473,6 +293068,7 @@ return {
             display_name = "loc_zealot_rogue_trader_headgear_a_var_06 (string)",
             feature_flags = {
                 [1] = "ROTATION_rodgercatherine (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -295747,6 +297343,8 @@ return {
                 [30] = "ROTATION_wilmer (string)",
                 [31] = "ROTATION_twitch_1_12_0 (string)",
                 [32] = "ROTATION_rodger_catherine_3 (string)",
+                [33] = "ROTATION_victoria_mick (string)",
+                [34] = "ROTATION_bobby_jeff (string)",
             },
             hide_slots = {
                 [1] = "slot_body_legs (string)",
@@ -296114,6 +297712,7 @@ return {
                 [22] = "ROTATION_week_2 (string)",
                 [23] = "ROTATION_week_3 (string)",
                 [24] = "ROTATION_wilmer (string)",
+                [25] = "ROTATION_victoria_mick (string)",
             },
             hide_slots = {
                 [1] = "slot_body_legs (string)",
@@ -296229,6 +297828,7 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_mick (string)",
                 [3] = "ROTATION_oskar (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             hide_slots = {
                 [1] = "slot_body_legs (string)",
@@ -297151,6 +298751,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_bobby (string)",
+                [3] = "ROTATION_bobby_jeff (string)",
             },
             hide_slots = {
                 [1] = "slot_body_legs (string)",
@@ -297205,6 +298806,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_bobby (string)",
+                [3] = "ROTATION_bobby_jeff (string)",
             },
             hide_slots = {
                 [1] = "slot_body_legs (string)",
@@ -297258,6 +298860,7 @@ return {
                 [4] = "ROTATION_week_1 (string)",
                 [5] = "ROTATION_rodcat_2 (string)",
                 [6] = "ROTATION_rodger_catherine_3 (string)",
+                [7] = "ROTATION_bobby_jeff (string)",
             },
             hide_slots = {
                 [1] = "slot_body_legs (string)",
@@ -297372,6 +298975,7 @@ return {
                 [14] = "ROTATION_wilmer (string)",
                 [15] = "ROTATION_zoya (string)",
                 [16] = "ROTATION_francisco_malcador (string)",
+                [17] = "ROTATION_victoria_mick (string)",
             },
             hide_slots = {
                 [1] = "slot_body_legs (string)",
@@ -298124,6 +299728,7 @@ return {
                 [2] = "ROTATION_johanna (string)",
                 [3] = "ROTATION_pete (string)",
                 [4] = "ROTATION_pete_2 (string)",
+                [5] = "ROTATION_bobby_jeff (string)",
             },
             hide_slots = {
                 [1] = "slot_body_legs (string)",
@@ -299627,6 +301232,7 @@ return {
                 [4] = "ROTATION_mick (string)",
                 [5] = "ROTATION_stefan (string)",
                 [6] = "ROTATION_luke_2 (string)",
+                [7] = "ROTATION_victoria_mick (string)",
             },
             hide_slots = {
                 [1] = "slot_body_legs (string)",
@@ -301021,6 +302627,7 @@ return {
                 [1] = "ROTATION_louise (string)",
                 [2] = "ROTATION_mick (string)",
                 [3] = "ROTATION_stefan (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -304373,8 +305980,9 @@ return {
             feature_flags = {
                 [1] = "ROTATION_bill (string)",
                 [2] = "ROTATION_bill_2 (string)",
-                [3] = "ROTATION_cadumbra (string)",
-                [4] = "ROTATION_umbra (string)",
+                [3] = "ROTATION_bobby_jeff (string)",
+                [4] = "ROTATION_cadumbra (string)",
+                [5] = "ROTATION_umbra (string)",
             },
             genders = {
             },
@@ -305010,6 +306618,7 @@ return {
             display_name = "loc_astra_a_06_lowerbody_set_03 (string)",
             feature_flags = {
                 [1] = "ROTATION_victoria (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -306654,6 +308263,7 @@ return {
             display_name = "loc_astra_c_lowerbody_set_03 (string)",
             feature_flags = {
                 [1] = "ROTATION_mick (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -318005,6 +319615,139 @@ return {
             },
             workflow_state = "RELEASABLE (string)",
         },
+        ["content/items/characters/player/human/gear_lowerbody/frateris_militia_a_01_lowerbody_set_06"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "zealot (string)",
+            },
+            attach_node = "1 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_legs/fanatic_lowerbody_a_pants (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_leather_02_wool_01_wear_02 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/oxidized_metal_iron_wear_02 (string)",
+                        [3] = "content/items/material_overrides/gear_colors/color_3_colour_city_03 (string)",
+                        [4] = "content/items/material_overrides/gear_patterns/pattern_camo_14_inv (string)",
+                        [5] = " (string)",
+                        [6] = " (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_feet/fanatic_lowerbody_a_boots (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_02 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/oxidized_metal_iron_wear_02 (string)",
+                        [3] = "content/items/material_overrides/gear_colors/color_3_colour_city_03 (string)",
+                        [4] = "content/items/material_overrides/gear_patterns/pattern_camo_14_inv (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_5 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_6 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/characters/player/human/third_person/base_gear_rig (string)",
+            breeds = {
+                [1] = "human (string)",
+            },
+            crimes = {
+            },
+            description = "loc_frateris_militia_a_01_lowerbody_set_06_desc (string)",
+            dev_description = "Blue pattern with camo. (string)",
+            dev_name = "frateris_militia_a_01_lowerbody_set_06 (string)",
+            display_name = "loc_frateris_militia_a_01_lowerbody_set_06 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_slots = {
+                [1] = "slot_body_legs (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_LOWERBODY (string)",
+            mask_legs = " (string)",
+            mask_legs_item = " (string)",
+            material_override_items = {
+            },
+            name = "content/items/characters/player/human/gear_lowerbody/frateris_militia_a_01_lowerbody_set_06 (string)",
+            profile_properties = {
+                footstep_type_left = " (string)",
+                footstep_type_right = " (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/human/third_person/base_gear_rig"] = "true (boolean)",
+            },
+            show_in_1p = "false (boolean)",
+            slots = {
+                [1] = "slot_gear_lowerbody (string)",
+            },
+            source = "premium_store (string)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
         ["content/items/characters/player/human/gear_lowerbody/frateris_militia_a_02_lowerbody_set_01"] = {
             always_owned = "false (boolean)",
             archetypes = {
@@ -318218,6 +319961,7 @@ return {
             display_name = "loc_frateris_militia_a_02_lowerbody_set_02 (string)",
             feature_flags = {
                 [1] = "ROTATION_mick (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -320011,6 +321755,7 @@ return {
             display_name = "loc_frateris_militia_a_05_lowerbody_set_03 (string)",
             feature_flags = {
                 [1] = "ROTATION_victoria (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -322604,6 +324349,7 @@ return {
             display_name = "loc_imperial_guard_jacket_c_lowerbody_set_02 (string)",
             feature_flags = {
                 [1] = "ROTATION_victoria (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -324186,6 +325932,134 @@ return {
                 [1] = "content/items/material_overrides/gear_materials/coated_wear_04 (string)",
             },
             name = "content/items/characters/player/human/gear_lowerbody/imperial_guard_jacket_f_lowerbody_set_02 (string)",
+            profile_properties = {
+                footstep_type_left = " (string)",
+                footstep_type_right = " (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/human/third_person/base_gear_rig"] = "true (boolean)",
+            },
+            show_in_1p = "false (boolean)",
+            slots = {
+                [1] = "slot_gear_lowerbody (string)",
+            },
+            source = "premium_store (string)",
+            tags = {
+            },
+            workflow_checklist = {
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/characters/player/human/gear_lowerbody/imperial_guard_jacket_f_lowerbody_set_03"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "veteran (string)",
+            },
+            attach_node = "1 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_legs/militarum_lowerbody_a_pants (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_02 (string)",
+                        [2] = "content/items/material_overrides/gear_colors/color_3_colour_city_03 (string)",
+                        [3] = "content/items/material_overrides/gear_patterns/pattern_camo_14_inv (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_feet/militarum_lowerbody_a_boots (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_leather_02_wool_01_wear_03 (string)",
+                        [2] = "content/items/material_overrides/gear_colors/color_2_colour_mars_06 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_5 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_6 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/characters/player/human/third_person/base_gear_rig (string)",
+            breeds = {
+                [1] = "human (string)",
+            },
+            crimes = {
+            },
+            description = "loc_imperial_guard_jacket_f_lowerbody_set_03_desc (string)",
+            dev_description = "Cadia themed vehicle driver pants with camo, boots and peg. Color/camo scheme based on 122nd regiment.  (string)",
+            dev_name = "imperial_guard_jacket_f_lowerbody_set_03 (string)",
+            display_name = "loc_imperial_guard_jacket_f_lowerbody_set_03 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_slots = {
+                [1] = "slot_body_legs (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_LOWERBODY (string)",
+            mask_legs = " (string)",
+            mask_legs_item = " (string)",
+            material_override_items = {
+                [1] = "content/items/material_overrides/gear_materials/coated_wear_04 (string)",
+            },
+            name = "content/items/characters/player/human/gear_lowerbody/imperial_guard_jacket_f_lowerbody_set_03 (string)",
             profile_properties = {
                 footstep_type_left = " (string)",
                 footstep_type_right = " (string)",
@@ -328066,6 +329940,423 @@ return {
             material_override_items = {
             },
             name = "content/items/characters/player/human/gear_lowerbody/psyker_enforcer_lowerbody_b_var_04 (string)",
+            profile_properties = {
+                footstep_type_left = " (string)",
+                footstep_type_right = " (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/human/third_person/base_gear_rig"] = "true (boolean)",
+            },
+            show_in_1p = "false (boolean)",
+            slots = {
+                [1] = "slot_gear_lowerbody (string)",
+            },
+            source = "premium_store (string)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+                [2] = "TA_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/characters/player/human/gear_lowerbody/psyker_enforcer_lowerbody_b_var_05"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "psyker (string)",
+            },
+            attach_node = "1 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_legs/enforcer_lowerbody_b_pants (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_colors/color_1_colour_black_01 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_01 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/coated_wear_04 (string)",
+                        [4] = "content/items/material_overrides/gear_materials/outfit_dirt_02 (string)",
+                        [5] = "content/items/material_overrides/gear_materials/dirt_color_06 (string)",
+                        [6] = "content/items/material_overrides/gear_materials/oxidized_metal_iron_wear_02 (string)",
+                        [7] = " (string)",
+                        [8] = "content/items/material_overrides/gear_materials/coated_decal_blend_04 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_feet/enforcer_lowerbody_b_boots (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_colors/color_1_colour_black_01 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/fabric_leather_03_wear_03 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/oxidized_metal_iron_wear_02 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_5 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_6 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/characters/player/human/third_person/base_gear_rig (string)",
+            breeds = {
+                [1] = "human (string)",
+            },
+            crimes = {
+            },
+            description = "loc_psyker_enforcer_lowerbody_b_var_05_desc (string)",
+            dev_description = "This is psyker_enforcer_lowerbody_b_var_05 - Black metal, black fabric (string)",
+            dev_name = "psyker_enforcer_lowerbody_b_var_05 (string)",
+            display_name = "loc_psyker_enforcer_lowerbody_b_var_05 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+                [2] = "ROTATION_bobbylorene (string)",
+            },
+            genders = {
+            },
+            hide_slots = {
+                [1] = "slot_body_legs (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_LOWERBODY (string)",
+            mask_legs = " (string)",
+            mask_legs_item = " (string)",
+            material_override_items = {
+                [1] = " (string)",
+                [2] = "content/items/material_overrides/player_pattern_properties/pattern_01_tiling_02 (string)",
+                [3] = "content/items/material_overrides/player_pattern_properties/pattern_01_rotation_04 (string)",
+            },
+            name = "content/items/characters/player/human/gear_lowerbody/psyker_enforcer_lowerbody_b_var_05 (string)",
+            profile_properties = {
+                footstep_type_left = " (string)",
+                footstep_type_right = " (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/human/third_person/base_gear_rig"] = "true (boolean)",
+            },
+            show_in_1p = "false (boolean)",
+            slots = {
+                [1] = "slot_gear_lowerbody (string)",
+            },
+            source = "premium_store (string)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+                [2] = "TA_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/characters/player/human/gear_lowerbody/psyker_enforcer_lowerbody_b_var_06"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "psyker (string)",
+            },
+            attach_node = "1 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_legs/enforcer_lowerbody_b_pants (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_colors/color_1_colour_forest_01 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_01 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/coated_wear_04 (string)",
+                        [4] = "content/items/material_overrides/gear_materials/outfit_dirt_01 (string)",
+                        [5] = "content/items/material_overrides/gear_materials/dirt_color_06 (string)",
+                        [6] = " (string)",
+                        [7] = "content/items/material_overrides/player_gear_decals/decal_slot_index/coated_decal_slot_01_index_08 (string)",
+                        [8] = "content/items/material_overrides/gear_materials/coated_decal_blend_04 (string)",
+                        [9] = "content/items/material_overrides/player_gear_decals/decal_atlasses/coated_decal_atlas_broker_gang_01 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_feet/enforcer_lowerbody_b_boots (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_colors/color_1_colour_forest_01 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/fabric_leather_03_wear_03 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/oxidized_metal_iron_wear_02 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_5 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_6 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/characters/player/human/third_person/base_gear_rig (string)",
+            breeds = {
+                [1] = "human (string)",
+            },
+            crimes = {
+            },
+            description = "loc_psyker_enforcer_lowerbody_b_var_06_desc (string)",
+            dev_description = "This is psyker_enforcer_lowerbody_b_var_06 - Dark green fabric, yellow and black hazard stripes. (string)",
+            dev_name = "psyker_enforcer_lowerbody_b_var_06 (string)",
+            display_name = "loc_psyker_enforcer_lowerbody_b_var_06 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_slots = {
+                [1] = "slot_body_legs (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_LOWERBODY (string)",
+            mask_legs = " (string)",
+            mask_legs_item = " (string)",
+            material_override_items = {
+                [1] = " (string)",
+                [2] = "content/items/material_overrides/player_pattern_properties/pattern_01_tiling_03 (string)",
+                [3] = "content/items/material_overrides/player_pattern_properties/pattern_01_rotation_04 (string)",
+            },
+            name = "content/items/characters/player/human/gear_lowerbody/psyker_enforcer_lowerbody_b_var_06 (string)",
+            profile_properties = {
+                footstep_type_left = " (string)",
+                footstep_type_right = " (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/human/third_person/base_gear_rig"] = "true (boolean)",
+            },
+            show_in_1p = "false (boolean)",
+            slots = {
+                [1] = "slot_gear_lowerbody (string)",
+            },
+            source = "premium_store (string)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+                [2] = "TA_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/characters/player/human/gear_lowerbody/psyker_enforcer_lowerbody_b_var_07"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "psyker (string)",
+            },
+            attach_node = "1 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_legs/enforcer_lowerbody_b_pants (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_colors/color_3_colour_gray_03 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_01 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/coated_wear_04 (string)",
+                        [4] = "content/items/material_overrides/gear_materials/outfit_dirt_02 (string)",
+                        [5] = "content/items/material_overrides/gear_materials/dirt_color_06 (string)",
+                        [6] = "content/items/material_overrides/player_gear_decals/decal_slot_index/coated_decal_slot_01_index_15 (string)",
+                        [7] = "content/items/material_overrides/player_gear_decals/decal_atlasses/coated_decal_atlas_broker_gang_04 (string)",
+                        [8] = "content/items/material_overrides/gear_materials/coated_decal_blend_04 (string)",
+                        [9] = " (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_feet/enforcer_lowerbody_b_boots (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_colors/color_3_colour_gray_03 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/fabric_leather_03_wear_03 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/oxidized_metal_iron_wear_02 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_5 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_6 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/characters/player/human/third_person/base_gear_rig (string)",
+            breeds = {
+                [1] = "human (string)",
+            },
+            crimes = {
+            },
+            description = "loc_psyker_enforcer_lowerbody_b_var_07_desc (string)",
+            dev_description = "This is psyker_enforcer_lowerbody_b_var_07 - gray metal, gray metal and black checkered pattern (string)",
+            dev_name = "psyker_enforcer_lowerbody_b_var_07 (string)",
+            display_name = "loc_psyker_enforcer_lowerbody_b_var_07 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_slots = {
+                [1] = "slot_body_legs (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_LOWERBODY (string)",
+            mask_legs = " (string)",
+            mask_legs_item = " (string)",
+            material_override_items = {
+                [1] = " (string)",
+                [2] = "content/items/material_overrides/player_pattern_properties/pattern_01_tiling_02 (string)",
+                [3] = "content/items/material_overrides/player_pattern_properties/pattern_01_rotation_04 (string)",
+            },
+            name = "content/items/characters/player/human/gear_lowerbody/psyker_enforcer_lowerbody_b_var_07 (string)",
             profile_properties = {
                 footstep_type_left = " (string)",
                 footstep_type_right = " (string)",
@@ -338349,6 +340640,417 @@ return {
                 [1] = "content/items/material_overrides/gear_materials/coated_wear_02 (string)",
             },
             name = "content/items/characters/player/human/gear_lowerbody/veteran_enforcer_lowerbody_a_var_04 (string)",
+            profile_properties = {
+                footstep_type_left = " (string)",
+                footstep_type_right = " (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/human/third_person/base_gear_rig"] = "true (boolean)",
+            },
+            show_in_1p = "false (boolean)",
+            slots = {
+                [1] = "slot_gear_lowerbody (string)",
+            },
+            source = "premium_store (string)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+                [2] = "TA_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/characters/player/human/gear_lowerbody/veteran_enforcer_lowerbody_a_var_05"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "veteran (string)",
+            },
+            attach_node = "1 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_legs/enforcer_lowerbody_a_pants (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_colors/color_1_colour_black_01 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/coated_wear_04 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/oxidized_metal_iron_wear_02 (string)",
+                        [4] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_01 (string)",
+                        [5] = "content/items/material_overrides/gear_materials/outfit_dirt_01 (string)",
+                        [6] = "content/items/material_overrides/gear_materials/dirt_color_06 (string)",
+                        [7] = " (string)",
+                        [8] = "content/items/material_overrides/gear_materials/coated_decal_blend_08 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_feet/enforcer_lowerbody_a_boots (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_leather_03_wear_03 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/oxidized_metal_iron_wear_02 (string)",
+                        [3] = " (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_5 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_6 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/characters/player/human/third_person/base_gear_rig (string)",
+            breeds = {
+                [1] = "human (string)",
+            },
+            crimes = {
+            },
+            description = "loc_veteran_enforcer_lowerbody_a_var_05_desc (string)",
+            dev_description = "This is veteran_enforcer_lowerbody_a_var_05 - Black metal and black cloth (string)",
+            dev_name = "veteran_enforcer_lowerbody_a_var_05 (string)",
+            display_name = "loc_veteran_enforcer_lowerbody_a_var_05 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_slots = {
+                [1] = "slot_body_legs (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_LOWERBODY (string)",
+            mask_legs = " (string)",
+            mask_legs_item = " (string)",
+            material_override_items = {
+                [1] = "content/items/material_overrides/gear_materials/coated_wear_02 (string)",
+            },
+            name = "content/items/characters/player/human/gear_lowerbody/veteran_enforcer_lowerbody_a_var_05 (string)",
+            profile_properties = {
+                footstep_type_left = " (string)",
+                footstep_type_right = " (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/human/third_person/base_gear_rig"] = "true (boolean)",
+            },
+            show_in_1p = "false (boolean)",
+            slots = {
+                [1] = "slot_gear_lowerbody (string)",
+            },
+            source = "premium_store (string)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+                [2] = "TA_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/characters/player/human/gear_lowerbody/veteran_enforcer_lowerbody_a_var_06"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "veteran (string)",
+            },
+            attach_node = "1 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_legs/enforcer_lowerbody_a_pants (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_colors/color_1_colour_forest_01 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/coated_wear_04 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/oxidized_metal_steel_wear_02 (string)",
+                        [4] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_01 (string)",
+                        [5] = "content/items/material_overrides/gear_materials/outfit_dirt_01 (string)",
+                        [6] = "content/items/material_overrides/gear_materials/dirt_color_06 (string)",
+                        [7] = "content/items/material_overrides/player_gear_decals/decal_atlasses/coated_decal_atlas_broker_02 (string)",
+                        [8] = "content/items/material_overrides/gear_materials/coated_decal_blend_08 (string)",
+                        [9] = "content/items/material_overrides/player_gear_decals/decal_slot_index/coated_decal_slot_03_index_08 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_feet/enforcer_lowerbody_a_boots (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_leather_03_wear_03 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/oxidized_metal_steel_wear_02 (string)",
+                        [3] = " (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_5 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_6 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/characters/player/human/third_person/base_gear_rig (string)",
+            breeds = {
+                [1] = "human (string)",
+            },
+            crimes = {
+            },
+            description = "loc_veteran_enforcer_lowerbody_a_var_06_desc (string)",
+            dev_description = "This is veteran_enforcer_lowerbody_a_var_06 - White metal, black cloth (string)",
+            dev_name = "veteran_enforcer_lowerbody_a_var_06 (string)",
+            display_name = "loc_veteran_enforcer_lowerbody_a_var_06 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_slots = {
+                [1] = "slot_body_legs (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_LOWERBODY (string)",
+            mask_legs = " (string)",
+            mask_legs_item = " (string)",
+            material_override_items = {
+                [1] = "content/items/material_overrides/gear_materials/coated_wear_02 (string)",
+            },
+            name = "content/items/characters/player/human/gear_lowerbody/veteran_enforcer_lowerbody_a_var_06 (string)",
+            profile_properties = {
+                footstep_type_left = " (string)",
+                footstep_type_right = " (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/human/third_person/base_gear_rig"] = "true (boolean)",
+            },
+            show_in_1p = "false (boolean)",
+            slots = {
+                [1] = "slot_gear_lowerbody (string)",
+            },
+            source = "premium_store (string)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+                [2] = "TA_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/characters/player/human/gear_lowerbody/veteran_enforcer_lowerbody_a_var_07"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "veteran (string)",
+            },
+            attach_node = "1 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_legs/enforcer_lowerbody_a_pants (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_colors/color_3_colour_gray_03 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/coated_wear_04 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/oxidized_metal_iron_wear_02 (string)",
+                        [4] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_02 (string)",
+                        [5] = "content/items/material_overrides/gear_materials/outfit_dirt_02 (string)",
+                        [6] = "content/items/material_overrides/gear_materials/dirt_color_06 (string)",
+                        [7] = " (string)",
+                        [8] = "content/items/material_overrides/gear_materials/coated_decal_blend_08 (string)",
+                        [9] = "content/items/material_overrides/player_gear_decals/decal_atlasses/coated_decal_atlas_broker_gang_04 (string)",
+                        [10] = "content/items/material_overrides/player_gear_decals/decal_slot_index/coated_decal_slot_03_index_15 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_feet/enforcer_lowerbody_a_boots (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_leather_03_wear_03 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/oxidized_metal_iron_wear_02 (string)",
+                        [3] = " (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_5 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_6 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/characters/player/human/third_person/base_gear_rig (string)",
+            breeds = {
+                [1] = "human (string)",
+            },
+            crimes = {
+            },
+            description = "loc_veteran_enforcer_lowerbody_a_var_07_desc (string)",
+            dev_description = "This is veteran_enforcer_lowerbody_a_var_07 - Gray metal, gray cloth (string)",
+            dev_name = "veteran_enforcer_lowerbody_a_var_07 (string)",
+            display_name = "loc_veteran_enforcer_lowerbody_a_var_07 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_slots = {
+                [1] = "slot_body_legs (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_LOWERBODY (string)",
+            mask_legs = " (string)",
+            mask_legs_item = " (string)",
+            material_override_items = {
+                [1] = "content/items/material_overrides/gear_materials/coated_wear_02 (string)",
+            },
+            name = "content/items/characters/player/human/gear_lowerbody/veteran_enforcer_lowerbody_a_var_07 (string)",
             profile_properties = {
                 footstep_type_left = " (string)",
                 footstep_type_right = " (string)",
@@ -348994,6 +351696,418 @@ return {
             },
             workflow_state = "RELEASABLE (string)",
         },
+        ["content/items/characters/player/human/gear_lowerbody/zealot_enforcer_lowerbody_a_var_05"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "zealot (string)",
+            },
+            attach_node = "1 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_legs/enforcer_lowerbody_a_pants (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_colors/color_1_colour_black_01 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/oxidized_metal_iron_01_wear_02 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/coated_wear_03 (string)",
+                        [4] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_02 (string)",
+                        [5] = "content/items/material_overrides/gear_materials/outfit_dirt_02 (string)",
+                        [6] = "content/items/material_overrides/gear_materials/dirt_color_06 (string)",
+                        [7] = " (string)",
+                        [8] = "content/items/material_overrides/gear_materials/coated_decal_blend_08 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_feet/enforcer_lowerbody_b_boots (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/oxidized_metal_iron_01_wear_02 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/fabric_leather_03_wear_03 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/dirt_color_05 (string)",
+                        [4] = "content/items/material_overrides/gear_materials/outfit_dirt_01 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_attachments/enforcer_lowerbody_a_scrolls (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_5 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_6 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/characters/player/human/third_person/base_gear_rig (string)",
+            breeds = {
+                [1] = "human (string)",
+            },
+            crimes = {
+            },
+            description = "loc_zealot_enforcer_lowerbody_a_var_05_desc (string)",
+            dev_description = "This is zealot_enforcer_lowerbody_a_var_05 - Black metal, black cloth (string)",
+            dev_name = "zealot_enforcer_lowerbody_a_var_05 (string)",
+            display_name = "loc_zealot_enforcer_lowerbody_a_var_05 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_slots = {
+                [1] = "slot_body_legs (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_LOWERBODY (string)",
+            mask_legs = " (string)",
+            mask_legs_item = " (string)",
+            material_override_items = {
+            },
+            name = "content/items/characters/player/human/gear_lowerbody/zealot_enforcer_lowerbody_a_var_05 (string)",
+            profile_properties = {
+                footstep_type_left = " (string)",
+                footstep_type_right = " (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/human/third_person/base_gear_rig"] = "true (boolean)",
+            },
+            show_in_1p = "false (boolean)",
+            slots = {
+                [1] = "slot_gear_lowerbody (string)",
+            },
+            source = "premium_store (string)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+                [2] = "TA_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/characters/player/human/gear_lowerbody/zealot_enforcer_lowerbody_a_var_06"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "zealot (string)",
+            },
+            attach_node = "1 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_legs/enforcer_lowerbody_a_pants (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_colors/color_1_colour_forest_01 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/oxidized_metal_iron_wear_02 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/coated_wear_03 (string)",
+                        [4] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_02 (string)",
+                        [5] = "content/items/material_overrides/gear_materials/outfit_dirt_01 (string)",
+                        [6] = "content/items/material_overrides/gear_materials/dirt_color_06 (string)",
+                        [7] = "content/items/material_overrides/player_gear_decals/decal_atlasses/coated_decal_atlas_broker_gang_01 (string)",
+                        [8] = "content/items/material_overrides/gear_materials/coated_decal_blend_08 (string)",
+                        [9] = "content/items/material_overrides/player_gear_decals/decal_slot_index/coated_decal_slot_03_index_08 (string)",
+                        [10] = " (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_feet/enforcer_lowerbody_b_boots (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/oxidized_metal_iron_wear_02 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/fabric_leather_03_wear_03 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/dirt_color_05 (string)",
+                        [4] = "content/items/material_overrides/gear_materials/outfit_dirt_01 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_attachments/enforcer_lowerbody_a_scrolls (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_5 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_6 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/characters/player/human/third_person/base_gear_rig (string)",
+            breeds = {
+                [1] = "human (string)",
+            },
+            crimes = {
+            },
+            description = "loc_zealot_enforcer_lowerbody_a_var_06_desc (string)",
+            dev_description = "This is zealot_enforcer_lowerbody_a_var_06 - Dark green metal and yellow and black hazard stripes on metal, dark green cloth (string)",
+            dev_name = "zealot_enforcer_lowerbody_a_var_06 (string)",
+            display_name = "loc_zealot_enforcer_lowerbody_a_var_06 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_slots = {
+                [1] = "slot_body_legs (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_LOWERBODY (string)",
+            mask_legs = " (string)",
+            mask_legs_item = " (string)",
+            material_override_items = {
+            },
+            name = "content/items/characters/player/human/gear_lowerbody/zealot_enforcer_lowerbody_a_var_06 (string)",
+            profile_properties = {
+                footstep_type_left = " (string)",
+                footstep_type_right = " (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/human/third_person/base_gear_rig"] = "true (boolean)",
+            },
+            show_in_1p = "false (boolean)",
+            slots = {
+                [1] = "slot_gear_lowerbody (string)",
+            },
+            source = "premium_store (string)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+                [2] = "TA_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/characters/player/human/gear_lowerbody/zealot_enforcer_lowerbody_a_var_07"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "zealot (string)",
+            },
+            attach_node = "1 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_legs/enforcer_lowerbody_a_pants (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_colors/color_3_colour_gray_03 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/oxidized_metal_steel_wear_02 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/coated_wear_03 (string)",
+                        [4] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_02 (string)",
+                        [5] = "content/items/material_overrides/gear_materials/outfit_dirt_02 (string)",
+                        [6] = "content/items/material_overrides/gear_materials/dirt_color_06 (string)",
+                        [7] = " (string)",
+                        [8] = "content/items/material_overrides/gear_materials/coated_decal_blend_08 (string)",
+                        [9] = "content/items/material_overrides/player_gear_decals/decal_atlasses/coated_decal_atlas_broker_gang_04 (string)",
+                        [10] = "content/items/material_overrides/player_gear_decals/decal_slot_index/coated_decal_slot_03_index_15 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_feet/enforcer_lowerbody_b_boots (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/oxidized_metal_steel_wear_02 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/fabric_leather_03_wear_03 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/dirt_color_05 (string)",
+                        [4] = "content/items/material_overrides/gear_materials/outfit_dirt_01 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_attachments/enforcer_lowerbody_a_scrolls (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_5 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_6 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/characters/player/human/third_person/base_gear_rig (string)",
+            breeds = {
+                [1] = "human (string)",
+            },
+            crimes = {
+            },
+            description = "loc_zealot_enforcer_lowerbody_a_var_07_desc (string)",
+            dev_description = "This is zealot_enforcer_lowerbody_a_var_07 - Gray metal with black checkered pattern, gray cloth (string)",
+            dev_name = "zealot_enforcer_lowerbody_a_var_07 (string)",
+            display_name = "loc_zealot_enforcer_lowerbody_a_var_07 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_slots = {
+                [1] = "slot_body_legs (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_LOWERBODY (string)",
+            mask_legs = " (string)",
+            mask_legs_item = " (string)",
+            material_override_items = {
+            },
+            name = "content/items/characters/player/human/gear_lowerbody/zealot_enforcer_lowerbody_a_var_07 (string)",
+            profile_properties = {
+                footstep_type_left = " (string)",
+                footstep_type_right = " (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/human/third_person/base_gear_rig"] = "true (boolean)",
+            },
+            show_in_1p = "false (boolean)",
+            slots = {
+                [1] = "slot_gear_lowerbody (string)",
+            },
+            source = "premium_store (string)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+                [2] = "TA_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
         ["content/items/characters/player/human/gear_lowerbody/zealot_inquisition_lowerbody_a_var_01"] = {
             always_owned = "false (boolean)",
             archetypes = {
@@ -358938,6 +362052,7 @@ return {
                 [5] = "ROTATION_robin (string)",
                 [6] = "ROTATION_stefan (string)",
                 [7] = "ROTATION_twitch_1_9_0 (string)",
+                [8] = "ROTATION_victoria_mick (string)",
             },
             hide_slots = {
                 [1] = "slot_body_torso (string)",
@@ -359041,6 +362156,7 @@ return {
                 [10] = "ROTATION_twitch_1_12_0 (string)",
                 [11] = "ROTATION_rodger_catherine_3 (string)",
                 [12] = "ROTATION_ursula_ulf (string)",
+                [13] = "ROTATION_victoria_mick (string)",
             },
             hide_slots = {
                 [1] = "slot_body_torso (string)",
@@ -359326,6 +362442,7 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_charles (string)",
                 [3] = "ROTATION_mick (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             hide_slots = {
                 [1] = "slot_body_torso (string)",
@@ -362774,6 +365891,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_bobby (string)",
+                [3] = "ROTATION_bobby_jeff (string)",
             },
             hide_slots = {
                 [1] = "slot_body_torso (string)",
@@ -362884,6 +366002,8 @@ return {
                 [17] = "ROTATION_week_1 (string)",
                 [18] = "ROTATION_wilkazo (string)",
                 [19] = "ROTATION_ursula_ulf (string)",
+                [20] = "ROTATION_bobby_jeff (string)",
+                [21] = "ROTATION_victoria_mick (string)",
             },
             hide_slots = {
                 [1] = "slot_body_torso (string)",
@@ -365331,6 +368451,7 @@ return {
                 [2] = "ROTATION_oskar (string)",
                 [3] = "ROTATION_pete (string)",
                 [4] = "ROTATION_pete_2 (string)",
+                [5] = "ROTATION_bobby_jeff (string)",
             },
             hide_slots = {
                 [1] = "slot_body_torso (string)",
@@ -371514,6 +374635,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_bobby (string)",
+                [3] = "ROTATION_bobby_jeff (string)",
             },
             hide_slots = {
                 [1] = "slot_body_torso (string)",
@@ -371606,6 +374728,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "ROTATION_bobbylorene (string)",
+                [2] = "ROTATION_bobby_jeff (string)",
             },
             hide_slots = {
                 [1] = "slot_body_torso (string)",
@@ -377505,6 +380628,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_bobby (string)",
+                [3] = "ROTATION_bobby_jeff (string)",
             },
             hide_slots = {
                 [1] = "slot_body_torso (string)",
@@ -379053,6 +382177,7 @@ return {
                 [3] = "ROTATION_mick (string)",
                 [4] = "ROTATION_robin (string)",
                 [5] = "ROTATION_stefan (string)",
+                [6] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -382828,7 +385953,7 @@ return {
                     },
                 },
             },
-            backpack_offset = "-0.059999998658895493 (number)",
+            backpack_offset = "-0.029999999329447746 (number)",
             base_unit = "content/characters/player/human/third_person/base_gear_rig (string)",
             breeds = {
                 [1] = "human (string)",
@@ -382984,7 +386109,7 @@ return {
                     },
                 },
             },
-            backpack_offset = "-0.059999998658895493 (number)",
+            backpack_offset = "-0.029999999329447746 (number)",
             base_unit = "content/characters/player/human/third_person/base_gear_rig (string)",
             breeds = {
                 [1] = "human (string)",
@@ -383033,6 +386158,162 @@ return {
             },
             workflow_checklist = {
                 [1] = "ART_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/characters/player/human/gear_upperbody/astra_upperbody_a_04_set_03"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "psyker (string)",
+            },
+            attach_node = "1 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_hands/astra_gloves_d (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_leather_02_wear_03 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_attachments/astra_upperbody_a_04_attachment (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_wool_01_wear_02 (string)",
+                        [2] = "content/items/material_overrides/gear_colors/color_3_colour_city_03 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/oxidized_metal_iron_wear_02 (string)",
+                        [4] = "content/items/material_overrides/player_gear_decals/decal_atlas_psyker_01_slot_01_decal_01 (string)",
+                        [5] = "content/items/material_overrides/gear_patterns/pattern_camo_14_inv (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_5 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_arms/astra_upperbody_a_04_arms (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_wool_01_wear_02 (string)",
+                        [2] = "content/items/material_overrides/gear_colors/color_3_colour_city_03 (string)",
+                        [3] = "content/items/material_overrides/gear_patterns/pattern_camo_14_inv (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_6 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_7 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_8 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            backpack_offset = "-0.029999999329447746 (number)",
+            base_unit = "content/characters/player/human/third_person/base_gear_rig (string)",
+            breeds = {
+                [1] = "human (string)",
+            },
+            crimes = {
+            },
+            description = "loc_astra_upperbody_a_04_set_03_desc (string)",
+            dev_description = "Cadia themed Psyker jacket. Color/camo scheme based on 122nd regiment. (string)",
+            dev_name = "astra_upperbody_a_04_set_03 (string)",
+            display_name = "loc_astra_upperbody_a_04_set_03 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_slots = {
+                [1] = "slot_body_arms (string)",
+                [2] = "slot_body_torso (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_UPPERBODY (string)",
+            mask_arms = " (string)",
+            mask_arms_item = " (string)",
+            mask_torso = " (string)",
+            mask_torso_item = " (string)",
+            material_override_items = {
+            },
+            name = "content/items/characters/player/human/gear_upperbody/astra_upperbody_a_04_set_03 (string)",
+            profile_properties = {
+                sfx_body_material = "cloth (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/human/third_person/base_gear_rig"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            slots = {
+                [1] = "slot_gear_upperbody (string)",
+            },
+            source = "premium_store (string)",
+            tags = {
+            },
+            workflow_checklist = {
             },
             workflow_state = "RELEASABLE (string)",
         },
@@ -383138,7 +386419,7 @@ return {
                     },
                 },
             },
-            backpack_offset = "-0.059999998658895493 (number)",
+            backpack_offset = "-0.029999999329447746 (number)",
             base_unit = "content/characters/player/human/third_person/base_gear_rig (string)",
             breeds = {
                 [1] = "human (string)",
@@ -383799,6 +387080,7 @@ return {
             display_name = "loc_astra_upperbody_a_06_var_01 (string)",
             feature_flags = {
                 [1] = "ROTATION_victoria (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -385515,6 +388797,7 @@ return {
             display_name = "loc_astra_upperbody_c_set_03 (string)",
             feature_flags = {
                 [1] = "ROTATION_mick (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -400277,6 +403560,171 @@ return {
             },
             workflow_state = "RELEASABLE (string)",
         },
+        ["content/items/characters/player/human/gear_upperbody/frateris_militia_upperbody_a_01_set_06"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "zealot (string)",
+            },
+            attach_node = "1 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_torso/frateris_militia_upperbody_a (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_leather_03_wear_02 (string)",
+                        [2] = "content/items/material_overrides/gear_colors/color_3_colour_city_03 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/oxidized_metal_iron_wear_02 (string)",
+                        [4] = "content/items/material_overrides/gear_patterns/pattern_camo_14_inv (string)",
+                        [5] = " (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_arms/frateris_militia_upperbody_a_arms (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_02 (string)",
+                        [2] = "content/items/material_overrides/gear_colors/color_3_colour_city_03 (string)",
+                        [3] = "content/items/material_overrides/gear_patterns/pattern_camo_14_inv (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_hands/hmn_gloves_h (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_leather_02_wear_01 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/oxidized_metal_iron_wear_02 (string)",
+                        [3] = "content/items/material_overrides/gear_colors/color_3_colour_city_03 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_attachments/frateris_militia_upperbody_a_01_attachment (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_wool_01_wear_03 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/oxidized_metal_iron_wear_02 (string)",
+                        [3] = "content/items/material_overrides/gear_colors/color_3_colour_city_03 (string)",
+                        [4] = "content/items/material_overrides/gear_patterns/pattern_camo_14_inv (string)",
+                        [5] = " (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_5 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_6 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_7 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_8 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            backpack_offset = "0.0010000000474974513 (number)",
+            base_unit = "content/characters/player/human/third_person/base_gear_rig (string)",
+            breeds = {
+                [1] = "human (string)",
+            },
+            crimes = {
+            },
+            description = "loc_frateris_militia_upperbody_a_01_set_06_desc (string)",
+            dev_description = "Blue camo and iron metal. (string)",
+            dev_name = "frateris_militia_upperbody_a_01_set_06 (string)",
+            display_name = "loc_frateris_militia_upperbody_a_01_set_06 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_slots = {
+                [1] = "slot_body_arms (string)",
+                [2] = "slot_body_torso (string)",
+                [3] = "slot_gear_arms (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_UPPERBODY (string)",
+            mask_arms = " (string)",
+            mask_arms_item = " (string)",
+            mask_torso = " (string)",
+            mask_torso_item = " (string)",
+            material_override_items = {
+            },
+            name = "content/items/characters/player/human/gear_upperbody/frateris_militia_upperbody_a_01_set_06 (string)",
+            profile_properties = {
+                sfx_body_material = "leather (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/human/third_person/base_gear_rig"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            slots = {
+                [1] = "slot_gear_upperbody (string)",
+            },
+            source = "premium_store (string)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
         ["content/items/characters/player/human/gear_upperbody/frateris_militia_upperbody_a_02"] = {
             always_owned = "false (boolean)",
             archetypes = {
@@ -400543,6 +403991,7 @@ return {
             display_name = "loc_frateris_militia_upperbody_a_02_set_02 (string)",
             feature_flags = {
                 [1] = "ROTATION_mick (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -401789,6 +405238,7 @@ return {
             display_name = "loc_frateris_militia_upperbody_a_05_set_03 (string)",
             feature_flags = {
                 [1] = "ROTATION_victoria (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -406759,6 +410209,158 @@ return {
             },
             workflow_state = "RELEASABLE (string)",
         },
+        ["content/items/characters/player/human/gear_upperbody/imperial_guard_jacket_f_set_03"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "veteran (string)",
+            },
+            attach_node = "1 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_torso/imperial_guard_jacket_f (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_leather_02_wool_01_wear_01 (string)",
+                        [2] = "content/items/material_overrides/gear_colors/color_3_colour_city_03 (string)",
+                        [3] = "content/items/material_overrides/player_gear_decals/coated_decal_atlas_cadia_01_slot_01_decal_03 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_arms/imperial_guard_jacket_f_arms (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_leather_02_wear_01 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_hands/imperial_guard_gloves_f (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_leather_01_wear_01 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_attachments/imperial_guard_attachment_belt_01 (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_5 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_6 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_7 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_8 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            backpack_offset = "0 (number)",
+            base_unit = "content/characters/player/human/third_person/base_gear_rig (string)",
+            breeds = {
+                [1] = "human (string)",
+            },
+            crimes = {
+            },
+            description = "loc_imperial_guard_jacket_f_set_03_desc (string)",
+            dev_description = "Cadia themed vehicle driver armored jacket. Color scheme based on 122nd regiment.  (string)",
+            dev_name = "imperial_guard_jacket_f_set_03 (string)",
+            display_name = "loc_imperial_guard_jacket_f_set_03 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_slots = {
+                [1] = "slot_body_torso (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_UPPERBODY (string)",
+            mask_arms = "mask_arms_keep_finger_tops (string)",
+            mask_arms_item = "content/items/material_overrides/player_base_body_mask/mask_arms_keep_finger_tops (string)",
+            mask_torso = " (string)",
+            mask_torso_item = " (string)",
+            material_override_items = {
+                [1] = "content/items/material_overrides/gear_materials/coated_wear_02 (string)",
+            },
+            name = "content/items/characters/player/human/gear_upperbody/imperial_guard_jacket_f_set_03 (string)",
+            profile_properties = {
+                sfx_body_material = "leather_chains (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/human/third_person/base_gear_rig"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            slots = {
+                [1] = "slot_gear_upperbody (string)",
+            },
+            source = "premium_store (string)",
+            tags = {
+            },
+            workflow_checklist = {
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
         ["content/items/characters/player/human/gear_upperbody/imperial_guard_jacket_f_set_05"] = {
             always_owned = "false (boolean)",
             archetypes = {
@@ -410787,6 +414389,492 @@ return {
             material_override_items = {
             },
             name = "content/items/characters/player/human/gear_upperbody/psyker_enforcer_upperbody_a_var_04 (string)",
+            profile_properties = {
+                sfx_body_material = "metal (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/human/third_person/base_gear_rig"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            slots = {
+                [1] = "slot_gear_upperbody (string)",
+            },
+            source = "premium_store (string)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+                [2] = "TA_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/characters/player/human/gear_upperbody/psyker_enforcer_upperbody_a_var_05"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "psyker (string)",
+            },
+            attach_node = "1 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_torso/psyker_enforcer_upperbody_a_torso_01 (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_01 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/oxidized_metal_iron_wear_02 (string)",
+                        [3] = "content/items/material_overrides/gear_colors/color_1_colour_black_01 (string)",
+                        [4] = "content/items/material_overrides/gear_materials/coated_wear_04 (string)",
+                        [5] = "content/items/material_overrides/gear_materials/outfit_dirt_03 (string)",
+                        [6] = " (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_arms/psyker_enforcer_upperbody_a_arms_01 (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_02 (string)",
+                        [2] = "content/items/material_overrides/gear_colors/color_1_colour_black_01 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/coated_wear_04 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_hands/psyker_enforcer_upperbody_a_gloves_01 (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_leather_02_wear_02 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/oxidized_metal_steel_paint_black_wear_02 (string)",
+                        [3] = " (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_5 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_6 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_7 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_8 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            backpack_offset = "0.05000000074505806 (number)",
+            base_unit = "content/characters/player/human/third_person/base_gear_rig (string)",
+            breeds = {
+                [1] = "human (string)",
+            },
+            crimes = {
+            },
+            description = "loc_psyker_enforcer_upperbody_a_var_05_desc (string)",
+            dev_description = "This is psyker_enforcer_upperbody_a_var_05 - Black metal, black fabric (string)",
+            dev_name = "psyker_enforcer_upperbody_a_var_05 (string)",
+            display_name = "loc_psyker_enforcer_upperbody_a_var_05 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_slots = {
+                [1] = "slot_body_arms (string)",
+                [2] = "slot_body_torso (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_UPPERBODY (string)",
+            mask_arms = " (string)",
+            mask_arms_item = " (string)",
+            mask_torso = " (string)",
+            mask_torso_item = " (string)",
+            material_override_items = {
+            },
+            name = "content/items/characters/player/human/gear_upperbody/psyker_enforcer_upperbody_a_var_05 (string)",
+            profile_properties = {
+                sfx_body_material = "metal (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/human/third_person/base_gear_rig"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            slots = {
+                [1] = "slot_gear_upperbody (string)",
+            },
+            source = "premium_store (string)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+                [2] = "TA_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/characters/player/human/gear_upperbody/psyker_enforcer_upperbody_a_var_06"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "psyker (string)",
+            },
+            attach_node = "1 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_torso/psyker_enforcer_upperbody_a (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_01 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/oxidized_metal_steel_wear_02 (string)",
+                        [3] = "content/items/material_overrides/gear_colors/color_1_colour_forest_01 (string)",
+                        [4] = "content/items/material_overrides/gear_materials/coated_wear_04 (string)",
+                        [5] = "content/items/material_overrides/gear_materials/outfit_dirt_03 (string)",
+                        [6] = "content/items/material_overrides/player_gear_decals/decal_atlasses/coated_decal_atlas_broker_gang_01 (string)",
+                        [7] = "content/items/material_overrides/player_gear_decals/decal_slot_index/coated_decal_slot_01_index_08 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_arms/psyker_enforcer_upperbody_a_arms (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_02 (string)",
+                        [2] = "content/items/material_overrides/gear_colors/color_1_colour_forest_01 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/coated_wear_04 (string)",
+                        [4] = "content/items/material_overrides/gear_materials/outfit_dirt_03 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_hands/psyker_enforcer_upperbody_a_gloves (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_leather_02_wear_02 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/oxidized_metal_steel_wear_02 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_5 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_6 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_7 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_8 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            backpack_offset = "0.05000000074505806 (number)",
+            base_unit = "content/characters/player/human/third_person/base_gear_rig (string)",
+            breeds = {
+                [1] = "human (string)",
+            },
+            crimes = {
+            },
+            description = "loc_psyker_enforcer_upperbody_a_var_06_desc (string)",
+            dev_description = "This is psyker_enforcer_upperbody_a_var_06 - Green metal with black and yellow hazard stripes, dark green cloth (string)",
+            dev_name = "psyker_enforcer_upperbody_a_var_06 (string)",
+            display_name = "loc_psyker_enforcer_upperbody_a_var_06 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_slots = {
+                [1] = "slot_body_arms (string)",
+                [2] = "slot_body_torso (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_UPPERBODY (string)",
+            mask_arms = " (string)",
+            mask_arms_item = " (string)",
+            mask_torso = " (string)",
+            mask_torso_item = " (string)",
+            material_override_items = {
+            },
+            name = "content/items/characters/player/human/gear_upperbody/psyker_enforcer_upperbody_a_var_06 (string)",
+            profile_properties = {
+                sfx_body_material = "metal (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/human/third_person/base_gear_rig"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            slots = {
+                [1] = "slot_gear_upperbody (string)",
+            },
+            source = "premium_store (string)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+                [2] = "TA_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/characters/player/human/gear_upperbody/psyker_enforcer_upperbody_a_var_07"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "psyker (string)",
+            },
+            attach_node = "1 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_torso/psyker_enforcer_upperbody_a (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_01 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/oxidized_metal_steel_wear_02 (string)",
+                        [3] = "content/items/material_overrides/gear_colors/color_3_colour_gray_03 (string)",
+                        [4] = "content/items/material_overrides/gear_materials/coated_wear_04 (string)",
+                        [5] = "content/items/material_overrides/gear_materials/outfit_dirt_03 (string)",
+                        [6] = "content/items/material_overrides/player_gear_decals/decal_atlasses/coated_decal_atlas_broker_gang_04 (string)",
+                        [7] = "content/items/material_overrides/player_gear_decals/decal_slot_index/coated_decal_slot_01_index_15 (string)",
+                        [8] = " (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_arms/psyker_enforcer_upperbody_a_arms (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_02 (string)",
+                        [2] = "content/items/material_overrides/gear_colors/color_3_colour_gray_03 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/coated_wear_04 (string)",
+                        [4] = "content/items/material_overrides/gear_materials/outfit_dirt_03 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_hands/psyker_enforcer_upperbody_a_gloves (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_leather_02_wear_02 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/oxidized_metal_steel_wear_02 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_5 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_6 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_7 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_8 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            backpack_offset = "0.05000000074505806 (number)",
+            base_unit = "content/characters/player/human/third_person/base_gear_rig (string)",
+            breeds = {
+                [1] = "human (string)",
+            },
+            crimes = {
+            },
+            description = "loc_psyker_enforcer_upperbody_a_var_07_desc (string)",
+            dev_description = "This is psyker_enforcer_upperbody_a_var_07 - Gray metal with black checkered pattern, gray cloth (string)",
+            dev_name = "psyker_enforcer_upperbody_a_var_07 (string)",
+            display_name = "loc_psyker_enforcer_upperbody_a_var_07 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_slots = {
+                [1] = "slot_body_arms (string)",
+                [2] = "slot_body_torso (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_UPPERBODY (string)",
+            mask_arms = " (string)",
+            mask_arms_item = " (string)",
+            mask_torso = " (string)",
+            mask_torso_item = " (string)",
+            material_override_items = {
+            },
+            name = "content/items/characters/player/human/gear_upperbody/psyker_enforcer_upperbody_a_var_07 (string)",
             profile_properties = {
                 sfx_body_material = "metal (string)",
             },
@@ -426267,6 +430355,501 @@ return {
             },
             workflow_state = "RELEASABLE (string)",
         },
+        ["content/items/characters/player/human/gear_upperbody/veteran_enforcer_upperbody_a_var_05"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "veteran (string)",
+            },
+            attach_node = "1 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_torso/enforcer_upperbody_a (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_02 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/oxidized_metal_steel_wear_02 (string)",
+                        [3] = "content/items/material_overrides/gear_colors/color_1_colour_black_01 (string)",
+                        [4] = "content/items/material_overrides/gear_materials/coated_wear_04 (string)",
+                        [5] = " (string)",
+                        [6] = " (string)",
+                        [7] = " (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_arms/enforcer_upperbody_a_arms (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_01 (string)",
+                        [2] = "content/items/material_overrides/gear_colors/color_1_colour_black_01 (string)",
+                        [3] = " (string)",
+                        [4] = " (string)",
+                        [5] = " (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_hands/imperial_guard_gloves_h (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_leather_02_wear_02 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/coated_wear_03 (string)",
+                        [3] = "content/items/material_overrides/gear_colors/color_1_colour_black_01 (string)",
+                        [4] = "content/items/material_overrides/gear_materials/coated_wear_04 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_5 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_6 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_7 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_8 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            backpack_offset = "0.05000000074505806 (number)",
+            base_unit = "content/characters/player/human/third_person/base_gear_rig (string)",
+            breeds = {
+                [1] = "human (string)",
+            },
+            crimes = {
+            },
+            description = "loc_veteran_enforcer_upperbody_a_var_05_desc (string)",
+            dev_description = "This is veteran_enforcer_upperbody_a_var_05 Black metal black cloth (string)",
+            dev_name = "veteran_enforcer_upperbody_a_var_05 (string)",
+            display_name = "loc_veteran_enforcer_upperbody_a_var_05 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_slots = {
+                [1] = "slot_body_arms (string)",
+                [2] = "slot_body_torso (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_UPPERBODY (string)",
+            mask_arms = " (string)",
+            mask_arms_item = " (string)",
+            mask_torso = " (string)",
+            mask_torso_item = " (string)",
+            material_override_items = {
+            },
+            name = "content/items/characters/player/human/gear_upperbody/veteran_enforcer_upperbody_a_var_05 (string)",
+            profile_properties = {
+                sfx_body_material = "metal (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/human/third_person/base_gear_rig"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            slots = {
+                [1] = "slot_gear_upperbody (string)",
+            },
+            source = "premium_store (string)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+                [2] = "TA_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/characters/player/human/gear_upperbody/veteran_enforcer_upperbody_a_var_06"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "veteran (string)",
+            },
+            attach_node = "1 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_torso/enforcer_upperbody_a (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_01 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/oxidized_metal_steel_wear_02 (string)",
+                        [3] = "content/items/material_overrides/gear_colors/color_1_colour_forest_01 (string)",
+                        [4] = "content/items/material_overrides/gear_materials/coated_wear_01 (string)",
+                        [5] = "content/items/material_overrides/player_gear_decals/decal_atlasses/coated_decal_atlas_broker_gang_01 (string)",
+                        [6] = "content/items/material_overrides/player_gear_decals/decal_slot_index/coated_decal_slot_01_index_08 (string)",
+                        [7] = " (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_arms/enforcer_upperbody_a_arms (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_01 (string)",
+                        [2] = "content/items/material_overrides/gear_colors/color_1_colour_forest_01 (string)",
+                        [3] = " (string)",
+                        [4] = " (string)",
+                        [5] = " (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_hands/imperial_guard_gloves_h (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_leather_02_wear_02 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/coated_wear_03 (string)",
+                        [3] = "content/items/material_overrides/gear_colors/color_1_colour_forest_03 (string)",
+                        [4] = "content/items/material_overrides/gear_materials/coated_wear_04 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_5 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_6 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_7 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_8 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            backpack_offset = "0.05000000074505806 (number)",
+            base_unit = "content/characters/player/human/third_person/base_gear_rig (string)",
+            breeds = {
+                [1] = "human (string)",
+            },
+            crimes = {
+            },
+            description = "loc_veteran_enforcer_upperbody_a_var_06_desc (string)",
+            dev_description = "This is veteran_enforcer_upperbody_a_var_06 Dark green fabric, black and yellow hazard stripes on painted metal.\r\n (string)",
+            dev_name = "veteran_enforcer_upperbody_a_var_06 (string)",
+            display_name = "loc_veteran_enforcer_upperbody_a_var_06 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_slots = {
+                [1] = "slot_body_arms (string)",
+                [2] = "slot_body_torso (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_UPPERBODY (string)",
+            mask_arms = " (string)",
+            mask_arms_item = " (string)",
+            mask_torso = " (string)",
+            mask_torso_item = " (string)",
+            material_override_items = {
+            },
+            name = "content/items/characters/player/human/gear_upperbody/veteran_enforcer_upperbody_a_var_06 (string)",
+            profile_properties = {
+                sfx_body_material = "metal (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/human/third_person/base_gear_rig"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            slots = {
+                [1] = "slot_gear_upperbody (string)",
+            },
+            source = "premium_store (string)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+                [2] = "TA_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/characters/player/human/gear_upperbody/veteran_enforcer_upperbody_a_var_07"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "veteran (string)",
+            },
+            attach_node = "1 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_torso/enforcer_upperbody_a (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_01 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/oxidized_metal_steel_wear_02 (string)",
+                        [3] = "content/items/material_overrides/gear_colors/color_3_colour_gray_03 (string)",
+                        [4] = "content/items/material_overrides/gear_materials/coated_wear_04 (string)",
+                        [5] = "content/items/material_overrides/player_gear_decals/decal_atlasses/coated_decal_atlas_broker_gang_04 (string)",
+                        [6] = "content/items/material_overrides/player_gear_decals/decal_slot_index/coated_decal_slot_01_index_15 (string)",
+                        [7] = " (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_arms/enforcer_upperbody_a_arms (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_01 (string)",
+                        [2] = "content/items/material_overrides/gear_colors/color_1_colour_gray_01 (string)",
+                        [3] = " (string)",
+                        [4] = " (string)",
+                        [5] = " (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_hands/imperial_guard_gloves_h (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_01 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/coated_wear_03 (string)",
+                        [3] = "content/items/material_overrides/gear_colors/color_1_colour_gray_01 (string)",
+                        [4] = "content/items/material_overrides/gear_materials/coated_wear_04 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_5 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_6 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_7 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_8 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            backpack_offset = "0.05000000074505806 (number)",
+            base_unit = "content/characters/player/human/third_person/base_gear_rig (string)",
+            breeds = {
+                [1] = "human (string)",
+            },
+            crimes = {
+            },
+            description = "loc_veteran_enforcer_upperbody_a_var_07_desc (string)",
+            dev_description = "This is veteran_enforcer_upperbody_a_var_07 Gray textile. Rusty steel metal. Black checkered pattern on painted metal\r\n (string)",
+            dev_name = "veteran_enforcer_upperbody_a_var_07 (string)",
+            display_name = "loc_veteran_enforcer_upperbody_a_var_07 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_slots = {
+                [1] = "slot_body_arms (string)",
+                [2] = "slot_body_torso (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_UPPERBODY (string)",
+            mask_arms = " (string)",
+            mask_arms_item = " (string)",
+            mask_torso = " (string)",
+            mask_torso_item = " (string)",
+            material_override_items = {
+            },
+            name = "content/items/characters/player/human/gear_upperbody/veteran_enforcer_upperbody_a_var_07 (string)",
+            profile_properties = {
+                sfx_body_material = "metal (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/human/third_person/base_gear_rig"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            slots = {
+                [1] = "slot_gear_upperbody (string)",
+            },
+            source = "premium_store (string)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+                [2] = "TA_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
         ["content/items/characters/player/human/gear_upperbody/veteran_inquisition_upperbody_a_var_01"] = {
             always_owned = "false (boolean)",
             archetypes = {
@@ -439524,6 +444107,489 @@ return {
             material_override_items = {
             },
             name = "content/items/characters/player/human/gear_upperbody/zealot_enforcer_upperbody_a_var_04 (string)",
+            profile_properties = {
+                sfx_body_material = "metal (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/human/third_person/base_gear_rig"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            slots = {
+                [1] = "slot_gear_upperbody (string)",
+            },
+            source = "premium_store (string)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+                [2] = "TA_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/characters/player/human/gear_upperbody/zealot_enforcer_upperbody_a_var_05"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "zealot (string)",
+            },
+            attach_node = "1 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_torso/zealot_enforcer_upperbody_a (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_02 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/oxidized_metal_iron_01_wear_02 (string)",
+                        [3] = "content/items/material_overrides/gear_colors/color_1_colour_black_01 (string)",
+                        [4] = "content/items/material_overrides/gear_materials/coated_wear_04 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_arms/zealot_enforcer_upperbody_a_arms (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_02 (string)",
+                        [2] = "content/items/material_overrides/gear_colors/color_1_colour_black_01 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/coated_wear_03 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_hands/zealot_enforcer_upperbody_a_gloves (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_leather_02_wear_02 (string)",
+                        [2] = "content/items/material_overrides/gear_colors/color_1_colour_black_01 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/oxidized_metal_iron_01_wear_02 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_5 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_6 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_7 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_8 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            backpack_offset = "0.004999999888241291 (number)",
+            base_unit = "content/characters/player/human/third_person/base_gear_rig (string)",
+            breeds = {
+                [1] = "human (string)",
+            },
+            crimes = {
+            },
+            description = "loc_zealot_enforcer_upperbody_a_var_05_desc (string)",
+            dev_description = "This is zealot_enforcer_upperbody_a_var_05 - Black metal. Black cloth (string)",
+            dev_name = "zealot_enforcer_upperbody_a_var_05 (string)",
+            display_name = "loc_zealot_enforcer_upperbody_a_var_05 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_slots = {
+                [1] = "slot_body_arms (string)",
+                [2] = "slot_body_torso (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_UPPERBODY (string)",
+            mask_arms = " (string)",
+            mask_arms_item = " (string)",
+            mask_torso = " (string)",
+            mask_torso_item = " (string)",
+            material_override_items = {
+            },
+            name = "content/items/characters/player/human/gear_upperbody/zealot_enforcer_upperbody_a_var_05 (string)",
+            profile_properties = {
+                sfx_body_material = "metal (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/human/third_person/base_gear_rig"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            slots = {
+                [1] = "slot_gear_upperbody (string)",
+            },
+            source = "premium_store (string)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+                [2] = "TA_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/characters/player/human/gear_upperbody/zealot_enforcer_upperbody_a_var_06"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "zealot (string)",
+            },
+            attach_node = "1 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_torso/zealot_enforcer_upperbody_a (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_02 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/oxidized_metal_steel_wear_02 (string)",
+                        [3] = "content/items/material_overrides/gear_colors/color_1_colour_forest_01 (string)",
+                        [4] = "content/items/material_overrides/gear_materials/coated_wear_04 (string)",
+                        [5] = "content/items/material_overrides/player_gear_decals/decal_atlasses/coated_decal_atlas_broker_gang_01 (string)",
+                        [6] = "content/items/material_overrides/player_gear_decals/decal_slot_index/coated_decal_slot_01_index_08 (string)",
+                        [7] = " (string)",
+                        [8] = " (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_arms/zealot_enforcer_upperbody_a_arms (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_02 (string)",
+                        [2] = "content/items/material_overrides/gear_colors/color_1_colour_forest_01 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/coated_wear_03 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_hands/zealot_enforcer_upperbody_a_gloves (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_leather_02_wear_02 (string)",
+                        [2] = "content/items/material_overrides/gear_colors/color_1_colour_forest_01 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/oxidized_metal_steel_wear_02 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_5 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_6 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_7 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_8 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            backpack_offset = "0.004999999888241291 (number)",
+            base_unit = "content/characters/player/human/third_person/base_gear_rig (string)",
+            breeds = {
+                [1] = "human (string)",
+            },
+            crimes = {
+            },
+            description = "loc_zealot_enforcer_upperbody_a_var_06_desc (string)",
+            dev_description = "This is zealot_enforcer_upperbody_a_var_06 -  Green metal. Yellow and black hazard stripes. Green cloth (string)",
+            dev_name = "zealot_enforcer_upperbody_a_var_06 (string)",
+            display_name = "loc_zealot_enforcer_upperbody_a_var_06 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_slots = {
+                [1] = "slot_body_arms (string)",
+                [2] = "slot_body_torso (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_UPPERBODY (string)",
+            mask_arms = " (string)",
+            mask_arms_item = " (string)",
+            mask_torso = " (string)",
+            mask_torso_item = " (string)",
+            material_override_items = {
+            },
+            name = "content/items/characters/player/human/gear_upperbody/zealot_enforcer_upperbody_a_var_06 (string)",
+            profile_properties = {
+                sfx_body_material = "metal (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/human/third_person/base_gear_rig"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            slots = {
+                [1] = "slot_gear_upperbody (string)",
+            },
+            source = "premium_store (string)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+                [2] = "TA_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/characters/player/human/gear_upperbody/zealot_enforcer_upperbody_a_var_07"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "zealot (string)",
+            },
+            attach_node = "1 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_torso/zealot_enforcer_upperbody_a (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_02 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/oxidized_metal_steel_wear_02 (string)",
+                        [3] = "content/items/material_overrides/gear_colors/color_3_colour_gray_03 (string)",
+                        [4] = "content/items/material_overrides/gear_materials/coated_wear_04 (string)",
+                        [5] = "content/items/material_overrides/player_gear_decals/decal_atlasses/coated_decal_atlas_broker_gang_04 (string)",
+                        [6] = "content/items/material_overrides/player_gear_decals/decal_slot_index/coated_decal_slot_01_index_15 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_arms/zealot_enforcer_upperbody_a_arms (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_02 (string)",
+                        [2] = "content/items/material_overrides/gear_colors/color_3_colour_gray_03 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/coated_wear_03 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/human/gear_hands/zealot_enforcer_upperbody_a_gloves (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_leather_02_wear_02 (string)",
+                        [2] = "content/items/material_overrides/gear_colors/color_1_colour_black_02 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/oxidized_metal_steel_wear_02 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_5 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_6 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_7 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_8 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            backpack_offset = "0.004999999888241291 (number)",
+            base_unit = "content/characters/player/human/third_person/base_gear_rig (string)",
+            breeds = {
+                [1] = "human (string)",
+            },
+            crimes = {
+            },
+            description = "loc_zealot_enforcer_upperbody_a_var_07_desc (string)",
+            dev_description = "This is zealot_enforcer_upperbody_a_var_07 -  Gray metal. Gray cloth (string)",
+            dev_name = "zealot_enforcer_upperbody_a_var_07 (string)",
+            display_name = "loc_zealot_enforcer_upperbody_a_var_07 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_slots = {
+                [1] = "slot_body_arms (string)",
+                [2] = "slot_body_torso (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_UPPERBODY (string)",
+            mask_arms = " (string)",
+            mask_arms_item = " (string)",
+            mask_torso = " (string)",
+            mask_torso_item = " (string)",
+            material_override_items = {
+            },
+            name = "content/items/characters/player/human/gear_upperbody/zealot_enforcer_upperbody_a_var_07 (string)",
             profile_properties = {
                 sfx_body_material = "metal (string)",
             },
@@ -466902,6 +471968,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_bobby (string)",
+                [3] = "ROTATION_bobby_jeff (string)",
             },
             hide_slots = {
             },
@@ -467395,6 +472462,7 @@ return {
                 [2] = "ROTATION_week_1 (string)",
                 [3] = "ROTATION_wilmer (string)",
                 [4] = "ROTATION_elsawilmer (string)",
+                [5] = "ROTATION_victoria_mick (string)",
             },
             hide_slots = {
             },
@@ -467594,6 +472662,7 @@ return {
                 [2] = "FEATURE_unreleased_premium_cosmetics (string)",
                 [3] = "ROTATION_luna (string)",
                 [4] = "ROTATION_mick (string)",
+                [5] = "ROTATION_victoria_mick (string)",
             },
             hide_slots = {
             },
@@ -468383,6 +473452,7 @@ return {
                 [7] = "ROTATION_niva (string)",
                 [8] = "ROTATION_niva_2 (string)",
                 [9] = "ROTATION_week_1 (string)",
+                [10] = "ROTATION_bobby_jeff (string)",
             },
             hide_slots = {
             },
@@ -468484,6 +473554,7 @@ return {
                 [2] = "ROTATION_week_1 (string)",
                 [3] = "ROTATION_wilmer (string)",
                 [4] = "ROTATION_elsawilmer (string)",
+                [5] = "ROTATION_victoria_mick (string)",
             },
             hide_slots = {
             },
@@ -468633,6 +473704,7 @@ return {
                 [5] = "ROTATION_mick (string)",
                 [6] = "ROTATION_pete (string)",
                 [7] = "ROTATION_sebastian_duncan (string)",
+                [8] = "ROTATION_victoria_mick (string)",
             },
             hide_slots = {
             },
@@ -468818,6 +473890,8 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_bobby (string)",
+                [3] = "ROTATION_bobbylorene (string)",
+                [4] = "ROTATION_bobby_jeff (string)",
             },
             hide_slots = {
             },
@@ -469251,6 +474325,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_bobby (string)",
+                [3] = "ROTATION_bobby_jeff (string)",
             },
             hide_slots = {
             },
@@ -469294,6 +474369,8 @@ return {
                 [12] = "ROTATION_week_2 (string)",
                 [13] = "ROTATION_wilkazo (string)",
                 [14] = "ROTATION_zoya (string)",
+                [15] = "ROTATION_bobby_jeff (string)",
+                [16] = "ROTATION_victoria_mick (string)",
             },
             hide_slots = {
             },
@@ -469333,6 +474410,7 @@ return {
                 [8] = "ROTATION_week_2 (string)",
                 [9] = "ROTATION_wilkazo (string)",
                 [10] = "ROTATION_zoya (string)",
+                [11] = "ROTATION_bobby_jeff (string)",
             },
             hide_slots = {
             },
@@ -469505,6 +474583,7 @@ return {
                 [8] = "ROTATION_urskyr (string)",
                 [9] = "ROTATION_week_1 (string)",
                 [10] = "ROTATION_rodger_catherine_3 (string)",
+                [11] = "ROTATION_victoria_mick (string)",
             },
             hide_slots = {
             },
@@ -469538,6 +474617,7 @@ return {
                 [2] = "FEATURE_unreleased_premium_cosmetics (string)",
                 [3] = "ROTATION_luna (string)",
                 [4] = "ROTATION_mick (string)",
+                [5] = "ROTATION_victoria_mick (string)",
             },
             hide_slots = {
             },
@@ -477609,6 +482689,7 @@ return {
                 [17] = "ROTATION_zorro (string)",
                 [18] = "ROTATION_zoya (string)",
                 [19] = "ROTATION_francisco_malcador (string)",
+                [20] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -480600,6 +485681,127 @@ return {
                 [7] = "content/items/material_overrides/player_pattern_properties/pattern_rotation_05 (string)",
             },
             name = "content/items/characters/player/ogryn/gear_head/ogryn_cadia_helmet_02_var_04 (string)",
+            parent_slot_names = {
+                [1] = "slot_body_face (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/ogryn/attachments_gear/headgear/ogryn_cadia_helmet_02/ogryn_cadia_helmet_02"] = "true (boolean)",
+            },
+            slots = {
+                [1] = "slot_gear_head (string)",
+            },
+            sort_order = "0 (number)",
+            source = "premium_store (string)",
+            stabilize_neck = "0 (number)",
+            tags = {
+            },
+            voice_effect_combination = "default (string)",
+            voice_fx_preset = "voice_fx_rtpc_none (string)",
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/characters/player/ogryn/gear_head/ogryn_cadia_helmet_02_var_05"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "ogryn (string)",
+            },
+            attach_node = "j_head (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/characters/player/ogryn/attachments_gear/headgear/ogryn_cadia_helmet_02/ogryn_cadia_helmet_02 (string)",
+            breeds = {
+                [1] = "ogryn (string)",
+            },
+            crimes = {
+            },
+            deform_mesh_source = "from_male (string)",
+            description = "loc_ogryn_cadia_helmet_02_var_05_desc (string)",
+            dev_description = "Cadia themed Ogryn helmet with goggles on top. White, blue and black camo Steel with leather padding.\r\n (string)",
+            dev_name = "ogryn_cadia_helmet_02_var_05 (string)",
+            display_name = "loc_ogryn_cadia_helmet_02_var_05 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_beard = "false (boolean)",
+            hide_eyebrows = "false (boolean)",
+            hide_slots = {
+                [1] = "slot_body_hair (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_HEAD (string)",
+            mask_face = " (string)",
+            mask_face_accessory = " (string)",
+            mask_face_accessory_item = " (string)",
+            mask_face_item = " (string)",
+            mask_facial_hair = "ogryn_facial_hair_mask_sides_03 (string)",
+            mask_facial_hair_item = "content/items/material_overrides/player_hair_headgear_mask/ogryn_facial_hair_mask_sides_03 (string)",
+            mask_hair = " (string)",
+            mask_hair_item = " (string)",
+            mask_hair_override = {
+            },
+            material_override_items = {
+                [1] = "content/items/material_overrides/gear_colors/color_3_colour_city_03 (string)",
+                [2] = "content/items/material_overrides/gear_materials/fabric_leather_02_wear_03 (string)",
+                [3] = "content/items/material_overrides/gear_materials/oxidized_metal_steel_iron_wear_02 (string)",
+                [4] = "content/items/material_overrides/gear_patterns/pattern_camo_14 (string)",
+                [5] = "content/items/material_overrides/player_pattern_properties/pattern_tiling_04 (string)",
+                [6] = "content/items/material_overrides/gear_materials/coated_wear_03 (string)",
+                [7] = "content/items/material_overrides/player_pattern_properties/pattern_rotation_05 (string)",
+            },
+            name = "content/items/characters/player/ogryn/gear_head/ogryn_cadia_helmet_02_var_05 (string)",
             parent_slot_names = {
                 [1] = "slot_body_face (string)",
             },
@@ -492512,6 +497714,372 @@ return {
             },
             workflow_state = "RELEASABLE (string)",
         },
+        ["content/items/characters/player/ogryn/gear_head/ogryn_enforcer_headgear_a_var_05"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "ogryn (string)",
+            },
+            attach_node = "j_head (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/characters/player/ogryn/attachments_gear/headgear/ogryn_enforcer_headgear_a/ogryn_enforcer_headgear_a (string)",
+            breeds = {
+                [1] = "ogryn (string)",
+            },
+            crimes = {
+            },
+            deform_mesh_source = "from_male (string)",
+            description = "loc_ogryn_enforcer_headgear_a_var_05_desc (string)",
+            dev_description = "Enforcer inspired headgear -Black fabric black metal, Orange yellow emissive\r\n (string)",
+            dev_name = "ogryn_enforcer_headgear_a_var_05 (string)",
+            display_name = "loc_ogryn_enforcer_headgear_a_var_05 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_beard = "true (boolean)",
+            hide_eyebrows = "true (boolean)",
+            hide_slots = {
+                [1] = "slot_body_hair (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_HEAD (string)",
+            mask_face = "mask_face_keep_neck_e (string)",
+            mask_face_accessory = " (string)",
+            mask_face_accessory_item = " (string)",
+            mask_face_item = "content/items/material_overrides/player_face_mask/mask_face_keep_neck_e (string)",
+            mask_facial_hair = " (string)",
+            mask_facial_hair_item = " (string)",
+            mask_hair = " (string)",
+            mask_hair_item = " (string)",
+            mask_hair_override = {
+            },
+            material_override_items = {
+                [1] = "content/items/material_overrides/gear_materials/oxidized_metal_steel_paint_black_wear_02 (string)",
+                [2] = "content/items/material_overrides/gear_colors/color_1_colour_black_01 (string)",
+                [3] = "content/items/material_overrides/gear_materials/fabric_cotton_01_leather_03_wear_01 (string)",
+                [4] = "content/items/material_overrides/gear_materials/coated_wear_04 (string)",
+                [5] = "content/items/material_overrides/player_emissive/emissive_yellow_02 (string)",
+            },
+            name = "content/items/characters/player/ogryn/gear_head/ogryn_enforcer_headgear_a_var_05 (string)",
+            parent_slot_names = {
+                [1] = "slot_body_face (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/ogryn/attachments_gear/headgear/ogryn_enforcer_headgear_a/ogryn_enforcer_headgear_a"] = "true (boolean)",
+            },
+            slots = {
+                [1] = "slot_gear_head (string)",
+            },
+            sort_order = "0 (number)",
+            source = "premium_store (string)",
+            stabilize_neck = "0 (number)",
+            tags = {
+            },
+            voice_effect_combination = "default (string)",
+            voice_fx_preset = "voice_fx_rtpc_epic_enforcer (string)",
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+                [2] = "SFX_DONE (string)",
+                [3] = "TA_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/characters/player/ogryn/gear_head/ogryn_enforcer_headgear_a_var_06"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "ogryn (string)",
+            },
+            attach_node = "j_head (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/characters/player/ogryn/attachments_gear/headgear/ogryn_enforcer_headgear_a/ogryn_enforcer_headgear_a (string)",
+            breeds = {
+                [1] = "ogryn (string)",
+            },
+            crimes = {
+            },
+            deform_mesh_source = "from_male (string)",
+            description = "loc_ogryn_enforcer_headgear_a_var_06_desc (string)",
+            dev_description = "Enforcer inspired headgear Enforcer inspired headgear -Black metal yellow black hazard stripes, Yellow emissive\r\n (string)",
+            dev_name = "ogryn_enforcer_headgear_a_var_06 (string)",
+            display_name = "loc_ogryn_enforcer_headgear_a_var_06 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_beard = "true (boolean)",
+            hide_eyebrows = "true (boolean)",
+            hide_slots = {
+                [1] = "slot_body_hair (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_HEAD (string)",
+            mask_face = "mask_face_keep_neck_e (string)",
+            mask_face_accessory = " (string)",
+            mask_face_accessory_item = " (string)",
+            mask_face_item = "content/items/material_overrides/player_face_mask/mask_face_keep_neck_e (string)",
+            mask_facial_hair = " (string)",
+            mask_facial_hair_item = " (string)",
+            mask_hair = " (string)",
+            mask_hair_item = " (string)",
+            mask_hair_override = {
+            },
+            material_override_items = {
+                [1] = "content/items/material_overrides/gear_materials/oxidized_metal_iron_wear_02 (string)",
+                [2] = "content/items/material_overrides/gear_colors/color_1_colour_forest_01 (string)",
+                [3] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_01 (string)",
+                [4] = "content/items/material_overrides/gear_materials/coated_wear_04 (string)",
+                [5] = "content/items/material_overrides/player_gear_decals/decal_atlasses/coated_decal_atlas_broker_gang_01 (string)",
+                [6] = "content/items/material_overrides/player_gear_decals/decal_slot_index/coated_decal_slot_01_index_08 (string)",
+            },
+            name = "content/items/characters/player/ogryn/gear_head/ogryn_enforcer_headgear_a_var_06 (string)",
+            parent_slot_names = {
+                [1] = "slot_body_face (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/ogryn/attachments_gear/headgear/ogryn_enforcer_headgear_a/ogryn_enforcer_headgear_a"] = "true (boolean)",
+            },
+            slots = {
+                [1] = "slot_gear_head (string)",
+            },
+            sort_order = "0 (number)",
+            source = "premium_store (string)",
+            stabilize_neck = "0 (number)",
+            tags = {
+            },
+            voice_effect_combination = "default (string)",
+            voice_fx_preset = "voice_fx_rtpc_epic_enforcer (string)",
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+                [2] = "SFX_DONE (string)",
+                [3] = "TA_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/characters/player/ogryn/gear_head/ogryn_enforcer_headgear_a_var_07"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "ogryn (string)",
+            },
+            attach_node = "j_head (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/characters/player/ogryn/attachments_gear/headgear/ogryn_enforcer_headgear_a/ogryn_enforcer_headgear_a (string)",
+            breeds = {
+                [1] = "ogryn (string)",
+            },
+            crimes = {
+            },
+            deform_mesh_source = "from_male (string)",
+            description = "loc_ogryn_enforcer_headgear_a_var_07_desc (string)",
+            dev_description = "Enforcer inspired headgear - gray metal with black checkered pattern, blue emissive\r\n (string)",
+            dev_name = "ogryn_enforcer_headgear_a_var_07 (string)",
+            display_name = "loc_ogryn_enforcer_headgear_a_var_07 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_beard = "true (boolean)",
+            hide_eyebrows = "true (boolean)",
+            hide_slots = {
+                [1] = "slot_body_hair (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_HEAD (string)",
+            mask_face = "mask_face_keep_neck_e (string)",
+            mask_face_accessory = " (string)",
+            mask_face_accessory_item = " (string)",
+            mask_face_item = "content/items/material_overrides/player_face_mask/mask_face_keep_neck_e (string)",
+            mask_facial_hair = " (string)",
+            mask_facial_hair_item = " (string)",
+            mask_hair = " (string)",
+            mask_hair_item = " (string)",
+            mask_hair_override = {
+            },
+            material_override_items = {
+                [1] = "content/items/material_overrides/gear_materials/oxidized_metal_steel_paint_black_wear_02 (string)",
+                [2] = "content/items/material_overrides/gear_colors/color_3_colour_gray_03 (string)",
+                [3] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_01 (string)",
+                [4] = "content/items/material_overrides/gear_materials/coated_wear_04 (string)",
+                [5] = "content/items/material_overrides/player_emissive/emissive_blue_02 (string)",
+                [6] = "content/items/material_overrides/player_gear_decals/decal_atlasses/coated_decal_atlas_broker_gang_04 (string)",
+                [7] = "content/items/material_overrides/player_gear_decals/decal_slot_index/coated_decal_slot_01_index_15 (string)",
+            },
+            name = "content/items/characters/player/ogryn/gear_head/ogryn_enforcer_headgear_a_var_07 (string)",
+            parent_slot_names = {
+                [1] = "slot_body_face (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/ogryn/attachments_gear/headgear/ogryn_enforcer_headgear_a/ogryn_enforcer_headgear_a"] = "true (boolean)",
+            },
+            slots = {
+                [1] = "slot_gear_head (string)",
+            },
+            sort_order = "0 (number)",
+            source = "premium_store (string)",
+            stabilize_neck = "0 (number)",
+            tags = {
+            },
+            voice_effect_combination = "default (string)",
+            voice_fx_preset = "voice_fx_rtpc_epic_enforcer (string)",
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+                [2] = "SFX_DONE (string)",
+                [3] = "TA_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
         ["content/items/characters/player/ogryn/gear_head/ogryn_eye_tech_b_01"] = {
             always_owned = "false (boolean)",
             archetypes = {
@@ -492695,6 +498263,7 @@ return {
                 [3] = "ROTATION_urskyr (string)",
                 [4] = "ROTATION_victoria (string)",
                 [5] = "ROTATION_ursula_ulf (string)",
+                [6] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -497034,6 +502603,7 @@ return {
             feature_flags = {
                 [1] = "ROTATION_victoria (string)",
                 [2] = "ROTATION_rodger_catherine_3 (string)",
+                [3] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -502044,6 +507614,121 @@ return {
             },
             workflow_state = "RELEASABLE (string)",
         },
+        ["content/items/characters/player/ogryn/gear_head/ogryn_i_headgear_set_01"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "ogryn (string)",
+            },
+            attach_node = "j_spine2 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/characters/player/ogryn/attachments_gear/headgear/ogryn_short_hood_01/short_hood_01 (string)",
+            breeds = {
+                [1] = "ogryn (string)",
+            },
+            crimes = {
+            },
+            deform_mesh_source = "from_male (string)",
+            description = "loc_ogryn_i_headgear_set_01_desc (string)",
+            dev_description = "Ecclesiarchy themed Ogryn hat. Steel blue color variant. (string)",
+            dev_name = "ogryn_i_headgear_set_01 (string)",
+            display_name = "loc_ogryn_i_headgear_set_01 (string)",
+            feature_flags = {
+                [1] = "ROTATION_victoria_mick (string)",
+            },
+            genders = {
+            },
+            hide_beard = "false (boolean)",
+            hide_eyebrows = "false (boolean)",
+            hide_slots = {
+                [1] = "slot_body_hair (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_HEAD (string)",
+            mask_face = " (string)",
+            mask_face_accessory = " (string)",
+            mask_face_accessory_item = " (string)",
+            mask_face_item = " (string)",
+            mask_facial_hair = " (string)",
+            mask_facial_hair_item = " (string)",
+            mask_hair = " (string)",
+            mask_hair_item = " (string)",
+            mask_hair_override = {
+            },
+            material_override_items = {
+                [1] = "content/items/material_overrides/gear_colors/color_3_colour_city_04 (string)",
+                [2] = "content/items/material_overrides/gear_materials/fabric_wool_01_wear_02 (string)",
+            },
+            name = "content/items/characters/player/ogryn/gear_head/ogryn_i_headgear_set_01 (string)",
+            parent_slot_names = {
+                [1] = "slot_body_face (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/ogryn/attachments_gear/headgear/ogryn_short_hood_01/short_hood_01"] = "true (boolean)",
+            },
+            slots = {
+                [1] = "slot_gear_head (string)",
+            },
+            sort_order = "0 (number)",
+            source = "premium_store (string)",
+            stabilize_neck = "0 (number)",
+            tags = {
+            },
+            voice_effect_combination = "default (string)",
+            voice_fx_preset = "voice_fx_rtpc_none (string)",
+            workflow_checklist = {
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
         ["content/items/characters/player/ogryn/gear_head/ogryn_i_headgear_set_02"] = {
             always_owned = "false (boolean)",
             archetypes = {
@@ -502227,6 +507912,7 @@ return {
             feature_flags = {
                 [1] = "ROTATION_catherine (string)",
                 [2] = "ROTATION_catherine_2 (string)",
+                [3] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -502342,6 +508028,7 @@ return {
             display_name = "loc_ogryn_i_headgear_set_04 (string)",
             feature_flags = {
                 [1] = "ROTATION_luna (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -502695,6 +508382,7 @@ return {
             display_name = "loc_ogryn_j_headgear_set_01 (string)",
             feature_flags = {
                 [1] = "ROTATION_mick (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -503277,6 +508965,7 @@ return {
             display_name = "loc_ogryn_j_headgear_set_07 (string)",
             feature_flags = {
                 [1] = "ROTATION_victoria (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -503531,6 +509220,7 @@ return {
             display_name = "loc_ogryn_j_headgear_set_09 (string)",
             feature_flags = {
                 [1] = "ROTATION_rafal (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -503662,6 +509352,7 @@ return {
             display_name = "loc_ogryn_j_headgear_set_10 (string)",
             feature_flags = {
                 [1] = "ROTATION_rafal (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -507951,6 +513642,242 @@ return {
             },
             workflow_state = "RELEASABLE (string)",
         },
+        ["content/items/characters/player/ogryn/gear_head/ogryn_rogue_trader_headgear_a_var_01"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "ogryn (string)",
+            },
+            attach_node = "j_spine2 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/characters/player/ogryn/attachments_gear/headgear/ogryn_rogue_trader_headgear_a/ogryn_rogue_trader_headgear_a (string)",
+            breeds = {
+                [1] = "ogryn (string)",
+            },
+            crimes = {
+            },
+            deform_mesh_source = "from_male (string)",
+            description = "loc_ogryn_rogue_trader_headgear_a_var_01_desc (string)",
+            dev_description = "Ogryn rogue trader themed hat. (string)",
+            dev_name = "ogryn_rogue_trader_headgear_a_var_01 (string)",
+            display_name = "loc_ogryn_rogue_trader_headgear_a_var_01 (string)",
+            feature_flags = {
+                [1] = "ROTATION_victoria_mick (string)",
+            },
+            genders = {
+            },
+            hide_beard = "false (boolean)",
+            hide_eyebrows = "false (boolean)",
+            hide_slots = {
+                [1] = "slot_body_hair (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_HEAD (string)",
+            mask_face = " (string)",
+            mask_face_accessory = " (string)",
+            mask_face_accessory_item = " (string)",
+            mask_face_item = " (string)",
+            mask_facial_hair = " (string)",
+            mask_facial_hair_item = " (string)",
+            mask_hair = "ogryn_hair_mask_cap_01 (string)",
+            mask_hair_item = "content/items/material_overrides/player_hair_headgear_mask/ogryn_hair_mask_cap_01 (string)",
+            mask_hair_override = {
+            },
+            material_override_items = {
+                [1] = "content/items/material_overrides/gear_materials/fabric_wool_01_wear_02 (string)",
+                [2] = "content/items/material_overrides/gear_colors/color_2_colour_mars_02 (string)",
+                [3] = " (string)",
+            },
+            name = "content/items/characters/player/ogryn/gear_head/ogryn_rogue_trader_headgear_a_var_01 (string)",
+            parent_slot_names = {
+                [1] = "slot_body_face (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/ogryn/attachments_gear/headgear/ogryn_rogue_trader_headgear_a/ogryn_rogue_trader_headgear_a"] = "true (boolean)",
+            },
+            slots = {
+                [1] = "slot_gear_head (string)",
+            },
+            sort_order = "0 (number)",
+            source = "premium_store (string)",
+            stabilize_neck = "0 (number)",
+            tags = {
+            },
+            voice_effect_combination = "default (string)",
+            voice_fx_preset = "voice_fx_rtpc_none (string)",
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+                [2] = "SFX_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/characters/player/ogryn/gear_head/ogryn_rogue_trader_headgear_a_var_02"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "ogryn (string)",
+            },
+            attach_node = "j_spine2 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/characters/player/ogryn/attachments_gear/headgear/ogryn_rogue_trader_headgear_a/ogryn_rogue_trader_headgear_a (string)",
+            breeds = {
+                [1] = "ogryn (string)",
+            },
+            crimes = {
+            },
+            deform_mesh_source = "from_male (string)",
+            description = "loc_ogryn_rogue_trader_headgear_a_var_02_desc (string)",
+            dev_description = "Ogryn rogue trader themed hat. (string)",
+            dev_name = "ogryn_rogue_trader_headgear_a_var_02 (string)",
+            display_name = "loc_ogryn_rogue_trader_headgear_a_var_02 (string)",
+            feature_flags = {
+                [1] = "ROTATION_victoria_mick (string)",
+            },
+            genders = {
+            },
+            hide_beard = "false (boolean)",
+            hide_eyebrows = "false (boolean)",
+            hide_slots = {
+                [1] = "slot_body_hair (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_HEAD (string)",
+            mask_face = " (string)",
+            mask_face_accessory = " (string)",
+            mask_face_accessory_item = " (string)",
+            mask_face_item = " (string)",
+            mask_facial_hair = " (string)",
+            mask_facial_hair_item = " (string)",
+            mask_hair = "ogryn_hair_mask_cap_01 (string)",
+            mask_hair_item = "content/items/material_overrides/player_hair_headgear_mask/ogryn_hair_mask_cap_01 (string)",
+            mask_hair_override = {
+            },
+            material_override_items = {
+                [1] = "content/items/material_overrides/gear_materials/fabric_wool_01_wear_02 (string)",
+                [2] = "content/items/material_overrides/gear_colors/color_3_colour_city_01 (string)",
+                [3] = " (string)",
+            },
+            name = "content/items/characters/player/ogryn/gear_head/ogryn_rogue_trader_headgear_a_var_02 (string)",
+            parent_slot_names = {
+                [1] = "slot_body_face (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/ogryn/attachments_gear/headgear/ogryn_rogue_trader_headgear_a/ogryn_rogue_trader_headgear_a"] = "true (boolean)",
+            },
+            slots = {
+                [1] = "slot_gear_head (string)",
+            },
+            sort_order = "0 (number)",
+            source = "premium_store (string)",
+            stabilize_neck = "0 (number)",
+            tags = {
+            },
+            voice_effect_combination = "default (string)",
+            voice_fx_preset = "voice_fx_rtpc_none (string)",
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+                [2] = "SFX_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
         ["content/items/characters/player/ogryn/gear_head/ogryn_rogue_trader_headgear_a_var_03"] = {
             always_owned = "false (boolean)",
             archetypes = {
@@ -508018,6 +513945,7 @@ return {
                 [1] = "ROTATION_rodcat_2 (string)",
                 [2] = "ROTATION_rodger (string)",
                 [3] = "ROTATION_rodger_catherine_3 (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -516727,6 +522655,7 @@ return {
             display_name = "loc_rogue_trader_ogryn_bandana_mask_01_forehead_eagle_01_var_01 (string)",
             feature_flags = {
                 [1] = "ROTATION_victoria (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -519410,6 +525339,8 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_bobby (string)",
+                [3] = "ROTATION_bobbylorene (string)",
+                [4] = "ROTATION_bobby_jeff (string)",
             },
             hide_slots = {
                 [1] = "slot_body_legs (string)",
@@ -519720,6 +525651,7 @@ return {
                 [7] = "ROTATION_niva (string)",
                 [8] = "ROTATION_niva_2 (string)",
                 [9] = "ROTATION_week_1 (string)",
+                [10] = "ROTATION_bobby_jeff (string)",
             },
             hide_slots = {
                 [1] = "slot_body_legs (string)",
@@ -519973,6 +525905,7 @@ return {
                 [2] = "ROTATION_week_1 (string)",
                 [3] = "ROTATION_wilmer (string)",
                 [4] = "ROTATION_elsawilmer (string)",
+                [5] = "ROTATION_victoria_mick (string)",
             },
             hide_slots = {
                 [1] = "slot_body_legs (string)",
@@ -520251,6 +526184,7 @@ return {
                 [10] = "ROTATION_rafal (string)",
                 [11] = "ROTATION_zorro (string)",
                 [12] = "ROTATION_sebastian_duncan (string)",
+                [13] = "ROTATION_victoria_mick (string)",
             },
             hide_slots = {
                 [1] = "slot_body_legs (string)",
@@ -522263,6 +528197,124 @@ return {
             },
             workflow_state = "RELEASABLE (string)",
         },
+        ["content/items/characters/player/ogryn/gear_lowerbody/ogryn_c_lowerbody_set_06"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "ogryn (string)",
+            },
+            attach_node = "1 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/ogryn/gear_legs/ogryn_pants_c (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_02 (string)",
+                        [2] = "content/items/material_overrides/gear_colors/color_3_colour_city_03 (string)",
+                        [3] = "content/items/material_overrides/gear_patterns/pattern_camo_14_inv (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/ogryn/gear_feet/ogryn_boots_c (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/fabric_leather_03_wear_03 (string)",
+                        [2] = "content/items/material_overrides/gear_colors/color_3_colour_city_03 (string)",
+                        [3] = "content/items/material_overrides/gear_patterns/pattern_camo_14 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_5 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/characters/player/ogryn/third_person/base_gear_rig (string)",
+            breeds = {
+                [1] = "ogryn (string)",
+            },
+            crimes = {
+            },
+            description = "loc_ogryn_c_lowerbody_set_06_desc (string)",
+            dev_description = "Cadia themed Ogryn bullwark pants with camo. Blue, grey and black camo. (string)",
+            dev_name = "ogryn_c_lowerbody_set_06 (string)",
+            display_name = "loc_ogryn_c_lowerbody_set_06 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_slots = {
+                [1] = "slot_body_legs (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_LOWERBODY (string)",
+            mask_legs = " (string)",
+            mask_legs_item = " (string)",
+            material_override_items = {
+                [1] = "content/items/material_overrides/gear_materials/coated_wear_04 (string)",
+            },
+            name = "content/items/characters/player/ogryn/gear_lowerbody/ogryn_c_lowerbody_set_06 (string)",
+            profile_properties = {
+                footstep_type_left = " (string)",
+                footstep_type_right = " (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/ogryn/third_person/base_gear_rig"] = "true (boolean)",
+            },
+            show_in_1p = "false (boolean)",
+            slots = {
+                [1] = "slot_gear_lowerbody (string)",
+            },
+            source = "premium_store (string)",
+            tags = {
+            },
+            workflow_checklist = {
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
         ["content/items/characters/player/ogryn/gear_lowerbody/ogryn_cadia_lowerbody_set_01"] = {
             always_owned = "false (boolean)",
             archetypes = {
@@ -524062,6 +530114,378 @@ return {
             },
             workflow_state = "RELEASABLE (string)",
         },
+        ["content/items/characters/player/ogryn/gear_lowerbody/ogryn_enforcer_lowerbody_a_var_05"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "ogryn (string)",
+            },
+            attach_node = "1 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/ogryn/gear_legs/ogryn_enforcer_lowerbody_a_pants (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/oxidized_metal_iron_01_wear_02 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/fabric_cotton_01_leather_02_wear_01 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/coated_wear_04 (string)",
+                        [4] = "content/items/material_overrides/gear_colors/color_1_colour_black_01 (string)",
+                        [5] = "content/items/material_overrides/gear_materials/outfit_dirt_02 (string)",
+                        [6] = "content/items/material_overrides/gear_materials/dirt_color_06 (string)",
+                        [7] = " (string)",
+                        [8] = "content/items/material_overrides/gear_materials/coated_decal_blend_09 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/ogryn/gear_feet/ogryn_enforcer_lowerbody_a_boots (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/oxidized_metal_iron_01_wear_02 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_5 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/characters/player/ogryn/third_person/base_gear_rig (string)",
+            breeds = {
+                [1] = "ogryn (string)",
+            },
+            crimes = {
+            },
+            description = "loc_ogryn_enforcer_lowerbody_a_var_05_desc (string)",
+            dev_description = "ogryn enforcer lowerbody - White metal, black cloth (string)",
+            dev_name = "ogryn_enforcer_lowerbody_a_var_05 (string)",
+            display_name = "loc_ogryn_enforcer_lowerbody_a_var_05 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_slots = {
+                [1] = "slot_body_legs (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_LOWERBODY (string)",
+            mask_legs = " (string)",
+            mask_legs_item = " (string)",
+            material_override_items = {
+            },
+            name = "content/items/characters/player/ogryn/gear_lowerbody/ogryn_enforcer_lowerbody_a_var_05 (string)",
+            profile_properties = {
+                footstep_type_left = " (string)",
+                footstep_type_right = " (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/ogryn/third_person/base_gear_rig"] = "true (boolean)",
+            },
+            show_in_1p = "false (boolean)",
+            slots = {
+                [1] = "slot_gear_lowerbody (string)",
+            },
+            source = "premium_store (string)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+                [2] = "TA_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/characters/player/ogryn/gear_lowerbody/ogryn_enforcer_lowerbody_a_var_06"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "ogryn (string)",
+            },
+            attach_node = "1 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/ogryn/gear_legs/ogryn_enforcer_lowerbody_a_pants (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/oxidized_metal_steel_wear_02 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/fabric_cotton_01_leather_02_wear_01 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/coated_wear_04 (string)",
+                        [4] = "content/items/material_overrides/gear_colors/color_1_colour_forest_01 (string)",
+                        [5] = "content/items/material_overrides/gear_materials/outfit_dirt_02 (string)",
+                        [6] = "content/items/material_overrides/gear_materials/dirt_color_06 (string)",
+                        [7] = "content/items/material_overrides/player_gear_decals/decal_atlasses/coated_decal_atlas_broker_gang_01 (string)",
+                        [8] = "content/items/material_overrides/gear_materials/coated_decal_blend_09 (string)",
+                        [9] = " (string)",
+                        [10] = "content/items/material_overrides/player_gear_decals/decal_slot_index/coated_decal_slot_01_index_08 (string)",
+                        [11] = " (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/ogryn/gear_feet/ogryn_enforcer_lowerbody_a_boots (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/oxidized_metal_iron_01_wear_02 (string)",
+                        [2] = "content/items/material_overrides/gear_colors/color_1_colour_forest_03 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_5 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/characters/player/ogryn/third_person/base_gear_rig (string)",
+            breeds = {
+                [1] = "ogryn (string)",
+            },
+            crimes = {
+            },
+            description = "loc_ogryn_enforcer_lowerbody_a_var_06_desc (string)",
+            dev_description = "ogryn enforcer lowerbody - Green metal, Green cloth - Hazard stripes on knee  (string)",
+            dev_name = "ogryn_enforcer_lowerbody_a_var_06 (string)",
+            display_name = "loc_ogryn_enforcer_lowerbody_a_var_06 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_slots = {
+                [1] = "slot_body_legs (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_LOWERBODY (string)",
+            mask_legs = " (string)",
+            mask_legs_item = " (string)",
+            material_override_items = {
+            },
+            name = "content/items/characters/player/ogryn/gear_lowerbody/ogryn_enforcer_lowerbody_a_var_06 (string)",
+            profile_properties = {
+                footstep_type_left = " (string)",
+                footstep_type_right = " (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/ogryn/third_person/base_gear_rig"] = "true (boolean)",
+            },
+            show_in_1p = "false (boolean)",
+            slots = {
+                [1] = "slot_gear_lowerbody (string)",
+            },
+            source = "premium_store (string)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+                [2] = "TA_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/characters/player/ogryn/gear_lowerbody/ogryn_enforcer_lowerbody_a_var_07"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "ogryn (string)",
+            },
+            attach_node = "1 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/ogryn/gear_legs/ogryn_enforcer_lowerbody_a_pants (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/oxidized_metal_steel_wear_02 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/fabric_cotton_01_leather_02_wear_01 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/coated_wear_04 (string)",
+                        [4] = "content/items/material_overrides/gear_colors/color_3_colour_gray_03 (string)",
+                        [5] = "content/items/material_overrides/gear_materials/outfit_dirt_02 (string)",
+                        [6] = "content/items/material_overrides/gear_materials/dirt_color_06 (string)",
+                        [7] = "content/items/material_overrides/player_gear_decals/decal_atlasses/coated_decal_atlas_broker_gang_04 (string)",
+                        [8] = "content/items/material_overrides/gear_materials/coated_decal_blend_09 (string)",
+                        [9] = " (string)",
+                        [10] = "content/items/material_overrides/player_gear_decals/decal_slot_index/coated_decal_slot_01_index_15 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/ogryn/gear_feet/ogryn_enforcer_lowerbody_a_boots (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/oxidized_metal_steel_wear_02 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_5 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/characters/player/ogryn/third_person/base_gear_rig (string)",
+            breeds = {
+                [1] = "ogryn (string)",
+            },
+            crimes = {
+            },
+            description = "loc_ogryn_enforcer_lowerbody_a_var_07_desc (string)",
+            dev_description = "ogryn enforcer lowerbody - Gray metal, gray cloth - black checkered pattern on knee (string)",
+            dev_name = "ogryn_enforcer_lowerbody_a_var_07 (string)",
+            display_name = "loc_ogryn_enforcer_lowerbody_a_var_07 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_slots = {
+                [1] = "slot_body_legs (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_LOWERBODY (string)",
+            mask_legs = " (string)",
+            mask_legs_item = " (string)",
+            material_override_items = {
+            },
+            name = "content/items/characters/player/ogryn/gear_lowerbody/ogryn_enforcer_lowerbody_a_var_07 (string)",
+            profile_properties = {
+                footstep_type_left = " (string)",
+                footstep_type_right = " (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/ogryn/third_person/base_gear_rig"] = "true (boolean)",
+            },
+            show_in_1p = "false (boolean)",
+            slots = {
+                [1] = "slot_gear_lowerbody (string)",
+            },
+            source = "premium_store (string)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+                [2] = "TA_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
         ["content/items/characters/player/ogryn/gear_lowerbody/ogryn_f_lowerbody_set_01"] = {
             always_owned = "false (boolean)",
             archetypes = {
@@ -524491,6 +530915,7 @@ return {
             display_name = "loc_ogryn_f_lowerbody_var_01 (string)",
             feature_flags = {
                 [1] = "ROTATION_victoria (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -526615,6 +533040,7 @@ return {
             display_name = "loc_ogryn_j_lowerbody_set_01 (string)",
             feature_flags = {
                 [1] = "ROTATION_mick (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -536928,6 +543354,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_bobby (string)",
+                [3] = "ROTATION_bobby_jeff (string)",
             },
             hide_slots = {
             },
@@ -539170,6 +545597,7 @@ return {
                 [8] = "ROTATION_week_2 (string)",
                 [9] = "ROTATION_wilkazo (string)",
                 [10] = "ROTATION_zoya (string)",
+                [11] = "ROTATION_bobby_jeff (string)",
             },
             hide_slots = {
                 [1] = "slot_body_torso (string)",
@@ -540450,6 +546878,7 @@ return {
                 [2] = "ROTATION_week_1 (string)",
                 [3] = "ROTATION_wilmer (string)",
                 [4] = "ROTATION_elsawilmer (string)",
+                [5] = "ROTATION_victoria_mick (string)",
             },
             hide_slots = {
             },
@@ -540834,6 +547263,7 @@ return {
                 [2] = "FEATURE_unreleased_premium_cosmetics (string)",
                 [3] = "ROTATION_luna (string)",
                 [4] = "ROTATION_mick (string)",
+                [5] = "ROTATION_victoria_mick (string)",
             },
             hide_slots = {
                 [1] = "slot_body_torso (string)",
@@ -543149,6 +549579,493 @@ return {
                 [2] = "content/items/material_overrides/gear_materials/dirt_color_06 (string)",
             },
             name = "content/items/characters/player/ogryn/gear_upperbody/ogryn_enforcer_upperbody_a_var_04 (string)",
+            profile_properties = {
+                sfx_body_material = "cloth_metal (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/ogryn/third_person/base_gear_rig"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            slots = {
+                [1] = "slot_gear_upperbody (string)",
+            },
+            source = "premium_store (string)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+                [2] = "TA_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/characters/player/ogryn/gear_upperbody/ogryn_enforcer_upperbody_a_var_05"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "ogryn (string)",
+            },
+            attach_node = "1 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/ogryn/gear_torso/ogryn_enforcer_upperbody_a_torso (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_colors/color_1_colour_black_01 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/coated_wear_04 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/fabric_cotton_01_leather_03_wear_01 (string)",
+                        [4] = "content/items/material_overrides/gear_materials/oxidized_metal_iron_wear_02 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/ogryn/gear_arms/ogryn_enforcer_upperbody_a_arms (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_colors/color_1_colour_black_01 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/coated_wear_04 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_01 (string)",
+                        [4] = "content/items/material_overrides/gear_materials/oxidized_metal_iron_wear_02 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/ogryn/gear_hands/ogryn_enforcer_upperbody_a_gloves (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/oxidized_metal_iron_wear_02 (string)",
+                        [2] = " (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_5 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_6 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_7 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_8 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            backpack_offset = "0.20000000298023224 (number)",
+            base_unit = "content/characters/player/ogryn/third_person/base_gear_rig (string)",
+            breeds = {
+                [1] = "ogryn (string)",
+            },
+            crimes = {
+            },
+            description = "loc_ogryn_enforcer_upperbody_a_var_05_desc (string)",
+            dev_description = "Enforcer Ogryn upperbody cosmetic. Black theme. (string)",
+            dev_name = "ogryn_enforcer_upperbody_a_var_05 (string)",
+            display_name = "loc_ogryn_enforcer_upperbody_a_var_05 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_slots = {
+                [1] = "slot_body_arms (string)",
+                [2] = "slot_body_torso (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_UPPERBODY (string)",
+            mask_arms = " (string)",
+            mask_arms_item = " (string)",
+            mask_torso = " (string)",
+            mask_torso_item = " (string)",
+            material_override_items = {
+                [1] = "content/items/material_overrides/gear_materials/outfit_dirt_02 (string)",
+                [2] = "content/items/material_overrides/gear_materials/dirt_color_06 (string)",
+            },
+            name = "content/items/characters/player/ogryn/gear_upperbody/ogryn_enforcer_upperbody_a_var_05 (string)",
+            profile_properties = {
+                sfx_body_material = "cloth_metal (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/ogryn/third_person/base_gear_rig"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            slots = {
+                [1] = "slot_gear_upperbody (string)",
+            },
+            source = "premium_store (string)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+                [2] = "TA_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/characters/player/ogryn/gear_upperbody/ogryn_enforcer_upperbody_a_var_06"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "ogryn (string)",
+            },
+            attach_node = "1 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/ogryn/gear_torso/ogryn_enforcer_upperbody_a_torso (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_colors/color_1_colour_forest_01 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/coated_wear_04 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/fabric_cotton_01_leather_03_wear_01 (string)",
+                        [4] = "content/items/material_overrides/gear_materials/oxidized_metal_iron_wear_02 (string)",
+                        [5] = "content/items/material_overrides/player_gear_decals/decal_atlasses/coated_decal_atlas_broker_gang_01 (string)",
+                        [6] = "content/items/material_overrides/player_gear_decals/decal_slot_index/coated_decal_slot_01_index_08 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/ogryn/gear_arms/ogryn_enforcer_upperbody_a_arms (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_colors/color_1_colour_forest_01 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/coated_wear_04 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_01 (string)",
+                        [4] = "content/items/material_overrides/gear_materials/oxidized_metal_iron_wear_02 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/ogryn/gear_hands/ogryn_enforcer_upperbody_a_gloves (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/oxidized_metal_iron_wear_02 (string)",
+                        [2] = " (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_5 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_6 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_7 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_8 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            backpack_offset = "0.20000000298023224 (number)",
+            base_unit = "content/characters/player/ogryn/third_person/base_gear_rig (string)",
+            breeds = {
+                [1] = "ogryn (string)",
+            },
+            crimes = {
+            },
+            description = "loc_ogryn_enforcer_upperbody_a_var_06_desc (string)",
+            dev_description = "Enforcer Ogryn upperbody cosmetic. Green fabric. Yellow and black hazard stripes on painted metal. (string)",
+            dev_name = "ogryn_enforcer_upperbody_a_var_06 (string)",
+            display_name = "loc_ogryn_enforcer_upperbody_a_var_06 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_slots = {
+                [1] = "slot_body_arms (string)",
+                [2] = "slot_body_torso (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_UPPERBODY (string)",
+            mask_arms = " (string)",
+            mask_arms_item = " (string)",
+            mask_torso = " (string)",
+            mask_torso_item = " (string)",
+            material_override_items = {
+                [1] = "content/items/material_overrides/gear_materials/outfit_dirt_02 (string)",
+                [2] = "content/items/material_overrides/gear_materials/dirt_color_06 (string)",
+            },
+            name = "content/items/characters/player/ogryn/gear_upperbody/ogryn_enforcer_upperbody_a_var_06 (string)",
+            profile_properties = {
+                sfx_body_material = "cloth_metal (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/ogryn/third_person/base_gear_rig"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            slots = {
+                [1] = "slot_gear_upperbody (string)",
+            },
+            source = "premium_store (string)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+                [2] = "TA_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/characters/player/ogryn/gear_upperbody/ogryn_enforcer_upperbody_a_var_07"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "ogryn (string)",
+            },
+            attach_node = "1 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/ogryn/gear_torso/ogryn_enforcer_upperbody_a_torso (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_colors/color_3_colour_gray_03 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/coated_wear_04 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/fabric_cotton_01_leather_03_wear_01 (string)",
+                        [4] = "content/items/material_overrides/gear_materials/oxidized_metal_iron_wear_02 (string)",
+                        [5] = "content/items/material_overrides/player_gear_decals/decal_atlasses/coated_decal_atlas_broker_gang_04 (string)",
+                        [6] = "content/items/material_overrides/player_gear_decals/decal_slot_index/coated_decal_slot_01_index_15 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/ogryn/gear_arms/ogryn_enforcer_upperbody_a_arms (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_colors/color_3_colour_gray_03 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/coated_wear_04 (string)",
+                        [3] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_01 (string)",
+                        [4] = "content/items/material_overrides/gear_materials/oxidized_metal_iron_wear_02 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/ogryn/gear_hands/ogryn_enforcer_upperbody_a_gloves (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/oxidized_metal_iron_wear_02 (string)",
+                        [2] = " (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_5 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_6 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_7 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_8 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            backpack_offset = "0.20000000298023224 (number)",
+            base_unit = "content/characters/player/ogryn/third_person/base_gear_rig (string)",
+            breeds = {
+                [1] = "ogryn (string)",
+            },
+            crimes = {
+            },
+            description = "loc_ogryn_enforcer_upperbody_a_var_07_desc (string)",
+            dev_description = "Enforcer Ogryn upperbody cosmetic. Gray and black checkered pattern (string)",
+            dev_name = "ogryn_enforcer_upperbody_a_var_07 (string)",
+            display_name = "loc_ogryn_enforcer_upperbody_a_var_07 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_slots = {
+                [1] = "slot_body_arms (string)",
+                [2] = "slot_body_torso (string)",
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_UPPERBODY (string)",
+            mask_arms = " (string)",
+            mask_arms_item = " (string)",
+            mask_torso = " (string)",
+            mask_torso_item = " (string)",
+            material_override_items = {
+                [1] = "content/items/material_overrides/gear_materials/outfit_dirt_02 (string)",
+                [2] = "content/items/material_overrides/gear_materials/dirt_color_06 (string)",
+            },
+            name = "content/items/characters/player/ogryn/gear_upperbody/ogryn_enforcer_upperbody_a_var_07 (string)",
             profile_properties = {
                 sfx_body_material = "cloth_metal (string)",
             },
@@ -547178,6 +554095,159 @@ return {
             material_override_items = {
             },
             name = "content/items/characters/player/ogryn/gear_upperbody/ogryn_upperbody_c_set_05 (string)",
+            profile_properties = {
+                sfx_body_material = "metal (string)",
+            },
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/characters/player/ogryn/third_person/base_gear_rig"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            slots = {
+                [1] = "slot_gear_upperbody (string)",
+            },
+            source = "premium_store (string)",
+            tags = {
+            },
+            workflow_checklist = {
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/characters/player/ogryn/gear_upperbody/ogryn_upperbody_c_set_06"] = {
+            always_owned = "false (boolean)",
+            archetypes = {
+                [1] = "ogryn (string)",
+            },
+            attach_node = "1 (string)",
+            attachments = {
+                attachment_1 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/ogryn/gear_torso/ogryn_upperbody_c (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/coated_wear_03 (string)",
+                        [2] = "content/items/material_overrides/gear_materials/fabric_cotton_01_wear_02 (string)",
+                        [3] = "content/items/material_overrides/player_gear_decals/coated_decal_atlas_ogryn_02_slot_03_decal_07 (string)",
+                        [4] = "content/items/material_overrides/gear_colors/color_3_colour_city_03 (string)",
+                        [5] = "content/items/material_overrides/gear_patterns/pattern_camo_14 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_2 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_3 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/ogryn/gear_hands/ogryn_gloves_c (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                        [1] = "content/items/material_overrides/gear_materials/coated_wear_03 (string)",
+                        [2] = "content/items/material_overrides/gear_colors/color_3_colour_city_03 (string)",
+                        [3] = "content/items/material_overrides/gear_patterns/pattern_camo_14 (string)",
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_4 = {
+                    children = {
+                    },
+                    item = "content/items/characters/player/ogryn/gear_hands/ogryn_gloves_b (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_5 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_6 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_7 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                attachment_8 = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            backpack_offset = "0.05000000074505806 (number)",
+            base_unit = "content/characters/player/ogryn/third_person/base_gear_rig (string)",
+            breeds = {
+                [1] = "ogryn (string)",
+            },
+            crimes = {
+            },
+            description = "loc_ogryn_upperbody_c_set_06_desc (string)",
+            dev_description = "Cadia themed Ogryn bullwark armor with camo. Blue, black and white camo (string)",
+            dev_name = "ogryn_upperbody_c_set_06 (string)",
+            display_name = "loc_ogryn_upperbody_c_set_06 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            genders = {
+            },
+            hide_slots = {
+            },
+            home_planets = {
+            },
+            is_fallback_item = "false (boolean)",
+            is_starting_gear = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "GEAR_UPPERBODY (string)",
+            mask_arms = " (string)",
+            mask_arms_item = " (string)",
+            mask_torso = "mask_torso_keep_collar (string)",
+            mask_torso_item = "content/items/material_overrides/player_base_body_mask/mask_torso_keep_collar (string)",
+            material_override_items = {
+            },
+            name = "content/items/characters/player/ogryn/gear_upperbody/ogryn_upperbody_c_set_06 (string)",
             profile_properties = {
                 sfx_body_material = "metal (string)",
             },
@@ -557351,6 +564421,7 @@ return {
             display_name = "loc_ogryn_upperbody_f_var_01 (string)",
             feature_flags = {
                 [1] = "ROTATION_victoria (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -559043,6 +566114,7 @@ return {
             display_name = "loc_ogryn_upperbody_j_set_01 (string)",
             feature_flags = {
                 [1] = "ROTATION_mick (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             genders = {
             },
@@ -570037,7 +577109,6 @@ return {
                 ["content/characters/player/human/third_person/animations/unarmed"] = "true (boolean)",
                 ["content/characters/player/ogryn/first_person/animations/unarmed"] = "true (boolean)",
                 ["content/characters/player/ogryn/third_person/animations/unarmed"] = "true (boolean)",
-                ["content/fx/particles/abilities/psyker_shield_block"] = "true (boolean)",
                 ["content/fx/particles/impacts/armor_penetrate"] = "true (boolean)",
                 ["content/fx/particles/impacts/armor_ricochet"] = "true (boolean)",
                 ["content/fx/particles/impacts/damage_blocked"] = "true (boolean)",
@@ -577189,6 +584260,9 @@ return {
                 [8] = "ROTATION_nick (string)",
                 [9] = "ROTATION_ursula_ulf (string)",
                 [10] = "ROTATION_sebastian_duncan (string)",
+                [11] = "ROTATION_bobby_jeff (string)",
+                [12] = "ROTATION_bobbylorene (string)",
+                [13] = "ROTATION_victoria_mick (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -577232,6 +584306,7 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_martinez (string)",
                 [3] = "ROTATION_luke_kasrkin (string)",
+                [4] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -577344,6 +584419,49 @@ return {
                 },
                 [3] = {
                     texture = "content/textures/colors/1_colour_black_03 (string)",
+                    texture_slot = "mat2_gradient (string)",
+                },
+            },
+            textures_material_overrides_by_items = {
+            },
+            vector2_material_overrides = {
+            },
+            vector3_material_overrides = {
+            },
+            vector4_material_overrides = {
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/material_overrides/gear_colors/color_1_colour_black_05"] = {
+            display_name = "n/a (string)",
+            feature_flags = {
+                [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_jack (string)",
+                [3] = "ROTATION_nick (string)",
+            },
+            item_type = "COLOR_MATERIAL_OVERRIDE (string)",
+            material_overrides = {
+            },
+            name = "content/items/material_overrides/gear_colors/color_1_colour_black_05 (string)",
+            preview_item = "content/items/characters/player/human/gear_upperbody/veteran_upperbody_career_01_lvl_01_set_01 (string)",
+            resource_dependencies = {
+                ["content/textures/colors/1_colour_black_04"] = "true (boolean)",
+            },
+            scalar_material_overrides = {
+            },
+            tags = {
+            },
+            texture_material_overrides = {
+                [1] = {
+                    texture = "content/textures/colors/1_colour_black_04 (string)",
+                    texture_slot = "color_gradient (string)",
+                },
+                [2] = {
+                    texture = "content/textures/colors/1_colour_black_04 (string)",
+                    texture_slot = "mat1_gradient (string)",
+                },
+                [3] = {
+                    texture = "content/textures/colors/1_colour_black_04 (string)",
                     texture_slot = "mat2_gradient (string)",
                 },
             },
@@ -577731,6 +584849,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -577937,6 +585056,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -578020,6 +585140,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -578145,6 +585266,7 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_luke_kasrkin (string)",
                 [3] = "ROTATION_sebastian_duncan (string)",
+                [4] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -578169,6 +585291,92 @@ return {
                 },
                 [3] = {
                     texture = "content/textures/colors/1_colour_gray_01 (string)",
+                    texture_slot = "mat2_gradient (string)",
+                },
+            },
+            textures_material_overrides_by_items = {
+            },
+            vector2_material_overrides = {
+            },
+            vector3_material_overrides = {
+            },
+            vector4_material_overrides = {
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/material_overrides/gear_colors/color_1_colour_gray_02"] = {
+            display_name = "n/a (string)",
+            feature_flags = {
+                [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_luke_kasrkin (string)",
+                [3] = "ROTATION_sebastian_duncan (string)",
+            },
+            item_type = "COLOR_MATERIAL_OVERRIDE (string)",
+            material_overrides = {
+            },
+            name = "content/items/material_overrides/gear_colors/color_1_colour_gray_02 (string)",
+            preview_item = "content/items/characters/player/human/gear_upperbody/veteran_upperbody_career_01_lvl_01_set_01 (string)",
+            resource_dependencies = {
+                ["content/textures/colors/1_colour_gray_02"] = "true (boolean)",
+            },
+            scalar_material_overrides = {
+            },
+            tags = {
+            },
+            texture_material_overrides = {
+                [1] = {
+                    texture = "content/textures/colors/1_colour_gray_02 (string)",
+                    texture_slot = "color_gradient (string)",
+                },
+                [2] = {
+                    texture = "content/textures/colors/1_colour_gray_02 (string)",
+                    texture_slot = "mat1_gradient (string)",
+                },
+                [3] = {
+                    texture = "content/textures/colors/1_colour_gray_02 (string)",
+                    texture_slot = "mat2_gradient (string)",
+                },
+            },
+            textures_material_overrides_by_items = {
+            },
+            vector2_material_overrides = {
+            },
+            vector3_material_overrides = {
+            },
+            vector4_material_overrides = {
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/material_overrides/gear_colors/color_1_colour_gray_03"] = {
+            display_name = "n/a (string)",
+            feature_flags = {
+                [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_luke_kasrkin (string)",
+                [3] = "ROTATION_sebastian_duncan (string)",
+            },
+            item_type = "COLOR_MATERIAL_OVERRIDE (string)",
+            material_overrides = {
+            },
+            name = "content/items/material_overrides/gear_colors/color_1_colour_gray_03 (string)",
+            preview_item = "content/items/characters/player/human/gear_upperbody/veteran_upperbody_career_01_lvl_01_set_01 (string)",
+            resource_dependencies = {
+                ["content/textures/colors/1_colour_gray_03"] = "true (boolean)",
+            },
+            scalar_material_overrides = {
+            },
+            tags = {
+            },
+            texture_material_overrides = {
+                [1] = {
+                    texture = "content/textures/colors/1_colour_gray_03 (string)",
+                    texture_slot = "color_gradient (string)",
+                },
+                [2] = {
+                    texture = "content/textures/colors/1_colour_gray_03 (string)",
+                    texture_slot = "mat1_gradient (string)",
+                },
+                [3] = {
+                    texture = "content/textures/colors/1_colour_gray_03 (string)",
                     texture_slot = "mat2_gradient (string)",
                 },
             },
@@ -578729,6 +585937,7 @@ return {
                 [6] = "ROTATION_francisco_malcador (string)",
                 [7] = "ROTATION_ursula_ulf (string)",
                 [8] = "ROTATION_sebastian_duncan (string)",
+                [9] = "ROTATION_victoria_mick (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -579069,6 +586278,7 @@ return {
                 [3] = "ROTATION_ursula_ulf (string)",
                 [4] = "ROTATION_rodger_catherine_3 (string)",
                 [5] = "ROTATION_nick (string)",
+                [6] = "ROTATION_victoria_mick (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -579403,6 +586613,7 @@ return {
                 [3] = "ROTATION_francisco_malcador (string)",
                 [4] = "ROTATION_rodger_catherine_3 (string)",
                 [5] = "ROTATION_ursula_ulf (string)",
+                [6] = "ROTATION_victoria_mick (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -580794,6 +588005,7 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_rodger_catherine_3 (string)",
                 [3] = "ROTATION_nick (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -580836,6 +588048,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_rodger_catherine_3 (string)",
+                [3] = "ROTATION_victoria_mick (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -580877,6 +588090,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -581125,6 +588339,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -581210,6 +588425,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_sebastian_duncan (string)",
+                [3] = "ROTATION_victoria_mick (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -581337,6 +588553,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -581764,6 +588981,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -582599,6 +589817,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_luke_kasrkin (string)",
+                [3] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -583020,6 +590239,7 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_rodger_catherine_3 (string)",
                 [3] = "ROTATION_ursula_ulf (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -583276,6 +590496,7 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_francisco_malcador (string)",
                 [3] = "ROTATION_ursula_ulf (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -583402,6 +590623,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_ferrus (string)",
+                [3] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -583445,6 +590667,7 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_luke_kasrkin (string)",
                 [3] = "ROTATION_sebastian_duncan (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -583528,6 +590751,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -584200,6 +591424,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "ROTATION_martinez (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -584663,6 +591888,7 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_francisco_malcador (string)",
                 [3] = "ROTATION_rodger_catherine_3 (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -584708,6 +591934,7 @@ return {
                 [3] = "ROTATION_rodger_catherine_3 (string)",
                 [4] = "ROTATION_ursula_ulf (string)",
                 [5] = "ROTATION_sebastian_duncan (string)",
+                [6] = "ROTATION_victoria_mick (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -584874,6 +592101,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_martinez (string)",
+                [3] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -584958,6 +592186,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_martinez (string)",
+                [3] = "ROTATION_victoria_mick (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -585634,6 +592863,7 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_martinez (string)",
                 [3] = "ROTATION_francisco_malcador (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -586429,6 +593659,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_francisco_malcador (string)",
+                [3] = "ROTATION_victoria_mick (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -586470,6 +593701,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -586514,6 +593746,7 @@ return {
                 [2] = "FEATURE_unreleased_premium_cosmetics (string)",
                 [3] = "ROTATION_luke_kasrkin (string)",
                 [4] = "ROTATION_francisco_malcador (string)",
+                [5] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -586557,6 +593790,7 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_francisco_malcador (string)",
                 [3] = "ROTATION_nick (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -586599,6 +593833,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_rodger_catherine_3 (string)",
+                [3] = "ROTATION_victoria_mick (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -586642,6 +593877,7 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_nick (string)",
                 [3] = "ROTATION_sebastian_duncan (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -587026,6 +594262,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_ursula_ulf (string)",
+                [3] = "ROTATION_victoria_mick (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -587868,6 +595105,7 @@ return {
                 [2] = "ROTATION_martinez (string)",
                 [3] = "ROTATION_francisco_malcador (string)",
                 [4] = "ROTATION_sebastian_duncan (string)",
+                [5] = "ROTATION_victoria_mick (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -588328,6 +595566,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -588495,6 +595734,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -588670,6 +595910,7 @@ return {
                 [3] = "ROTATION_ursula_ulf (string)",
                 [4] = "ROTATION_rodger_catherine_3 (string)",
                 [5] = "ROTATION_nick (string)",
+                [6] = "ROTATION_victoria_mick (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -588923,6 +596164,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_rodger_catherine_3 (string)",
+                [3] = "ROTATION_victoria_mick (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -589049,6 +596291,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -589175,6 +596418,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -589300,6 +596544,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -589341,6 +596586,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             item_type = "COLOR_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -591279,6 +598525,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_francisco_malcador (string)",
+                [3] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -591413,6 +598660,7 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_rodger_catherine_3 (string)",
                 [3] = "ROTATION_francisco_malcador (string)",
+                [4] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -591446,6 +598694,8 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_francisco_malcador (string)",
+                [3] = "ROTATION_bobbylorene (string)",
+                [4] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -591514,6 +598764,7 @@ return {
                 [3] = "ROTATION_francisco_malcador (string)",
                 [4] = "ROTATION_nick (string)",
                 [5] = "ROTATION_sebastian_duncan (string)",
+                [6] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -591555,6 +598806,8 @@ return {
                 [5] = "ROTATION_francisco_malcador (string)",
                 [6] = "ROTATION_rodger_catherine_3 (string)",
                 [7] = "ROTATION_nick (string)",
+                [8] = "ROTATION_bobby_jeff (string)",
+                [9] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -591637,6 +598890,8 @@ return {
                 [11] = "ROTATION_twitch_1_13_0 (string)",
                 [12] = "ROTATION_nick (string)",
                 [13] = "ROTATION_nick (string)",
+                [14] = "ROTATION_bobby_jeff (string)",
+                [15] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -591681,6 +598936,9 @@ return {
                 [8] = "ROTATION_ursula_ulf (string)",
                 [9] = "ROTATION_sebastian_duncan (string)",
                 [10] = "ROTATION_nick (string)",
+                [11] = "ROTATION_bobby_jeff (string)",
+                [12] = "ROTATION_bobbylorene (string)",
+                [13] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -591792,6 +599050,7 @@ return {
                 [3] = "ROTATION_ursula_ulf (string)",
                 [4] = "ROTATION_rodger_catherine_3 (string)",
                 [5] = "ROTATION_nick (string)",
+                [6] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -591896,6 +599155,7 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_francisco_malcador (string)",
                 [3] = "ROTATION_ursula_ulf (string)",
+                [4] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -592338,6 +599598,7 @@ return {
                 [2] = "ROTATION_luke_kasrkin (string)",
                 [3] = "ROTATION_ursula_ulf (string)",
                 [4] = "ROTATION_sebastian_duncan (string)",
+                [5] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -592376,6 +599637,7 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_francisco_malcador (string)",
                 [3] = "ROTATION_ursula_ulf (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -592418,6 +599680,7 @@ return {
                 [5] = "ROTATION_rodger_catherine_3 (string)",
                 [6] = "ROTATION_ursula_ulf (string)",
                 [7] = "ROTATION_sebastian_duncan (string)",
+                [8] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -592457,6 +599720,8 @@ return {
                 [2] = "ROTATION_martinez (string)",
                 [3] = "ROTATION_francisco_malcador (string)",
                 [4] = "ROTATION_sebastian_duncan (string)",
+                [5] = "ROTATION_bobby_jeff (string)",
+                [6] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -592499,6 +599764,9 @@ return {
                 [5] = "ROTATION_rodger_catherine_3 (string)",
                 [6] = "ROTATION_ursula_ulf (string)",
                 [7] = "ROTATION_sebastian_duncan (string)",
+                [8] = "ROTATION_bobby_jeff (string)",
+                [9] = "ROTATION_bobbylorene (string)",
+                [10] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -592914,6 +600182,7 @@ return {
                 [4] = "ROTATION_rodger_catherine_3 (string)",
                 [5] = "ROTATION_ursula_ulf (string)",
                 [6] = "ROTATION_sebastian_duncan (string)",
+                [7] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -593344,6 +600613,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -593531,6 +600801,8 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_sebastian_duncan (string)",
+                [3] = "ROTATION_bobbylorene (string)",
+                [4] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -593595,6 +600867,7 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_martinez (string)",
                 [3] = "ROTATION_sebastian_duncan (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -593723,6 +600996,7 @@ return {
                 [2] = "ROTATION_twitch_1_12_0 (string)",
                 [3] = "ROTATION_francisco_malcador (string)",
                 [4] = "ROTATION_sebastian_duncan (string)",
+                [5] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -593786,6 +601060,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_rodger_catherine_3 (string)",
+                [3] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -593914,6 +601189,7 @@ return {
                 [2] = "ROTATION_luke_kasrkin (string)",
                 [3] = "ROTATION_rodger_catherine_3 (string)",
                 [4] = "ROTATION_francisco_malcador (string)",
+                [5] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -593979,6 +601255,8 @@ return {
                 [5] = "ROTATION_rodger_catherine_3 (string)",
                 [6] = "ROTATION_nick (string)",
                 [7] = "ROTATION_sebastian_duncan (string)",
+                [8] = "ROTATION_bobby_jeff (string)",
+                [9] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -594041,6 +601319,7 @@ return {
                 [2] = "FEATURE_expeditions (string)",
                 [3] = "ROTATION_ursula_ulf (string)",
                 [4] = "ROTATION_sebastian_duncan (string)",
+                [5] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -595151,6 +602430,7 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_rodger_catherine_3 (string)",
                 [3] = "ROTATION_francisco_malcador (string)",
+                [4] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -595276,6 +602556,7 @@ return {
                 [2] = "ROTATION_francisco_malcador (string)",
                 [3] = "ROTATION_nick (string)",
                 [4] = "ROTATION_sebastian_duncan (string)",
+                [5] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -595402,6 +602683,7 @@ return {
                 [2] = "ROTATION_ferrus (string)",
                 [3] = "ROTATION_francisco_malcador (string)",
                 [4] = "ROTATION_nick (string)",
+                [5] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -595526,6 +602808,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -596146,6 +603429,7 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_rodger_catherine_3 (string)",
                 [3] = "ROTATION_francisco_malcador (string)",
+                [4] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -596212,6 +603496,8 @@ return {
                 [6] = "ROTATION_ursula_ulf (string)",
                 [7] = "ROTATION_nick (string)",
                 [8] = "ROTATION_sebastian_duncan (string)",
+                [9] = "ROTATION_bobby_jeff (string)",
+                [10] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -596276,6 +603562,8 @@ return {
                 [4] = "ROTATION_luke_kasrkin (string)",
                 [5] = "ROTATION_rodger_catherine_3 (string)",
                 [6] = "ROTATION_sebastian_duncan (string)",
+                [7] = "ROTATION_bobby_jeff (string)",
+                [8] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -596336,6 +603624,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_rodger_catherine_3 (string)",
+                [3] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -596402,6 +603691,8 @@ return {
                 [3] = "ROTATION_luke_kasrkin (string)",
                 [4] = "ROTATION_ferrus (string)",
                 [5] = "ROTATION_ursula_ulf (string)",
+                [6] = "ROTATION_bobby_jeff (string)",
+                [7] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -596464,6 +603755,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -596717,6 +604009,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -596898,6 +604191,7 @@ return {
                 [2] = "ROTATION_twitch_1_12_0 (string)",
                 [3] = "ROTATION_luke_kasrkin (string)",
                 [4] = "ROTATION_francisco_malcador (string)",
+                [5] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -596964,6 +604258,8 @@ return {
                 [6] = "ROTATION_ursula_ulf (string)",
                 [7] = "ROTATION_nick (string)",
                 [8] = "ROTATION_sebastian_duncan (string)",
+                [9] = "ROTATION_bobby_jeff (string)",
+                [10] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -597030,6 +604326,8 @@ return {
                 [6] = "ROTATION_ursula_ulf (string)",
                 [7] = "ROTATION_nick (string)",
                 [8] = "ROTATION_sebastian_duncan (string)",
+                [9] = "ROTATION_bobby_jeff (string)",
+                [10] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -597093,6 +604391,7 @@ return {
                 [3] = "ROTATION_ferrus (string)",
                 [4] = "ROTATION_rodger_catherine_3 (string)",
                 [5] = "ROTATION_francisco_malcador (string)",
+                [6] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -597157,6 +604456,7 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_rodger_catherine_3 (string)",
                 [3] = "ROTATION_ursula_ulf (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -597345,6 +604645,7 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_francisco_malcador (string)",
                 [3] = "ROTATION_rodger_catherine_3 (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -597407,6 +604708,7 @@ return {
                 [2] = "ROTATION_martinez (string)",
                 [3] = "ROTATION_rodger_catherine_3 (string)",
                 [4] = "ROTATION_francisco_malcador (string)",
+                [5] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -598202,6 +605504,7 @@ return {
                 [2] = "ROTATION_francisco_malcador (string)",
                 [3] = "ROTATION_rodger_catherine_3 (string)",
                 [4] = "ROTATION_sebastian_duncan (string)",
+                [5] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -599175,6 +606478,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -599797,6 +607101,7 @@ return {
                 [3] = "ROTATION_francisco_malcador (string)",
                 [4] = "ROTATION_rodger_catherine_3 (string)",
                 [5] = "ROTATION_ursula_ulf (string)",
+                [6] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -600869,6 +608174,8 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_rodger_catherine_3 (string)",
+                [3] = "ROTATION_bobby_jeff (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -600936,6 +608243,8 @@ return {
                 [7] = "ROTATION_ursula_ulf (string)",
                 [8] = "ROTATION_nick (string)",
                 [9] = "ROTATION_sebastian_duncan (string)",
+                [10] = "ROTATION_victoria_mick (string)",
+                [11] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -600999,6 +608308,7 @@ return {
                 [3] = "ROTATION_luke_kasrkin (string)",
                 [4] = "ROTATION_ferrus (string)",
                 [5] = "ROTATION_nick (string)",
+                [6] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -601430,6 +608740,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -601493,6 +608804,7 @@ return {
                 [3] = "ROTATION_francisco_malcador (string)",
                 [4] = "ROTATION_ursula_ulf (string)",
                 [5] = "ROTATION_nick (string)",
+                [6] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -601614,6 +608926,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -602110,6 +609423,7 @@ return {
                 [4] = "ROTATION_luke_kasrkin (string)",
                 [5] = "ROTATION_ursula_ulf (string)",
                 [6] = "ROTATION_sebastian_duncan (string)",
+                [7] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -602417,6 +609731,8 @@ return {
                 [5] = "ROTATION_ursula_ulf (string)",
                 [6] = "ROTATION_nick (string)",
                 [7] = "ROTATION_sebastian_duncan (string)",
+                [8] = "ROTATION_bobby_jeff (string)",
+                [9] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -602452,6 +609768,9 @@ return {
                 [2] = "ROTATION_francisco_malcador (string)",
                 [3] = "ROTATION_ursula_ulf (string)",
                 [4] = "ROTATION_sebastian_duncan (string)",
+                [5] = "ROTATION_bobby_jeff (string)",
+                [6] = "ROTATION_bobbylorene (string)",
+                [7] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -602490,6 +609809,8 @@ return {
                 [5] = "ROTATION_rodger_catherine_3 (string)",
                 [6] = "ROTATION_ursula_ulf (string)",
                 [7] = "ROTATION_sebastian_duncan (string)",
+                [8] = "ROTATION_bobby_jeff (string)",
+                [9] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -603741,6 +611062,7 @@ return {
                 [3] = "ROTATION_luke_kasrkin (string)",
                 [4] = "ROTATION_ferrus (string)",
                 [5] = "ROTATION_francisco_malcador (string)",
+                [6] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -603897,6 +611219,7 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_martinez (string)",
                 [3] = "ROTATION_sebastian_duncan (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -604534,6 +611857,8 @@ return {
                 [3] = "ROTATION_francisco_malcador (string)",
                 [4] = "ROTATION_rodger_catherine_3 (string)",
                 [5] = "ROTATION_nick (string)",
+                [6] = "ROTATION_bobby_jeff (string)",
+                [7] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -604615,6 +611940,7 @@ return {
                 [5] = "ROTATION_rodger_catherine_3 (string)",
                 [6] = "ROTATION_ursula_ulf (string)",
                 [7] = "ROTATION_sebastian_duncan (string)",
+                [8] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -604692,6 +612018,8 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_nick (string)",
                 [3] = "ROTATION_sebastian_duncan (string)",
+                [4] = "ROTATION_bobbylorene (string)",
+                [5] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -605321,6 +612649,7 @@ return {
                 [2] = "ROTATION_luke_kasrkin (string)",
                 [3] = "ROTATION_francisco_malcador (string)",
                 [4] = "ROTATION_sebastian_duncan (string)",
+                [5] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -606036,6 +613365,8 @@ return {
                 [5] = "ROTATION_ursula_ulf (string)",
                 [6] = "ROTATION_nick (string)",
                 [7] = "ROTATION_sebastian_duncan (string)",
+                [8] = "ROTATION_bobby_jeff (string)",
+                [9] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -606111,6 +613442,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -606805,6 +614137,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_luke_kasrkin (string)",
+                [3] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -607126,6 +614459,7 @@ return {
                 [2] = "ROTATION_luke_kasrkin (string)",
                 [3] = "ROTATION_rodger_catherine_3 (string)",
                 [4] = "ROTATION_francisco_malcador (string)",
+                [5] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -607209,6 +614543,7 @@ return {
                 [3] = "ROTATION_francisco_malcador (string)",
                 [4] = "ROTATION_rodger_catherine_3 (string)",
                 [5] = "ROTATION_nick (string)",
+                [6] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -607451,6 +614786,7 @@ return {
                 [3] = "ROTATION_rodger_catherine_3 (string)",
                 [4] = "ROTATION_francisco_malcador (string)",
                 [5] = "ROTATION_ursula_ulf (string)",
+                [6] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -607692,6 +615028,7 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_luke_kasrkin (string)",
                 [3] = "ROTATION_sebastian_duncan (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -607927,6 +615264,7 @@ return {
                 [2] = "ROTATION_martinez (string)",
                 [3] = "ROTATION_twitch_1_12_0 (string)",
                 [4] = "ROTATION_francisco_malcador (string)",
+                [5] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -608091,6 +615429,7 @@ return {
                 [5] = "ROTATION_luke_kasrkin (string)",
                 [6] = "ROTATION_nick (string)",
                 [7] = "ROTATION_sebastian_duncan (string)",
+                [8] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -609182,6 +616521,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_ferrus (string)",
+                [3] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -609583,6 +616923,7 @@ return {
                 [3] = "ROTATION_rodger_catherine_3 (string)",
                 [4] = "ROTATION_ursula_ulf (string)",
                 [5] = "ROTATION_sebastian_duncan (string)",
+                [6] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -609666,6 +617007,8 @@ return {
                 [6] = "ROTATION_rodger_catherine_3 (string)",
                 [7] = "ROTATION_nick (string)",
                 [8] = "ROTATION_sebastian_duncan (string)",
+                [9] = "ROTATION_bobby_jeff (string)",
+                [10] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -610098,6 +617441,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "PATTERN_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -610278,6 +617622,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             item_type = "PATTERN_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -610320,6 +617665,7 @@ return {
                 [4] = "ROTATION_ursula_ulf (string)",
                 [5] = "ROTATION_rodger_catherine_3 (string)",
                 [6] = "ROTATION_nick (string)",
+                [7] = "ROTATION_victoria_mick (string)",
             },
             item_type = "PATTERN_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -610952,6 +618298,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "PATTERN_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -610985,6 +618332,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "PATTERN_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -611409,6 +618757,7 @@ return {
                 [2] = "ROTATION_martinez (string)",
                 [3] = "ROTATION_rodger_catherine_3 (string)",
                 [4] = "ROTATION_ursula_ulf (string)",
+                [5] = "ROTATION_victoria_mick (string)",
             },
             item_type = "PATTERN_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -611620,6 +618969,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             item_type = "PATTERN_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -611692,6 +619042,7 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_martinez (string)",
                 [3] = "ROTATION_francisco_malcador (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             item_type = "PATTERN_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -611729,6 +619080,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             item_type = "PATTERN_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -611799,6 +619151,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             item_type = "PATTERN_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -612047,6 +619400,7 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_rodger_catherine_3 (string)",
                 [3] = "ROTATION_ursula_ulf (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             item_type = "PATTERN_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -612824,6 +620178,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_martinez (string)",
+                [3] = "ROTATION_victoria_mick (string)",
             },
             item_type = "PATTERN_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -613785,6 +621140,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             item_type = "PATTERN_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -613926,6 +621282,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_martinez (string)",
+                [3] = "ROTATION_victoria_mick (string)",
             },
             item_type = "PATTERN_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -614111,6 +621468,7 @@ return {
                 [7] = "ROTATION_sebastian_duncan (string)",
                 [8] = "ROTATION_nick (string)",
                 [9] = "ROTATION_nick (string)",
+                [10] = "ROTATION_victoria_mick (string)",
             },
             item_type = "PATTERN_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -614218,6 +621576,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "PATTERN_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -614254,6 +621613,7 @@ return {
                 [2] = "ROTATION_twitch_1_12_0 (string)",
                 [3] = "ROTATION_rodger_catherine_3 (string)",
                 [4] = "ROTATION_ursula_ulf (string)",
+                [5] = "ROTATION_victoria_mick (string)",
             },
             item_type = "PATTERN_MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -623682,6 +631042,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_luke_kasrkin (string)",
+                [3] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -623801,6 +631162,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -624201,6 +631563,7 @@ return {
                 [4] = "ROTATION_luke_kasrkin (string)",
                 [5] = "ROTATION_rodger_catherine_3 (string)",
                 [6] = "ROTATION_ursula_ulf (string)",
+                [7] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -624907,6 +632270,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -625478,6 +632842,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -625550,6 +632915,7 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_rodger_catherine_3 (string)",
                 [3] = "ROTATION_sebastian_duncan (string)",
+                [4] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -625620,6 +632986,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -625814,6 +633181,8 @@ return {
                 [2] = "ROTATION_francisco_malcador (string)",
                 [3] = "ROTATION_luke_kasrkin (string)",
                 [4] = "ROTATION_sebastian_duncan (string)",
+                [5] = "ROTATION_bobby_jeff (string)",
+                [6] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -625891,6 +633260,7 @@ return {
                 [2] = "ROTATION_luke_kasrkin (string)",
                 [3] = "ROTATION_ferrus (string)",
                 [4] = "ROTATION_francisco_malcador (string)",
+                [5] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -625930,6 +633300,7 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_martinez (string)",
                 [3] = "ROTATION_sebastian_duncan (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -626160,6 +633531,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_sebastian_duncan (string)",
+                [3] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -626197,6 +633569,8 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_bobby_jeff (string)",
+                [3] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -626237,6 +633611,7 @@ return {
                 [2] = "ROTATION_ferrus (string)",
                 [3] = "ROTATION_francisco_malcador (string)",
                 [4] = "ROTATION_luke_kasrkin (string)",
+                [5] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -629383,6 +636758,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_luke_kasrkin (string)",
+                [3] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -629417,6 +636793,7 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_luke_kasrkin (string)",
                 [3] = "ROTATION_francisco_malcador (string)",
+                [4] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -629558,6 +636935,8 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_francisco_malcador (string)",
+                [3] = "ROTATION_victoria_mick (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -629657,6 +637036,7 @@ return {
                 [5] = "ROTATION_francisco_malcador (string)",
                 [6] = "ROTATION_nick (string)",
                 [7] = "ROTATION_sebastian_duncan (string)",
+                [8] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -629705,6 +637085,7 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_francisco_malcador (string)",
                 [3] = "ROTATION_ursula_ulf (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -630080,6 +637461,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -631984,6 +639366,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_luke_kasrkin (string)",
+                [3] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -632030,6 +639413,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -635857,6 +643241,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -639863,6 +647248,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -643611,6 +650997,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -648055,6 +655442,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -649055,6 +656443,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -656504,6 +663893,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -656802,6 +664192,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -658766,6 +666157,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -661437,6 +668829,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -664095,6 +671488,108 @@ return {
             },
             workflow_state = "RELEASABLE (string)",
         },
+        ["content/items/material_overrides/player_gear_decals/decal_atlasses/coated_decal_atlas_broker_02"] = {
+            display_name = "n/a (string)",
+            feature_flags = {
+                [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_bobby_jeff (string)",
+            },
+            item_type = "MATERIAL_OVERRIDE (string)",
+            material_overrides = {
+            },
+            name = "content/items/material_overrides/player_gear_decals/decal_atlasses/coated_decal_atlas_broker_02 (string)",
+            preview_item = "content/items/characters/player/human/gear_upperbody/veteran_upperbody_career_01_lvl_01_set_01 (string)",
+            resource_dependencies = {
+                ["content/textures/gear_decals/decal_atlas_broker_02"] = "true (boolean)",
+            },
+            scalar_material_overrides = {
+            },
+            tags = {
+            },
+            texture_material_overrides = {
+                [1] = {
+                    texture = "content/textures/gear_decals/decal_atlas_broker_02 (string)",
+                    texture_slot = "decal_atlas_coated (string)",
+                },
+            },
+            textures_material_overrides_by_items = {
+            },
+            vector2_material_overrides = {
+            },
+            vector3_material_overrides = {
+            },
+            vector4_material_overrides = {
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/material_overrides/player_gear_decals/decal_atlasses/coated_decal_atlas_broker_gang_01"] = {
+            display_name = "n/a (string)",
+            feature_flags = {
+                [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_bobby_jeff (string)",
+            },
+            item_type = "MATERIAL_OVERRIDE (string)",
+            material_overrides = {
+            },
+            name = "content/items/material_overrides/player_gear_decals/decal_atlasses/coated_decal_atlas_broker_gang_01 (string)",
+            preview_item = "content/items/characters/player/human/gear_upperbody/veteran_upperbody_career_01_lvl_01_set_01 (string)",
+            resource_dependencies = {
+                ["content/textures/gear_decals/decal_atlas_broker_gang_01"] = "true (boolean)",
+            },
+            scalar_material_overrides = {
+            },
+            tags = {
+            },
+            texture_material_overrides = {
+                [1] = {
+                    texture = "content/textures/gear_decals/decal_atlas_broker_gang_01 (string)",
+                    texture_slot = "decal_atlas_coated (string)",
+                },
+            },
+            textures_material_overrides_by_items = {
+            },
+            vector2_material_overrides = {
+            },
+            vector3_material_overrides = {
+            },
+            vector4_material_overrides = {
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/material_overrides/player_gear_decals/decal_atlasses/coated_decal_atlas_broker_gang_04"] = {
+            display_name = "n/a (string)",
+            feature_flags = {
+                [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_bobby_jeff (string)",
+            },
+            item_type = "MATERIAL_OVERRIDE (string)",
+            material_overrides = {
+            },
+            name = "content/items/material_overrides/player_gear_decals/decal_atlasses/coated_decal_atlas_broker_gang_04 (string)",
+            preview_item = "content/items/characters/player/human/gear_upperbody/veteran_upperbody_career_01_lvl_01_set_01 (string)",
+            resource_dependencies = {
+                ["content/textures/gear_decals/decal_atlas_broker_gang_04"] = "true (boolean)",
+            },
+            scalar_material_overrides = {
+            },
+            tags = {
+            },
+            texture_material_overrides = {
+                [1] = {
+                    texture = "content/textures/gear_decals/decal_atlas_broker_gang_04 (string)",
+                    texture_slot = "decal_atlas_coated (string)",
+                },
+            },
+            textures_material_overrides_by_items = {
+            },
+            vector2_material_overrides = {
+            },
+            vector3_material_overrides = {
+            },
+            vector4_material_overrides = {
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
         ["content/items/material_overrides/player_gear_decals/decal_atlasses/coated_decal_atlas_cadia_01"] = {
             display_name = "n/a (string)",
             feature_flags = {
@@ -665457,6 +672952,39 @@ return {
             },
             workflow_state = "RELEASABLE (string)",
         },
+        ["content/items/material_overrides/player_gear_decals/decal_slot_index/coated_decal_slot_01_index_08"] = {
+            display_name = "n/a (string)",
+            feature_flags = {
+                [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_bobby_jeff (string)",
+            },
+            item_type = "MATERIAL_OVERRIDE (string)",
+            material_overrides = {
+            },
+            name = "content/items/material_overrides/player_gear_decals/decal_slot_index/coated_decal_slot_01_index_08 (string)",
+            preview_item = "content/items/characters/player/human/gear_upperbody/veteran_upperbody_career_01_lvl_01_set_01 (string)",
+            resource_dependencies = {
+            },
+            scalar_material_overrides = {
+                [1] = {
+                    property_name = "decal_index_coated_01 (string)",
+                    value = "8 (number)",
+                },
+            },
+            tags = {
+            },
+            texture_material_overrides = {
+            },
+            textures_material_overrides_by_items = {
+            },
+            vector2_material_overrides = {
+            },
+            vector3_material_overrides = {
+            },
+            vector4_material_overrides = {
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
         ["content/items/material_overrides/player_gear_decals/decal_slot_index/coated_decal_slot_01_index_09"] = {
             display_name = "n/a (string)",
             feature_flags = {
@@ -665589,6 +673117,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -665860,6 +673389,39 @@ return {
                 [1] = {
                     property_name = "decal_index_coated_03 (string)",
                     value = "7 (number)",
+                },
+            },
+            tags = {
+            },
+            texture_material_overrides = {
+            },
+            textures_material_overrides_by_items = {
+            },
+            vector2_material_overrides = {
+            },
+            vector3_material_overrides = {
+            },
+            vector4_material_overrides = {
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/material_overrides/player_gear_decals/decal_slot_index/coated_decal_slot_03_index_08"] = {
+            display_name = "n/a (string)",
+            feature_flags = {
+                [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_bobby_jeff (string)",
+            },
+            item_type = "MATERIAL_OVERRIDE (string)",
+            material_overrides = {
+            },
+            name = "content/items/material_overrides/player_gear_decals/decal_slot_index/coated_decal_slot_03_index_08 (string)",
+            preview_item = "content/items/characters/player/human/gear_upperbody/veteran_upperbody_career_01_lvl_01_set_01 (string)",
+            resource_dependencies = {
+            },
+            scalar_material_overrides = {
+                [1] = {
+                    property_name = "decal_index_coated_03 (string)",
+                    value = "8 (number)",
                 },
             },
             tags = {
@@ -675528,6 +683090,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -677855,6 +685418,7 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_luke_kasrkin (string)",
                 [3] = "ROTATION_sebastian_duncan (string)",
+                [4] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -678499,6 +686063,7 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_martinez (string)",
                 [3] = "ROTATION_sebastian_duncan (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -678980,6 +686545,7 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_martinez (string)",
                 [3] = "ROTATION_rodger_catherine_3 (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -679093,6 +686659,7 @@ return {
                 [3] = "ROTATION_francisco_malcador (string)",
                 [4] = "ROTATION_rodger_catherine_3 (string)",
                 [5] = "ROTATION_ursula_ulf (string)",
+                [6] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -679148,6 +686715,7 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_martinez (string)",
                 [3] = "ROTATION_nick (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -679202,6 +686770,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_francisco_malcador (string)",
+                [3] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -679800,6 +687369,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_martinez (string)",
+                [3] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -680133,6 +687703,7 @@ return {
                 [3] = "ROTATION_francisco_malcador (string)",
                 [4] = "ROTATION_ursula_ulf (string)",
                 [5] = "ROTATION_sebastian_duncan (string)",
+                [6] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -681449,6 +689020,8 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_martinez (string)",
+                [3] = "ROTATION_victoria_mick (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -681777,6 +689350,8 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_martinez (string)",
+                [3] = "ROTATION_victoria_mick (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -682040,6 +689615,8 @@ return {
                 [2] = "ROTATION_martinez (string)",
                 [3] = "ROTATION_rodger_catherine_3 (string)",
                 [4] = "ROTATION_francisco_malcador (string)",
+                [5] = "ROTATION_victoria_mick (string)",
+                [6] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -683020,6 +690597,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_martinez (string)",
+                [3] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -683479,6 +691057,7 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_rodger_catherine_3 (string)",
                 [3] = "ROTATION_francisco_malcador (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -683547,6 +691126,7 @@ return {
                 [2] = "ROTATION_martinez (string)",
                 [3] = "ROTATION_rodger_catherine_3 (string)",
                 [4] = "ROTATION_francisco_malcador (string)",
+                [5] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -683679,6 +691259,7 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_rodger_catherine_3 (string)",
                 [3] = "ROTATION_francisco_malcador (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -683812,6 +691393,8 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_martinez (string)",
                 [3] = "ROTATION_francisco_malcador (string)",
+                [4] = "ROTATION_victoria_mick (string)",
+                [5] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -683947,6 +691530,7 @@ return {
                 [2] = "ROTATION_martinez (string)",
                 [3] = "ROTATION_ferrus (string)",
                 [4] = "ROTATION_rodger_catherine_3 (string)",
+                [5] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -684344,6 +691928,8 @@ return {
                 [5] = "ROTATION_rodger_catherine_3 (string)",
                 [6] = "ROTATION_ursula_ulf (string)",
                 [7] = "ROTATION_sebastian_duncan (string)",
+                [8] = "ROTATION_victoria_mick (string)",
+                [9] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -684805,6 +692391,8 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_martinez (string)",
+                [3] = "ROTATION_victoria_mick (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -685464,6 +693052,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_martinez (string)",
+                [3] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -685529,6 +693118,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -685994,6 +693584,8 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_martinez (string)",
+                [3] = "ROTATION_victoria_mick (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -686062,6 +693654,8 @@ return {
                 [2] = "ROTATION_martinez (string)",
                 [3] = "ROTATION_rodger_catherine_3 (string)",
                 [4] = "ROTATION_francisco_malcador (string)",
+                [5] = "ROTATION_victoria_mick (string)",
+                [6] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -686130,6 +693724,8 @@ return {
                 [2] = "ROTATION_martinez (string)",
                 [3] = "ROTATION_rodger_catherine_3 (string)",
                 [4] = "ROTATION_francisco_malcador (string)",
+                [5] = "ROTATION_victoria_mick (string)",
+                [6] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -686198,6 +693794,8 @@ return {
                 [2] = "ROTATION_martinez (string)",
                 [3] = "ROTATION_rodger_catherine_3 (string)",
                 [4] = "ROTATION_francisco_malcador (string)",
+                [5] = "ROTATION_victoria_mick (string)",
+                [6] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -686266,6 +693864,8 @@ return {
                 [2] = "ROTATION_martinez (string)",
                 [3] = "ROTATION_rodger_catherine_3 (string)",
                 [4] = "ROTATION_francisco_malcador (string)",
+                [5] = "ROTATION_victoria_mick (string)",
+                [6] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -686792,6 +694392,8 @@ return {
                 [2] = "ROTATION_martinez (string)",
                 [3] = "ROTATION_rodger_catherine_3 (string)",
                 [4] = "ROTATION_francisco_malcador (string)",
+                [5] = "ROTATION_victoria_mick (string)",
+                [6] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -686930,6 +694532,7 @@ return {
                 [3] = "ROTATION_ferrus (string)",
                 [4] = "ROTATION_rodger_catherine_3 (string)",
                 [5] = "ROTATION_francisco_malcador (string)",
+                [6] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -686996,6 +694599,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_martinez (string)",
+                [3] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -687261,6 +694865,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -687328,6 +694933,7 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_martinez (string)",
                 [3] = "ROTATION_sebastian_duncan (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -687787,6 +695393,8 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_martinez (string)",
+                [3] = "ROTATION_victoria_mick (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -687921,6 +695529,8 @@ return {
                 [3] = "ROTATION_ferrus (string)",
                 [4] = "ROTATION_luke_kasrkin (string)",
                 [5] = "ROTATION_sebastian_duncan (string)",
+                [6] = "ROTATION_victoria_mick (string)",
+                [7] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -687989,6 +695599,7 @@ return {
                 [2] = "ROTATION_luke_kasrkin (string)",
                 [3] = "ROTATION_ursula_ulf (string)",
                 [4] = "ROTATION_sebastian_duncan (string)",
+                [5] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -688368,6 +695979,8 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_luke_kasrkin (string)",
                 [3] = "ROTATION_rodger_catherine_3 (string)",
+                [4] = "ROTATION_bobby_jeff (string)",
+                [5] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -688727,6 +696340,7 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_luke_kasrkin (string)",
                 [3] = "ROTATION_rodger_catherine_3 (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -688862,6 +696476,7 @@ return {
                 [2] = "ROTATION_luke_kasrkin (string)",
                 [3] = "ROTATION_rodger_catherine_3 (string)",
                 [4] = "ROTATION_sebastian_duncan (string)",
+                [5] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -695557,6 +703172,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -695590,6 +703206,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_sebastian_duncan (string)",
+                [3] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -695622,6 +703239,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -695656,6 +703274,7 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_martinez (string)",
                 [3] = "ROTATION_francisco_malcador (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -695795,6 +703414,8 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_martinez (string)",
                 [3] = "ROTATION_francisco_malcador (string)",
+                [4] = "ROTATION_bobby_jeff (string)",
+                [5] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -695862,6 +703483,7 @@ return {
                 [2] = "ROTATION_rodger_catherine_3 (string)",
                 [3] = "ROTATION_francisco_malcador (string)",
                 [4] = "ROTATION_ursula_ulf (string)",
+                [5] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -695930,6 +703552,7 @@ return {
                 [2] = "ROTATION_twitch_1_12_0 (string)",
                 [3] = "ROTATION_martinez (string)",
                 [4] = "ROTATION_francisco_malcador (string)",
+                [5] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -697867,6 +705490,7 @@ return {
                 [2] = "FEATURE_unreleased_premium_cosmetics (string)",
                 [3] = "ROTATION_luke_kasrkin (string)",
                 [4] = "ROTATION_francisco_malcador (string)",
+                [5] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -698075,6 +705699,7 @@ return {
                 [4] = "ROTATION_luke_kasrkin (string)",
                 [5] = "ROTATION_francisco_malcador (string)",
                 [6] = "ROTATION_sebastian_duncan (string)",
+                [7] = "ROTATION_bobby_jeff (string)",
             },
             item_type = "MATERIAL_OVERRIDE (string)",
             material_overrides = {
@@ -721599,7 +729224,6 @@ return {
                 ["content/characters/player/human/third_person/animations/unarmed"] = "true (boolean)",
                 ["content/characters/player/ogryn/first_person/animations/unarmed"] = "true (boolean)",
                 ["content/characters/player/ogryn/third_person/animations/unarmed"] = "true (boolean)",
-                ["content/fx/particles/abilities/psyker_shield_block"] = "true (boolean)",
                 ["content/fx/particles/impacts/armor_penetrate"] = "true (boolean)",
                 ["content/fx/particles/impacts/armor_ricochet"] = "true (boolean)",
                 ["content/fx/particles/impacts/damage_blocked"] = "true (boolean)",
@@ -751547,8 +759171,7 @@ return {
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_muzzle"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_muzzle_crit"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_slug_trail"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_tracer_trail"] = "true (boolean)",
+                ["content/fx/particles/weapons/rifles/autogun/autogun_tracer_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/shells/shell_casing_autogun_01"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
                 ["content/fx/units/weapons/small_caliber_cloth_large_01"] = "true (boolean)",
@@ -751951,8 +759574,7 @@ return {
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_muzzle"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_muzzle_crit"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_slug_trail"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_tracer_trail"] = "true (boolean)",
+                ["content/fx/particles/weapons/rifles/autogun/autogun_tracer_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/shells/shell_casing_autogun_01"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
                 ["content/fx/units/weapons/small_caliber_cloth_large_01"] = "true (boolean)",
@@ -752356,8 +759978,7 @@ return {
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_muzzle"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_muzzle_crit"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_slug_trail"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_tracer_trail"] = "true (boolean)",
+                ["content/fx/particles/weapons/rifles/autogun/autogun_tracer_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/shells/shell_casing_autogun_01"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
                 ["content/fx/units/weapons/small_caliber_cloth_large_01"] = "true (boolean)",
@@ -752729,8 +760350,7 @@ return {
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_muzzle_02"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_muzzle_crit"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_slug_trail"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_tracer_trail"] = "true (boolean)",
+                ["content/fx/particles/weapons/rifles/autogun/autogun_tracer_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/shells/shell_casing_autogun_01"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
                 ["content/fx/units/weapons/small_caliber_cloth_large_01"] = "true (boolean)",
@@ -753129,8 +760749,7 @@ return {
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_muzzle_02"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_muzzle_crit"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_slug_trail"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_tracer_trail"] = "true (boolean)",
+                ["content/fx/particles/weapons/rifles/autogun/autogun_tracer_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/shells/shell_casing_autogun_01"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
                 ["content/fx/units/weapons/small_caliber_cloth_large_01"] = "true (boolean)",
@@ -754584,8 +762203,6 @@ return {
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_crit"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_standard_linger"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_crit_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_muzzle"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_muzzle_crit"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
@@ -754972,8 +762589,6 @@ return {
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_crit"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_standard_linger"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_crit_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_muzzle"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_muzzle_crit"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
@@ -755360,8 +762975,6 @@ return {
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_crit"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_standard_linger"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_crit_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_muzzle"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_muzzle_crit"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
@@ -755748,8 +763361,6 @@ return {
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_crit"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_standard_linger"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_crit_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_muzzle"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_muzzle_crit"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
@@ -756136,8 +763747,6 @@ return {
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_crit"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_standard_linger"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_crit_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_muzzle"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_muzzle_crit"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
@@ -756524,8 +764133,6 @@ return {
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_crit"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_standard_linger"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_crit_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_muzzle"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_muzzle_crit"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
@@ -756903,7 +764510,6 @@ return {
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_crit"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_standard_linger"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/laspistol/laspistol_muzzle"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/forcesword/psyker_push"] = "true (boolean)",
@@ -766730,6 +774336,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -766876,6 +774483,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -766926,6 +774534,43 @@ return {
             tags = {
             },
             workflow_checklist = {
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/weapons/player/melee/blades/combat_knife_blade_11"] = {
+            attach_node = "ap_blade_01 (string)",
+            attachments = {
+                zzz_shared_material_overrides = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/weapons/player/melee/combat_knife/attachments/blade_11/blade_11 (string)",
+            display_name = "n/a (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            is_fallback_item = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "WEAPON_ATTACHMENT (string)",
+            material_override_items = {
+            },
+            name = "content/items/weapons/player/melee/blades/combat_knife_blade_11 (string)",
+            resource_dependencies = {
+                ["content/weapons/player/melee/combat_knife/attachments/blade_11/blade_11"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
             },
             workflow_state = "RELEASABLE (string)",
         },
@@ -767056,6 +774701,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -767874,6 +775520,43 @@ return {
             },
             workflow_state = "RELEASABLE (string)",
         },
+        ["content/items/weapons/player/melee/blades/power_falchion_blade_04"] = {
+            attach_node = "ap_blade_01 (string)",
+            attachments = {
+                zzz_shared_material_overrides = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/weapons/player/melee/power_falchion/attachments/blade_04/blade_04 (string)",
+            display_name = "n/a (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            is_fallback_item = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "WEAPON_ATTACHMENT (string)",
+            material_override_items = {
+            },
+            name = "content/items/weapons/player/melee/blades/power_falchion_blade_04 (string)",
+            resource_dependencies = {
+                ["content/weapons/player/melee/power_falchion/attachments/blade_04/blade_04"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
         ["content/items/weapons/player/melee/blades/power_falchion_blade_ml01"] = {
             attach_node = "ap_blade_01 (string)",
             attachments = {
@@ -768435,6 +776118,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -780018,6 +787702,41 @@ return {
             },
             workflow_state = "RELEASABLE (string)",
         },
+        ["content/items/weapons/player/melee/connectors/thunder_hammer_connector_09"] = {
+            attach_node = "ap_connector_01 (string)",
+            attachments = {
+                zzz_shared_material_overrides = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/weapons/player/melee/thunder_hammer/attachments/connector_09/connector_09 (string)",
+            display_name = "n/a (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            is_fallback_item = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "WEAPON_ATTACHMENT (string)",
+            name = "content/items/weapons/player/melee/connectors/thunder_hammer_connector_09 (string)",
+            resource_dependencies = {
+                ["content/weapons/player/melee/thunder_hammer/attachments/connector_09/connector_09"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
         ["content/items/weapons/player/melee/connectors/thunder_hammer_connector_ml01"] = {
             attach_node = "ap_connector_01 (string)",
             attachments = {
@@ -783685,6 +791404,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -786808,6 +794528,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -786927,6 +794648,41 @@ return {
             },
             workflow_state = "RELEASABLE (string)",
         },
+        ["content/items/weapons/player/melee/grips/combat_knife_grip_09"] = {
+            attach_node = "rp_combat_knife_chained_rig (string)",
+            attachments = {
+                zzz_shared_material_overrides = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/weapons/player/melee/combat_knife/attachments/grip_09/grip_09 (string)",
+            display_name = "n/a (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            is_fallback_item = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "WEAPON_ATTACHMENT (string)",
+            name = "content/items/weapons/player/melee/grips/combat_knife_grip_09 (string)",
+            resource_dependencies = {
+                ["content/weapons/player/melee/combat_knife/attachments/grip_09/grip_09"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
         ["content/items/weapons/player/melee/grips/combat_knife_grip_ml01"] = {
             attach_node = "rp_combat_knife_chained_rig (string)",
             attachments = {
@@ -787014,6 +794770,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -787957,6 +795714,41 @@ return {
             },
             workflow_state = "RELEASABLE (string)",
         },
+        ["content/items/weapons/player/melee/grips/power_falchion_grip_04"] = {
+            attach_node = "rp_power_sword_chained_rig (string)",
+            attachments = {
+                zzz_shared_material_overrides = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/weapons/player/melee/power_falchion/attachments/grip_04/grip_04 (string)",
+            display_name = "n/a (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            is_fallback_item = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "WEAPON_ATTACHMENT (string)",
+            name = "content/items/weapons/player/melee/grips/power_falchion_grip_04 (string)",
+            resource_dependencies = {
+                ["content/weapons/player/melee/power_falchion/attachments/grip_04/grip_04"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
         ["content/items/weapons/player/melee/grips/power_falchion_grip_ml01"] = {
             attach_node = "rp_power_sword_chained_rig (string)",
             attachments = {
@@ -788557,6 +796349,7 @@ return {
             feature_flags = {
                 [1] = "ROTATION_gun (string)",
                 [2] = "ROTATION_victoria (string)",
+                [3] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -790299,6 +798092,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -791780,6 +799574,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_rodger_catherine_3 (string)",
+                [3] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -791997,6 +799792,41 @@ return {
             tags = {
             },
             workflow_checklist = {
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/weapons/player/melee/heads/power_maul_head_08"] = {
+            attach_node = "ap_head_01 (string)",
+            attachments = {
+                zzz_shared_material_overrides = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/weapons/player/melee/power_maul/attachments/head_08/head_08 (string)",
+            display_name = "n/a (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            is_fallback_item = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "WEAPON_ATTACHMENT (string)",
+            name = "content/items/weapons/player/melee/heads/power_maul_head_08 (string)",
+            resource_dependencies = {
+                ["content/weapons/player/melee/power_maul/attachments/head_08/head_08"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
             },
             workflow_state = "RELEASABLE (string)",
         },
@@ -792754,6 +800584,41 @@ return {
             tags = {
             },
             workflow_checklist = {
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/weapons/player/melee/heads/thunder_hammer_head_09"] = {
+            attach_node = "ap_head_01 (string)",
+            attachments = {
+                zzz_shared_material_overrides = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/weapons/player/melee/thunder_hammer/attachments/head_09/head_09 (string)",
+            display_name = "n/a (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            is_fallback_item = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "WEAPON_ATTACHMENT (string)",
+            name = "content/items/weapons/player/melee/heads/thunder_hammer_head_09 (string)",
+            resource_dependencies = {
+                ["content/weapons/player/melee/thunder_hammer/attachments/head_09/head_09"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
             },
             workflow_state = "RELEASABLE (string)",
         },
@@ -797812,6 +805677,7 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_rodger_catherine_3 (string)",
                 [3] = "ROTATION_twitch_1_13_0 (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             hud_icon = " (string)",
             inventory_animation_event = "inventory_idle_1h_melee (string)",
@@ -799123,6 +806989,52 @@ return {
             },
             workflow_state = "RELEASABLE (string)",
         },
+        ["content/items/weapons/player/melee/ogryn_slabshield_p1_08"] = {
+            attach_node = "j_leftweaponattach (string)",
+            base_unit = "content/weapons/player/shields/ogryn_slab_shield/wpn_ogryn_slab_shield_chained_rig_08 (string)",
+            breeds = {
+                [1] = "ogryn (string)",
+            },
+            display_name = "n/a (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            input_descriptions = {
+                [1] = {
+                    description = "loc_input_legend_zoom_out (string)",
+                    icon = " (string)",
+                    icon_height = "0 (number)",
+                    icon_width = "0 (number)",
+                    id = "inspect_3p_base (string)",
+                    input_action = "action_two_pressed (string)",
+                    weapon_template_validation_function = "action_inspect_3p_base_screen_ui_validation (string)",
+                },
+                [2] = {
+                    description = "loc_input_legend_zoom_in (string)",
+                    icon = " (string)",
+                    icon_height = "0 (number)",
+                    icon_width = "0 (number)",
+                    id = "inspect_3p (string)",
+                    input_action = "action_two_pressed (string)",
+                    weapon_template_validation_function = "action_inspect_3p_screen_ui_validation (string)",
+                },
+            },
+            is_fallback_item = "false (boolean)",
+            item_list_faction = "Player (string)",
+            material_override_items = {
+            },
+            name = "content/items/weapons/player/melee/ogryn_slabshield_p1_08 (string)",
+            resource_dependencies = {
+                ["content/weapons/player/shields/ogryn_slab_shield/wpn_ogryn_slab_shield_chained_rig_08"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
         ["content/items/weapons/player/melee/ogryn_slabshield_p1_m1"] = {
             attach_node = "j_leftweaponattach (string)",
             base_unit = "content/weapons/player/shields/ogryn_slab_shield/wpn_ogryn_slab_shield_chained_rig (string)",
@@ -799179,6 +807091,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_rodger_catherine_3 (string)",
+                [3] = "ROTATION_victoria_mick (string)",
             },
             input_descriptions = {
                 [1] = {
@@ -801052,6 +808965,41 @@ return {
             },
             workflow_state = "RELEASABLE (string)",
         },
+        ["content/items/weapons/player/melee/pommels/power_falchion_pommel_04"] = {
+            attach_node = "ap_pommel_01 (string)",
+            attachments = {
+                zzz_shared_material_overrides = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/weapons/player/melee/power_falchion/attachments/pommel_04/pommel_04 (string)",
+            display_name = "n/a (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            is_fallback_item = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "WEAPON_ATTACHMENT (string)",
+            name = "content/items/weapons/player/melee/pommels/power_falchion_pommel_04 (string)",
+            resource_dependencies = {
+                ["content/weapons/player/melee/power_falchion/attachments/pommel_04/pommel_04"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
         ["content/items/weapons/player/melee/pommels/power_maul_pommel_01"] = {
             attach_node = "ap_pommel_01 (string)",
             attachments = {
@@ -801072,6 +809020,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_rodger_catherine_3 (string)",
+                [3] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -801289,6 +809238,41 @@ return {
             tags = {
             },
             workflow_checklist = {
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/weapons/player/melee/pommels/power_maul_pommel_08"] = {
+            attach_node = "ap_pommel_01 (string)",
+            attachments = {
+                zzz_shared_material_overrides = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/weapons/player/melee/power_maul/attachments/pommel_08/pommel_08 (string)",
+            display_name = "n/a (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            is_fallback_item = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "WEAPON_ATTACHMENT (string)",
+            name = "content/items/weapons/player/melee/pommels/power_maul_pommel_08 (string)",
+            resource_dependencies = {
+                ["content/weapons/player/melee/power_maul/attachments/pommel_08/pommel_08"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
             },
             workflow_state = "RELEASABLE (string)",
         },
@@ -802347,6 +810331,41 @@ return {
             tags = {
             },
             workflow_checklist = {
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/weapons/player/melee/pommels/thunder_hammer_pommel_08"] = {
+            attach_node = "ap_pommel_01 (string)",
+            attachments = {
+                zzz_shared_material_overrides = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/weapons/player/melee/thunder_hammer/attachments/pommel_08/pommel_08 (string)",
+            display_name = "n/a (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            is_fallback_item = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "WEAPON_ATTACHMENT (string)",
+            name = "content/items/weapons/player/melee/pommels/thunder_hammer_pommel_08 (string)",
+            resource_dependencies = {
+                ["content/weapons/player/melee/thunder_hammer/attachments/pommel_08/pommel_08"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
             },
             workflow_state = "RELEASABLE (string)",
         },
@@ -811273,6 +819292,7 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_rodger_catherine_3 (string)",
                 [3] = "ROTATION_twitch_1_13_0 (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -813199,7 +821219,6 @@ return {
                 ["content/characters/player/human/third_person/animations/unarmed"] = "true (boolean)",
                 ["content/characters/player/ogryn/first_person/animations/unarmed"] = "true (boolean)",
                 ["content/characters/player/ogryn/third_person/animations/unarmed"] = "true (boolean)",
-                ["content/fx/particles/abilities/psyker_shield_block"] = "true (boolean)",
                 ["content/fx/particles/impacts/armor_penetrate"] = "true (boolean)",
                 ["content/fx/particles/impacts/armor_ricochet"] = "true (boolean)",
                 ["content/fx/particles/impacts/damage_blocked"] = "true (boolean)",
@@ -815838,8 +823857,6 @@ return {
                 ["content/fx/particles/weapons/grenades/broker_flash_grenade/broker_flash_grenade"] = "true (boolean)",
                 ["content/fx/particles/weapons/grenades/grenade_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/arc_rifle/arc_rifle_beam"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/arc_rifle/arc_rifle_beamlinger"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/arc_rifle/arc_rifle_lightning"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/arc_rifle/impact_arc_rifle_p1"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
@@ -816296,8 +824313,7 @@ return {
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_muzzle"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_muzzle_crit"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_slug_trail"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_tracer_trail"] = "true (boolean)",
+                ["content/fx/particles/weapons/rifles/autogun/autogun_tracer_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/shells/shell_casing_autogun_01"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
                 ["content/fx/units/weapons/small_caliber_cloth_large_01"] = "true (boolean)",
@@ -816712,8 +824728,7 @@ return {
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_muzzle"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_muzzle_crit"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_slug_trail"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_tracer_trail"] = "true (boolean)",
+                ["content/fx/particles/weapons/rifles/autogun/autogun_tracer_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/shells/shell_casing_autogun_01"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
                 ["content/fx/units/weapons/small_caliber_cloth_large_01"] = "true (boolean)",
@@ -817128,8 +825143,7 @@ return {
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_muzzle"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_muzzle_crit"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_slug_trail"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_tracer_trail"] = "true (boolean)",
+                ["content/fx/particles/weapons/rifles/autogun/autogun_tracer_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/shells/shell_casing_autogun_01"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
                 ["content/fx/units/weapons/small_caliber_cloth_large_01"] = "true (boolean)",
@@ -817512,8 +825526,7 @@ return {
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_muzzle_02"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_muzzle_crit"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_slug_trail"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_tracer_trail"] = "true (boolean)",
+                ["content/fx/particles/weapons/rifles/autogun/autogun_tracer_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/shells/shell_casing_autogun_01"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
                 ["content/fx/units/weapons/small_caliber_cloth_large_01"] = "true (boolean)",
@@ -817923,8 +825936,7 @@ return {
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_muzzle_02"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_muzzle_crit"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_slug_trail"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_tracer_trail"] = "true (boolean)",
+                ["content/fx/particles/weapons/rifles/autogun/autogun_tracer_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/shells/shell_casing_autogun_01"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
                 ["content/fx/units/weapons/small_caliber_cloth_large_01"] = "true (boolean)",
@@ -818334,8 +826346,7 @@ return {
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_muzzle_02"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_muzzle_crit"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_slug_trail"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_tracer_trail"] = "true (boolean)",
+                ["content/fx/particles/weapons/rifles/autogun/autogun_tracer_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/shells/shell_casing_autogun_01"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
                 ["content/fx/units/weapons/small_caliber_cloth_large_01"] = "true (boolean)",
@@ -818778,8 +826789,7 @@ return {
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_muzzle_03"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_muzzle_03_crit"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_slug_trail"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_tracer_trail"] = "true (boolean)",
+                ["content/fx/particles/weapons/rifles/autogun/autogun_tracer_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/shells/shell_casing_autogun_01"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
                 ["content/fx/units/weapons/small_caliber_cloth_large_01"] = "true (boolean)",
@@ -819222,8 +827232,7 @@ return {
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_muzzle_03"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_muzzle_03_crit"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_slug_trail"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_tracer_trail"] = "true (boolean)",
+                ["content/fx/particles/weapons/rifles/autogun/autogun_tracer_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/shells/shell_casing_autogun_01"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
                 ["content/fx/units/weapons/small_caliber_cloth_large_01"] = "true (boolean)",
@@ -819666,8 +827675,7 @@ return {
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_muzzle_03"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_muzzle_03_crit"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_slug_trail"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_tracer_trail"] = "true (boolean)",
+                ["content/fx/particles/weapons/rifles/autogun/autogun_tracer_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/shells/shell_casing_autogun_01"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
                 ["content/fx/units/weapons/small_caliber_cloth_large_01"] = "true (boolean)",
@@ -821372,9 +829380,8 @@ return {
                 ["content/fx/particles/weapons/grenades/broker_flash_grenade/broker_flash_grenade"] = "true (boolean)",
                 ["content/fx/particles/weapons/grenades/grenade_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
+                ["content/fx/particles/weapons/rifles/autogun/autogun_tracer_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autopistol/autopistol_muzzle"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_slug_trail"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_tracer_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/shells/shell_casing_autopistol_01"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
                 ["content/fx/units/weapons/small_caliber_cloth_large_01"] = "true (boolean)",
@@ -822170,6 +830177,41 @@ return {
             },
             workflow_state = "RELEASABLE (string)",
         },
+        ["content/items/weapons/player/ranged/barrels/autogun_rifle_barrel_08"] = {
+            attach_node = "ap_barrel_01 (string)",
+            attachments = {
+                zzz_shared_material_overrides = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/weapons/player/ranged/autogun_rifle/attachments/barrel_08/barrel_08 (string)",
+            display_name = "n/a (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            is_fallback_item = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "WEAPON_ATTACHMENT (string)",
+            name = "content/items/weapons/player/ranged/barrels/autogun_rifle_barrel_08 (string)",
+            resource_dependencies = {
+                ["content/weapons/player/ranged/autogun_rifle/attachments/barrel_08/barrel_08"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
         ["content/items/weapons/player/ranged/barrels/autogun_rifle_barrel_ak_01"] = {
             attach_node = "ap_barrel_01 (string)",
             attachments = {
@@ -822443,6 +830485,41 @@ return {
             },
             workflow_state = "RELEASABLE (string)",
         },
+        ["content/items/weapons/player/ranged/barrels/autogun_rifle_barrel_ak_09"] = {
+            attach_node = "ap_barrel_01 (string)",
+            attachments = {
+                zzz_shared_material_overrides = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/weapons/player/ranged/autogun_rifle_ak/attachments/barrel_09/barrel_09 (string)",
+            display_name = "n/a (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            is_fallback_item = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "WEAPON_ATTACHMENT (string)",
+            name = "content/items/weapons/player/ranged/barrels/autogun_rifle_barrel_ak_09 (string)",
+            resource_dependencies = {
+                ["content/weapons/player/ranged/autogun_rifle_ak/attachments/barrel_09/barrel_09"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
         ["content/items/weapons/player/ranged/barrels/autogun_rifle_barrel_ak_ml01"] = {
             attach_node = "ap_barrel_01 (string)",
             attachments = {
@@ -822613,6 +830690,41 @@ return {
             },
             workflow_state = "RELEASABLE (string)",
         },
+        ["content/items/weapons/player/ranged/barrels/autogun_rifle_barrel_killshot_06"] = {
+            attach_node = "ap_barrel_01 (string)",
+            attachments = {
+                zzz_shared_material_overrides = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/weapons/player/ranged/autogun_rifle_killshot/attachments/barrel_06/barrel_06 (string)",
+            display_name = "n/a (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            is_fallback_item = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "WEAPON_ATTACHMENT (string)",
+            name = "content/items/weapons/player/ranged/barrels/autogun_rifle_barrel_killshot_06 (string)",
+            resource_dependencies = {
+                ["content/weapons/player/ranged/autogun_rifle_killshot/attachments/barrel_06/barrel_06"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
         ["content/items/weapons/player/ranged/barrels/autogun_rifle_barrel_killshot_ml01"] = {
             attach_node = "ap_barrel_01 (string)",
             attachments = {
@@ -822745,6 +830857,7 @@ return {
                 [10] = "ROTATION_stefan (string)",
                 [11] = "ROTATION_zoya (string)",
                 [12] = "ROTATION_jack (string)",
+                [13] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -823195,6 +831308,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -823571,6 +831685,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -823993,6 +832108,7 @@ return {
                 [11] = "ROTATION_nick (string)",
                 [12] = "ROTATION_twitch_1_13_0 (string)",
                 [13] = "ROTATION_sebastian_duncan (string)",
+                [14] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -825734,6 +833850,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_martinez (string)",
+                [3] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -827756,7 +835873,6 @@ return {
                 ["content/fx/particles/weapons/rifles/bolter/bolter_impact"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/bolter/bolter_muzzle_ignite"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/bolter/bolter_muzzle_secondary"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/bolter/bolter_smoke_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/bolter/bolter_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/boltpistol/boltpistol_impact_armor_01"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/boltpistol/boltpistol_impact_armor_nodamage_01"] = "true (boolean)",
@@ -828173,7 +836289,6 @@ return {
                 ["content/fx/particles/weapons/rifles/bolter/bolter_m2_impact"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/bolter/bolter_muzzle_ignite"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/bolter/bolter_muzzle_secondary"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/bolter/bolter_smoke_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/bolter/bolter_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/boltpistol/boltpistol_impact_armor_01"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/boltpistol/boltpistol_impact_armor_nodamage_01"] = "true (boolean)",
@@ -828592,7 +836707,6 @@ return {
                 ["content/fx/particles/weapons/rifles/bolter/bolter_bullet_surface_without_explode"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/bolter/bolter_impact"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/bolter/bolter_muzzle_secondary"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/bolter/bolter_smoke_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/bolter/bolter_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/boltpistol/boltpistol_impact_armor_01"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/boltpistol/boltpistol_impact_armor_nodamage_01"] = "true (boolean)",
@@ -829011,7 +837125,6 @@ return {
                 ["content/fx/particles/weapons/rifles/bolter/bolter_bullet_surface_without_explode"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/bolter/bolter_impact"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/bolter/bolter_muzzle_secondary"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/bolter/bolter_smoke_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/bolter/bolter_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/boltpistol/boltpistol_impact_armor_01"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/boltpistol/boltpistol_impact_armor_nodamage_01"] = "true (boolean)",
@@ -829462,8 +837575,7 @@ return {
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_muzzle_03"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_muzzle_03_crit"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_slug_trail"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_tracer_trail"] = "true (boolean)",
+                ["content/fx/particles/weapons/rifles/autogun/autogun_tracer_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/shells/shell_casing_autogun_01"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
                 ["content/fx/units/weapons/small_caliber_cloth_large_01"] = "true (boolean)",
@@ -829878,8 +837990,6 @@ return {
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_crit"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_standard_linger"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_crit_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_muzzle"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_muzzle_crit"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
@@ -830259,7 +838369,6 @@ return {
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_crit"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_standard_linger"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/laspistol/laspistol_muzzle"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
                 ["content/fx/units/weapons/lasgun_concrete_large_01"] = "true (boolean)",
@@ -830647,7 +838756,6 @@ return {
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_crit"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_standard_linger"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/laspistol/laspistol_muzzle"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
                 ["content/fx/units/weapons/lasgun_concrete_large_01"] = "true (boolean)",
@@ -833462,9 +841570,8 @@ return {
                 ["content/fx/particles/weapons/grenades/broker_flash_grenade/broker_flash_grenade"] = "true (boolean)",
                 ["content/fx/particles/weapons/grenades/grenade_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
+                ["content/fx/particles/weapons/rifles/autogun/autogun_tracer_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autopistol/autopistol_muzzle"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_slug_trail"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_tracer_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/shells/shell_casing_autopistol_01"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
                 ["content/fx/units/weapons/small_caliber_cloth_large_01"] = "true (boolean)",
@@ -833749,8 +841856,7 @@ return {
                 ["content/fx/particles/weapons/pistols/stubrevolver/stubrevolver_muzzle"] = "true (boolean)",
                 ["content/fx/particles/weapons/pistols/stubrevolver/stubrevolver_muzzle_crit"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_slug_trail"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_tracer_trail"] = "true (boolean)",
+                ["content/fx/particles/weapons/rifles/autogun/autogun_tracer_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/shells/shell_casing_stub_pistol_01"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
                 ["content/fx/units/weapons/small_caliber_cloth_large_01"] = "true (boolean)",
@@ -835732,6 +843838,7 @@ return {
                 [11] = "ROTATION_nick (string)",
                 [12] = "ROTATION_twitch_1_13_0 (string)",
                 [13] = "ROTATION_sebastian_duncan (string)",
+                [14] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -837587,9 +845694,7 @@ return {
                 ["content/fx/particles/weapons/grenades/broker_flash_grenade/broker_flash_grenade"] = "true (boolean)",
                 ["content/fx/particles/weapons/grenades/grenade_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/bolter/bolter_smoke_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/galvanic/galvanic_rifle_muzzle"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/galvanic/galvanic_rifle_shot_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
                 ["content/fx/units/weapons/small_caliber_cloth_large_01"] = "true (boolean)",
                 ["content/fx/units/weapons/small_caliber_cloth_medium_01"] = "true (boolean)",
@@ -838314,6 +846419,41 @@ return {
             },
             workflow_state = "RELEASABLE (string)",
         },
+        ["content/items/weapons/player/ranged/grips/autogun_rifle_grip_ak_06"] = {
+            attach_node = "ap_grip_01 (string)",
+            attachments = {
+                zzz_shared_material_overrides = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/weapons/player/ranged/autogun_rifle_ak/attachments/grip_06/grip_06 (string)",
+            display_name = "n/a (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            is_fallback_item = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "WEAPON_ATTACHMENT (string)",
+            name = "content/items/weapons/player/ranged/grips/autogun_rifle_grip_ak_06 (string)",
+            resource_dependencies = {
+                ["content/weapons/player/ranged/autogun_rifle_ak/attachments/grip_06/grip_06"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
         ["content/items/weapons/player/ranged/grips/autogun_rifle_grip_ak_ml01"] = {
             attach_node = "ap_grip_01 (string)",
             attachments = {
@@ -838480,6 +846620,7 @@ return {
                 [10] = "ROTATION_stefan (string)",
                 [11] = "ROTATION_zoya (string)",
                 [12] = "ROTATION_jack (string)",
+                [13] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -838866,6 +847007,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -839562,6 +847704,7 @@ return {
                 [11] = "ROTATION_nick (string)",
                 [12] = "ROTATION_twitch_1_13_0 (string)",
                 [13] = "ROTATION_sebastian_duncan (string)",
+                [14] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -841528,6 +849671,40 @@ return {
             },
             workflow_state = "RELEASABLE (string)",
         },
+        ["content/items/weapons/player/ranged/handles/rippergun_rifle_handle_06"] = {
+            attach_node = "ap_handle_01 (string)",
+            attachments = {
+                zzz_shared_material_overrides = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/weapons/player/ranged/rippergun_rifle/attachments/handle_06/handle_06 (string)",
+            display_name = "n/a (string)",
+            feature_flags = {
+                [1] = "FEATURE_item_retained (string)",
+            },
+            is_fallback_item = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "WEAPON_ATTACHMENT (string)",
+            name = "content/items/weapons/player/ranged/handles/rippergun_rifle_handle_06 (string)",
+            resource_dependencies = {
+                ["content/weapons/player/ranged/rippergun_rifle/attachments/handle_06/handle_06"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            tags = {
+            },
+            workflow_checklist = {
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
         ["content/items/weapons/player/ranged/handles/rippergun_rifle_handle_07"] = {
             attach_node = "ap_handle_01 (string)",
             attachments = {
@@ -841893,8 +850070,7 @@ return {
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_muzzle_03"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_muzzle_03_crit"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_slug_trail"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_tracer_trail"] = "true (boolean)",
+                ["content/fx/particles/weapons/rifles/autogun/autogun_tracer_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/shells/shell_casing_autogun_01"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
                 ["content/fx/units/weapons/small_caliber_cloth_large_01"] = "true (boolean)",
@@ -842309,8 +850485,6 @@ return {
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_crit"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_standard_linger"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_crit_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_muzzle"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_muzzle_crit"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
@@ -842617,6 +850791,7 @@ return {
                 [11] = "ROTATION_nick (string)",
                 [12] = "ROTATION_twitch_1_13_0 (string)",
                 [13] = "ROTATION_sebastian_duncan (string)",
+                [14] = "ROTATION_victoria_mick (string)",
             },
             force_link_children = "false (boolean)",
             hud_icon = "content/ui/materials/icons/weapons/hud/lasgun_p1_m1 (string)",
@@ -842703,8 +850878,6 @@ return {
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_crit"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_standard_linger"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_crit_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_muzzle"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_muzzle_crit"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
@@ -843089,8 +851262,6 @@ return {
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_crit"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_standard_linger"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_crit_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_muzzle"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_muzzle_crit"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
@@ -843475,8 +851646,6 @@ return {
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_crit"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_standard_linger"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_crit_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_muzzle"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_muzzle_crit"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
@@ -843867,14 +852036,10 @@ return {
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_crit"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_krieg_charged"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_krieg_linger"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_krieg_linger_bfg"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_standard_linger"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_bfg_muzzle"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_bfg_muzzle_crit"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_charged_muzzle"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_charged_muzzle_crit"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_crit_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_muzzle"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_muzzle_crit"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
@@ -844310,14 +852475,10 @@ return {
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_crit"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_krieg_charged"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_krieg_linger"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_krieg_linger_bfg"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_standard_linger"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_bfg_muzzle"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_bfg_muzzle_crit"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_charged_muzzle"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_charged_muzzle_crit"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_crit_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_muzzle"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_muzzle_crit"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
@@ -844753,14 +852914,10 @@ return {
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_crit"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_krieg_charged"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_krieg_linger"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_krieg_linger_bfg"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_standard_linger"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_bfg_muzzle"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_bfg_muzzle_crit"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_charged_muzzle"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_charged_muzzle_crit"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_crit_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_muzzle"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_muzzle_crit"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
@@ -845191,8 +853348,6 @@ return {
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_crit"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_elysian"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_standard_linger"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_crit_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_muzzle_elysian"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
                 ["content/fx/units/weapons/lasgun_concrete_large_01"] = "true (boolean)",
@@ -845576,8 +853731,6 @@ return {
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_crit"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_elysian"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_standard_linger"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_crit_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_muzzle"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_muzzle_elysian"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
@@ -845962,8 +854115,6 @@ return {
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_crit"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_elysian"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_standard_linger"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_crit_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_muzzle"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_muzzle_elysian"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
@@ -846350,7 +854501,6 @@ return {
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_crit"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_standard_linger"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/laspistol/laspistol_muzzle"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/forcesword/psyker_push"] = "true (boolean)",
@@ -846745,8 +854895,6 @@ return {
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_crit"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/lasgun/lasgun_beam_standard_linger"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/laspistol/lasgun_heavy_beam_crit_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/laspistol/laspistol_heavy_muzzle"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/laspistol/laspistol_heavy_muzzle_crit"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
@@ -847080,6 +855228,41 @@ return {
             },
             workflow_state = "RELEASABLE (string)",
         },
+        ["content/items/weapons/player/ranged/magazines/autogun_rifle_killshot_magazine_01"] = {
+            attach_node = "ap_magazine_01 (string)",
+            attachments = {
+                zzz_shared_material_overrides = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/weapons/player/ranged/autogun_rifle_killshot/attachments/magazine_01/magazine_01 (string)",
+            display_name = "n/a (string)",
+            feature_flags = {
+                [1] = "FEATURE_item_retained (string)",
+            },
+            is_fallback_item = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "WEAPON_ATTACHMENT (string)",
+            name = "content/items/weapons/player/ranged/magazines/autogun_rifle_killshot_magazine_01 (string)",
+            only_show_in_1p = "false (boolean)",
+            resource_dependencies = {
+                ["content/weapons/player/ranged/autogun_rifle_killshot/attachments/magazine_01/magazine_01"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            tags = {
+            },
+            workflow_checklist = {
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
         ["content/items/weapons/player/ranged/magazines/autogun_rifle_magazine_01"] = {
             attach_node = "ap_magazine_01 (string)",
             attachments = {
@@ -847217,6 +855400,7 @@ return {
                 [10] = "ROTATION_stefan (string)",
                 [11] = "ROTATION_zoya (string)",
                 [12] = "ROTATION_jack (string)",
+                [13] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -847436,6 +855620,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -848088,6 +856273,7 @@ return {
                 [11] = "ROTATION_nick (string)",
                 [12] = "ROTATION_twitch_1_13_0 (string)",
                 [13] = "ROTATION_sebastian_duncan (string)",
+                [14] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -848832,6 +857018,41 @@ return {
             only_show_in_1p = "false (boolean)",
             resource_dependencies = {
                 ["content/weapons/player/ranged/rippergun_rifle/attachments/magazine_07/magazine_07"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            tags = {
+            },
+            workflow_checklist = {
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/weapons/player/ranged/magazines/rippergun_rifle_magazine_08"] = {
+            attach_node = "ap_magazine_01 (string)",
+            attachments = {
+                zzz_shared_material_overrides = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/weapons/player/ranged/rippergun_rifle/attachments/magazine_08/magazine_08 (string)",
+            display_name = "n/a (string)",
+            feature_flags = {
+                [1] = "FEATURE_item_retained (string)",
+            },
+            is_fallback_item = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "WEAPON_ATTACHMENT (string)",
+            name = "content/items/weapons/player/ranged/magazines/rippergun_rifle_magazine_08 (string)",
+            only_show_in_1p = "false (boolean)",
+            resource_dependencies = {
+                ["content/weapons/player/ranged/rippergun_rifle/attachments/magazine_08/magazine_08"] = "true (boolean)",
             },
             show_in_1p = "true (boolean)",
             tags = {
@@ -850568,6 +858789,41 @@ return {
             },
             workflow_state = "RELEASABLE (string)",
         },
+        ["content/items/weapons/player/ranged/muzzles/autogun_rifle_ak_muzzle_06"] = {
+            attach_node = "ap_muzzle_01 (string)",
+            attachments = {
+                zzz_shared_material_overrides = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/weapons/player/ranged/autogun_rifle_ak/attachments/muzzle_06/muzzle_06 (string)",
+            display_name = "n/a (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            is_fallback_item = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "WEAPON_ATTACHMENT (string)",
+            name = "content/items/weapons/player/ranged/muzzles/autogun_rifle_ak_muzzle_06 (string)",
+            resource_dependencies = {
+                ["content/weapons/player/ranged/autogun_rifle_ak/attachments/muzzle_06/muzzle_06"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
         ["content/items/weapons/player/ranged/muzzles/autogun_rifle_ak_muzzle_ml01"] = {
             attach_node = "ap_muzzle_01 (string)",
             attachments = {
@@ -850735,6 +858991,41 @@ return {
             tags = {
             },
             workflow_checklist = {
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/weapons/player/ranged/muzzles/autogun_rifle_killshot_muzzle_06"] = {
+            attach_node = "ap_muzzle_01 (string)",
+            attachments = {
+                zzz_shared_material_overrides = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/weapons/player/ranged/autogun_rifle_killshot/attachments/muzzle_06/muzzle_06 (string)",
+            display_name = "n/a (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            is_fallback_item = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "WEAPON_ATTACHMENT (string)",
+            name = "content/items/weapons/player/ranged/muzzles/autogun_rifle_killshot_muzzle_06 (string)",
+            resource_dependencies = {
+                ["content/weapons/player/ranged/autogun_rifle_killshot/attachments/muzzle_06/muzzle_06"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
             },
             workflow_state = "RELEASABLE (string)",
         },
@@ -850973,6 +859264,41 @@ return {
             tags = {
             },
             workflow_checklist = {
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/weapons/player/ranged/muzzles/autogun_rifle_muzzle_07"] = {
+            attach_node = "ap_muzzle_01 (string)",
+            attachments = {
+                zzz_shared_material_overrides = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/weapons/player/ranged/autogun_rifle/attachments/muzzle_07/muzzle_07 (string)",
+            display_name = "n/a (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            is_fallback_item = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "WEAPON_ATTACHMENT (string)",
+            name = "content/items/weapons/player/ranged/muzzles/autogun_rifle_muzzle_07 (string)",
+            resource_dependencies = {
+                ["content/weapons/player/ranged/autogun_rifle/attachments/muzzle_07/muzzle_07"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
             },
             workflow_state = "RELEASABLE (string)",
         },
@@ -851793,6 +860119,7 @@ return {
                 [11] = "ROTATION_nick (string)",
                 [12] = "ROTATION_twitch_1_13_0 (string)",
                 [13] = "ROTATION_sebastian_duncan (string)",
+                [14] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -852323,8 +860650,6 @@ return {
                 ["content/fx/particles/weapons/pistols/needlepistol/needlepistol_muzzle_hip"] = "true (boolean)",
                 ["content/fx/particles/weapons/pistols/needlepistol/needlepistol_muzzle_zoom"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/autogun/autogun_smoke_trail"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/autogun/autogun_smoke_trail_3p"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_tracer_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/bolter/bolter_impact"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/boltpistol/boltpistol_impact_armor_nodamage_01"] = "true (boolean)",
@@ -852745,8 +861070,6 @@ return {
                 ["content/fx/particles/weapons/pistols/needlepistol/needlepistol_muzzle_hip"] = "true (boolean)",
                 ["content/fx/particles/weapons/pistols/needlepistol/needlepistol_muzzle_zoom"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/autogun/autogun_smoke_trail"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/autogun/autogun_smoke_trail_3p"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_tracer_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/bolter/bolter_impact"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/boltpistol/boltpistol_impact_armor_nodamage_01"] = "true (boolean)",
@@ -853487,8 +861810,6 @@ return {
                 ["content/fx/particles/weapons/grenades/broker_flash_grenade/broker_flash_grenade"] = "true (boolean)",
                 ["content/fx/particles/weapons/grenades/grenade_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/autogun/autogun_smoke_trail"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/autogun/autogun_smoke_trail_3p"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/ogryn_heavystubber/heavystubber_impact_01"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/ogryn_heavystubber/heavystubber_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/ogryn_heavystubber/heavystubber_tracer_trail"] = "true (boolean)",
@@ -853875,8 +862196,6 @@ return {
                 ["content/fx/particles/weapons/grenades/broker_flash_grenade/broker_flash_grenade"] = "true (boolean)",
                 ["content/fx/particles/weapons/grenades/grenade_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/autogun/autogun_smoke_trail"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/autogun/autogun_smoke_trail_3p"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/ogryn_heavystubber/heavystubber_impact_01"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/ogryn_heavystubber/heavystubber_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/ogryn_heavystubber/heavystubber_tracer_trail"] = "true (boolean)",
@@ -854263,8 +862582,6 @@ return {
                 ["content/fx/particles/weapons/grenades/broker_flash_grenade/broker_flash_grenade"] = "true (boolean)",
                 ["content/fx/particles/weapons/grenades/grenade_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/autogun/autogun_smoke_trail"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/autogun/autogun_smoke_trail_3p"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/ogryn_heavystubber/heavystubber_impact_01"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/ogryn_heavystubber/heavystubber_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/ogryn_heavystubber/heavystubber_tracer_trail"] = "true (boolean)",
@@ -854649,8 +862966,6 @@ return {
                 ["content/fx/particles/weapons/grenades/broker_flash_grenade/broker_flash_grenade"] = "true (boolean)",
                 ["content/fx/particles/weapons/grenades/grenade_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/autogun/autogun_smoke_trail"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/autogun/autogun_smoke_trail_3p"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/ogryn_heavystubber/heavystubber_impact_01"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/ogryn_heavystubber/heavystubber_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/ogryn_heavystubber/heavystubber_p2/ogryn_heavystubber_p2m1_muzzle"] = "true (boolean)",
@@ -855008,8 +863323,6 @@ return {
                 ["content/fx/particles/weapons/grenades/broker_flash_grenade/broker_flash_grenade"] = "true (boolean)",
                 ["content/fx/particles/weapons/grenades/grenade_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/autogun/autogun_smoke_trail"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/autogun/autogun_smoke_trail_3p"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/ogryn_heavystubber/heavystubber_impact_01"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/ogryn_heavystubber/heavystubber_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/ogryn_heavystubber/heavystubber_p2/ogryn_heavystubber_p2m2_muzzle"] = "true (boolean)",
@@ -855367,8 +863680,6 @@ return {
                 ["content/fx/particles/weapons/grenades/broker_flash_grenade/broker_flash_grenade"] = "true (boolean)",
                 ["content/fx/particles/weapons/grenades/grenade_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/autogun/autogun_smoke_trail"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/autogun/autogun_smoke_trail_3p"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/ogryn_heavystubber/heavystubber_impact_01"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/ogryn_heavystubber/heavystubber_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/ogryn_heavystubber/heavystubber_p2/ogryn_heavystubber_p2m2_muzzle"] = "true (boolean)",
@@ -857445,7 +865756,6 @@ return {
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/bolter/bolter_bullet_surface_without_explode"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/bolter/bolter_impact"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/bolter/bolter_smoke_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/bolter/bolter_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/boltpistol/boltpistol_impact_armor_01"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/boltpistol/boltpistol_impact_armor_nodamage_01"] = "true (boolean)",
@@ -857928,9 +866238,7 @@ return {
                 ["content/fx/particles/weapons/grenades/grenade_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/pistols/phosphorpistol/phosphor_pistol_impact_blast"] = "true (boolean)",
                 ["content/fx/particles/weapons/pistols/phosphorpistol/phosphor_pistol_muzzle"] = "true (boolean)",
-                ["content/fx/particles/weapons/pistols/phosphorpistol/phosphor_pistol_shot_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/bolter/bolter_smoke_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
                 ["content/fx/units/weapons/lasgun_concrete_large_01"] = "true (boolean)",
                 ["content/fx/units/weapons/lasgun_concrete_medium_01"] = "true (boolean)",
@@ -858298,7 +866606,6 @@ return {
                 ["content/fx/particles/weapons/grenades/grenade_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/plasma_gun/plasma_beam"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/plasma_gun/plasma_beam_linger"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/plasma_gun/plasma_charged_explosion_medium"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/plasma_gun/plasma_charged_explosion_small"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/plasma_gun/plasma_muzzle_bfg"] = "true (boolean)",
@@ -858646,7 +866953,6 @@ return {
                 ["content/fx/particles/weapons/grenades/grenade_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/plasma_gun/plasma_beam"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/plasma_gun/plasma_beam_linger"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/plasma_gun/plasma_charged_explosion_large"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/plasma_gun/plasma_charged_explosion_medium"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/plasma_gun/plasma_charged_explosion_small"] = "true (boolean)",
@@ -858928,6 +867234,7 @@ return {
                 [12] = "ROTATION_nick (string)",
                 [13] = "ROTATION_twitch_1_13_0 (string)",
                 [14] = "ROTATION_sebastian_duncan (string)",
+                [15] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -860125,6 +868432,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_bobby (string)",
+                [3] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -860234,6 +868542,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -860889,6 +869198,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -861333,6 +869643,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -862340,6 +870651,7 @@ return {
                 [11] = "ROTATION_nick (string)",
                 [12] = "ROTATION_twitch_1_13_0 (string)",
                 [13] = "ROTATION_sebastian_duncan (string)",
+                [14] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -863309,6 +871621,40 @@ return {
             },
             workflow_state = "RELEASABLE (string)",
         },
+        ["content/items/weapons/player/ranged/recievers/rippergun_rifle_receiver_10"] = {
+            attach_node = "rp_rippergun_rifle_chained_rig (string)",
+            attachments = {
+                zzz_shared_material_overrides = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/weapons/player/ranged/rippergun_rifle/attachments/receiver_10/receiver_10 (string)",
+            display_name = "n/a (string)",
+            feature_flags = {
+                [1] = "FEATURE_item_retained (string)",
+            },
+            is_fallback_item = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "WEAPON_ATTACHMENT (string)",
+            name = "content/items/weapons/player/ranged/recievers/rippergun_rifle_receiver_10 (string)",
+            resource_dependencies = {
+                ["content/weapons/player/ranged/rippergun_rifle/attachments/receiver_10/receiver_10"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            tags = {
+            },
+            workflow_checklist = {
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
         ["content/items/weapons/player/ranged/recievers/rippergun_rifle_receiver_11"] = {
             attach_node = "rp_rippergun_rifle_chained_rig (string)",
             attachments = {
@@ -863499,6 +871845,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -864893,6 +873240,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             icon_render_camera_position_offset = {
                 [1] = "-0.5 (number)",
@@ -865250,6 +873598,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             icon_render_camera_position_offset = {
                 [1] = "0 (number)",
@@ -866113,6 +874462,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_rodger_catherine_3 (string)",
+                [3] = "ROTATION_victoria_mick (string)",
             },
             icon_render_camera_position_offset = {
                 [1] = "0 (number)",
@@ -866407,6 +874757,46 @@ return {
             tags = {
             },
             workflow_checklist = {
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/weapons/player/ranged/shafts/power_maul_shaft_09"] = {
+            attach_node = "rp_power_maul_chained_rig (string)",
+            attachments = {
+                zzz_shared_material_overrides = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/weapons/player/melee/power_maul/attachments/shaft_09/shaft_09 (string)",
+            display_name = "n/a (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            icon_render_camera_position_offset = {
+                [1] = "0 (number)",
+                [2] = "0 (number)",
+                [3] = "0 (number)",
+            },
+            is_fallback_item = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "WEAPON_ATTACHMENT (string)",
+            name = "content/items/weapons/player/ranged/shafts/power_maul_shaft_09 (string)",
+            resource_dependencies = {
+                ["content/weapons/player/melee/power_maul/attachments/shaft_09/shaft_09"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
             },
             workflow_state = "RELEASABLE (string)",
         },
@@ -866724,6 +875114,46 @@ return {
             },
             workflow_state = "RELEASABLE (string)",
         },
+        ["content/items/weapons/player/ranged/shafts/thunder_hammer_shaft_08"] = {
+            attach_node = "rp_thunder_hammer_chained_rig (string)",
+            attachments = {
+                zzz_shared_material_overrides = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/weapons/player/melee/thunder_hammer/attachments/shaft_08/shaft_08 (string)",
+            display_name = "n/a (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            icon_render_camera_position_offset = {
+                [1] = "0 (number)",
+                [2] = "0 (number)",
+                [3] = "0 (number)",
+            },
+            is_fallback_item = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "WEAPON_ATTACHMENT (string)",
+            name = "content/items/weapons/player/ranged/shafts/thunder_hammer_shaft_08 (string)",
+            resource_dependencies = {
+                ["content/weapons/player/melee/thunder_hammer/attachments/shaft_08/shaft_08"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
         ["content/items/weapons/player/ranged/shafts/thunder_hammer_shaft_ml01"] = {
             attach_node = "rp_thunder_hammer_chained_rig (string)",
             attachments = {
@@ -867019,7 +875449,6 @@ return {
                 ["content/fx/particles/weapons/rifles/ripper_gun/ripper_gun_impact_01"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/shotgun/combat_shotgun_ogryn_impact"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/shotgun/shotgun_rifle_muzzle"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_trail_smoke"] = "true (boolean)",
                 ["content/fx/particles/weapons/shells/shell_casing_shotgun_01"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
                 ["content/fx/units/weapons/small_caliber_cloth_small_01"] = "true (boolean)",
@@ -867384,9 +875813,7 @@ return {
                 ["content/fx/particles/weapons/rifles/shotgun/combat_shotgun_ogryn_impact"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/shotgun/shotgun_muzzle_slug"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/shotgun/shotgun_rifle_muzzle"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_slug_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/shotgun/shotgun_tracer_trail"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_trail_smoke"] = "true (boolean)",
                 ["content/fx/particles/weapons/shells/shell_casing_shotgun_01"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
                 ["content/fx/units/weapons/small_caliber_cloth_large_01"] = "true (boolean)",
@@ -867766,9 +876193,7 @@ return {
                 ["content/fx/particles/weapons/rifles/ripper_gun/ripper_gun_impact_01"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/shotgun/combat_shotgun_ogryn_impact"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/shotgun/shotgun_incendiary_muzzle"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_incendiary_trail_smoke"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/shotgun/shotgun_rifle_muzzle"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_trail_smoke"] = "true (boolean)",
                 ["content/fx/particles/weapons/shells/shell_casing_shotgun_01"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
                 ["content/fx/units/weapons/incendiary_shotgun_scorchmark_small_01"] = "true (boolean)",
@@ -868121,7 +876546,6 @@ return {
                 ["content/fx/particles/weapons/rifles/shotgun/combat_shotgun_ogryn_impact"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/shotgun/shotgun_p2_m1/shotgun_p2_m1_muzzle_double"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/shotgun/shotgun_p2_m1/shotgun_p2_m1_muzzle_single"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_trail_smoke"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
                 ["content/fx/units/weapons/small_caliber_cloth_small_01"] = "true (boolean)",
                 ["content/fx/units/weapons/small_caliber_concrete_large_01"] = "true (boolean)",
@@ -868499,7 +876923,6 @@ return {
                 ["content/fx/particles/weapons/rifles/shotgun/combat_shotgun_ogryn_impact"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/shotgun/shotgun_p2_m1/shotgun_p2_m1_muzzle_double"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/shotgun/shotgun_p2_m1/shotgun_p2_m1_muzzle_single"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_trail_smoke"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
                 ["content/fx/units/weapons/small_caliber_cloth_small_01"] = "true (boolean)",
                 ["content/fx/units/weapons/small_caliber_concrete_large_01"] = "true (boolean)",
@@ -868882,7 +877305,6 @@ return {
                 ["content/fx/particles/weapons/rifles/ripper_gun/ripper_gun_impact_01"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/shotgun/combat_shotgun_ogryn_impact"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/shotgun/shotgun_rifle_muzzle"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_trail_smoke"] = "true (boolean)",
                 ["content/fx/particles/weapons/shells/shell_casing_shotgun_01"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
                 ["content/fx/units/weapons/small_caliber_cloth_small_01"] = "true (boolean)",
@@ -869306,7 +877728,6 @@ return {
                 ["content/fx/particles/weapons/rifles/shotgun/shotgun_p4/shotgun_p4_weapon_special_impact_armor"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/shotgun/shotgun_p4/shotgun_p4_weapon_special_muzzle"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/shotgun/shotgun_rifle_muzzle"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_trail_smoke"] = "true (boolean)",
                 ["content/fx/particles/weapons/shells/shell_casing_shotgun_01"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
                 ["content/fx/units/weapons/small_caliber_cloth_large_01"] = "true (boolean)",
@@ -869744,7 +878165,6 @@ return {
                 ["content/fx/particles/weapons/rifles/shotgun/shotgun_p4/shotgun_p4_weapon_special_impact"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/shotgun/shotgun_p4/shotgun_p4_weapon_special_impact_armor"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/shotgun/shotgun_rifle_muzzle"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_trail_smoke"] = "true (boolean)",
                 ["content/fx/particles/weapons/shells/shell_casing_shotgun_01"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
                 ["content/fx/units/weapons/small_caliber_cloth_large_01"] = "true (boolean)",
@@ -870736,6 +879156,7 @@ return {
                 [8] = "ROTATION_sebastian (string)",
                 [9] = "ROTATION_stefan (string)",
                 [10] = "ROTATION_zoya (string)",
+                [11] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -871126,6 +879547,7 @@ return {
                 [11] = "ROTATION_nick (string)",
                 [12] = "ROTATION_twitch_1_13_0 (string)",
                 [13] = "ROTATION_sebastian_duncan (string)",
+                [14] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -872075,6 +880497,41 @@ return {
             },
             workflow_state = "RELEASABLE (string)",
         },
+        ["content/items/weapons/player/ranged/stocks/autogun_rifle_ak_stock_08"] = {
+            attach_node = "ap_stock_01 (string)",
+            attachments = {
+                zzz_shared_material_overrides = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/weapons/player/ranged/autogun_rifle_ak/attachments/stock_08/stock_08 (string)",
+            display_name = "n/a (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            is_fallback_item = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "WEAPON_ATTACHMENT (string)",
+            name = "content/items/weapons/player/ranged/stocks/autogun_rifle_ak_stock_08 (string)",
+            resource_dependencies = {
+                ["content/weapons/player/ranged/autogun_rifle_ak/attachments/stock_08/stock_08"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
         ["content/items/weapons/player/ranged/stocks/autogun_rifle_ak_stock_ml01"] = {
             attach_node = "ap_stock_01 (string)",
             attachments = {
@@ -872378,6 +880835,41 @@ return {
             tags = {
             },
             workflow_checklist = {
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/weapons/player/ranged/stocks/autogun_rifle_stock_06"] = {
+            attach_node = "ap_stock_01 (string)",
+            attachments = {
+                zzz_shared_material_overrides = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/weapons/player/ranged/autogun_rifle/attachments/stock_06/stock_06 (string)",
+            display_name = "n/a (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            is_fallback_item = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "WEAPON_ATTACHMENT (string)",
+            name = "content/items/weapons/player/ranged/stocks/autogun_rifle_stock_06 (string)",
+            resource_dependencies = {
+                ["content/weapons/player/ranged/autogun_rifle/attachments/stock_06/stock_06"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            tags = {
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
             },
             workflow_state = "RELEASABLE (string)",
         },
@@ -873129,6 +881621,7 @@ return {
                 [11] = "ROTATION_nick (string)",
                 [12] = "ROTATION_twitch_1_13_0 (string)",
                 [13] = "ROTATION_sebastian_duncan (string)",
+                [14] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -873813,6 +882306,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_martinez (string)",
+                [3] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -876091,8 +884585,7 @@ return {
                 ["content/fx/particles/weapons/pistols/stubrevolver/stubrevolver_muzzle"] = "true (boolean)",
                 ["content/fx/particles/weapons/pistols/stubrevolver/stubrevolver_muzzle_crit"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_slug_trail"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_tracer_trail"] = "true (boolean)",
+                ["content/fx/particles/weapons/rifles/autogun/autogun_tracer_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
                 ["content/fx/units/weapons/small_caliber_cloth_large_01"] = "true (boolean)",
                 ["content/fx/units/weapons/small_caliber_cloth_medium_01"] = "true (boolean)",
@@ -876537,8 +885030,7 @@ return {
                 ["content/fx/particles/weapons/pistols/stubrevolver/stubrevolver_muzzle"] = "true (boolean)",
                 ["content/fx/particles/weapons/pistols/stubrevolver/stubrevolver_muzzle_crit"] = "true (boolean)",
                 ["content/fx/particles/weapons/rifles/autogun/autogun_impact_armored"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_slug_trail"] = "true (boolean)",
-                ["content/fx/particles/weapons/rifles/shotgun/shotgun_tracer_trail"] = "true (boolean)",
+                ["content/fx/particles/weapons/rifles/autogun/autogun_tracer_trail"] = "true (boolean)",
                 ["content/fx/particles/weapons/swords/chainsword/impact_metal_slash_01"] = "true (boolean)",
                 ["content/fx/units/weapons/small_caliber_cloth_large_01"] = "true (boolean)",
                 ["content/fx/units/weapons/small_caliber_cloth_medium_01"] = "true (boolean)",
@@ -882898,6 +891390,188 @@ return {
             },
             workflow_state = "RELEASABLE (string)",
         },
+        ["content/items/weapons/player/skins/autogun/autogun_p1_um002"] = {
+            attachments = {
+                receiver = {
+                    children = {
+                        barrel = {
+                            children = {
+                                bayonet = {
+                                    children = {
+                                    },
+                                    item = " (string)",
+                                    material_override_items = {
+                                    },
+                                    material_overrides = {
+                                    },
+                                },
+                                flashlight = {
+                                    children = {
+                                    },
+                                    item = " (string)",
+                                    material_override_items = {
+                                    },
+                                    material_overrides = {
+                                    },
+                                },
+                                muzzle = {
+                                    children = {
+                                    },
+                                    item = "content/items/weapons/player/ranged/muzzles/autogun_rifle_muzzle_07 (string)",
+                                    material_override_items = {
+                                    },
+                                    material_overrides = {
+                                    },
+                                },
+                                slot_trinket_1 = {
+                                    children = {
+                                    },
+                                    item = " (string)",
+                                    material_override_items = {
+                                    },
+                                    material_overrides = {
+                                    },
+                                },
+                                trinket_hook = {
+                                    children = {
+                                        slot_trinket_2 = {
+                                            children = {
+                                            },
+                                            item = " (string)",
+                                            material_override_items = {
+                                            },
+                                            material_overrides = {
+                                            },
+                                        },
+                                    },
+                                    item = "content/items/weapons/player/trinkets/trinket_hook_05_carbon_v (string)",
+                                    material_override_items = {
+                                    },
+                                    material_overrides = {
+                                    },
+                                },
+                            },
+                            item = "content/items/weapons/player/ranged/barrels/autogun_rifle_barrel_08 (string)",
+                            material_override_items = {
+                            },
+                            material_overrides = {
+                            },
+                        },
+                        emblem_left = {
+                            children = {
+                            },
+                            item = "content/items/weapons/player/trinkets/unused_trinket (string)",
+                            material_override_items = {
+                            },
+                            material_overrides = {
+                            },
+                        },
+                        emblem_right = {
+                            children = {
+                            },
+                            item = " (string)",
+                            material_override_items = {
+                            },
+                            material_overrides = {
+                            },
+                        },
+                        grip = {
+                            children = {
+                            },
+                            item = "content/items/weapons/player/ranged/grips/autogun_rifle_grip_03 (string)",
+                            material_override_items = {
+                            },
+                            material_overrides = {
+                            },
+                        },
+                        magazine = {
+                            children = {
+                            },
+                            item = " (string)",
+                            material_override_items = {
+                            },
+                            material_overrides = {
+                            },
+                        },
+                        rail = {
+                            children = {
+                            },
+                            item = "content/items/weapons/player/trinkets/unused_trinket (string)",
+                            material_override_items = {
+                            },
+                            material_overrides = {
+                            },
+                        },
+                        sight = {
+                            children = {
+                            },
+                            item = " (string)",
+                            material_override_items = {
+                            },
+                            material_overrides = {
+                            },
+                        },
+                        stock = {
+                            children = {
+                            },
+                            item = "content/items/weapons/player/ranged/stocks/autogun_rifle_stock_06 (string)",
+                            material_override_items = {
+                            },
+                            material_overrides = {
+                            },
+                        },
+                    },
+                    item = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                zzz_shared_material_overrides = {
+                    children = {
+                    },
+                    item = "content/items/weapons/player/skins/mo_1538_color_black_02 (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            description = "loc_autogun_p1_um002_desc (string)",
+            dev_description = "Skin (string)",
+            dev_name = "Autogun P1 (string)",
+            display_name = "loc_autogun_p1_um002 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            is_fallback_item = "false (boolean)",
+            item_type = "WEAPON_SKIN (string)",
+            material_override_items = {
+            },
+            material_overrides = {
+            },
+            name = "content/items/weapons/player/skins/autogun/autogun_p1_um002 (string)",
+            preview_item = "content/items/weapons/player/ranged/autogun_p1_m1 (string)",
+            rarity = "-1 (number)",
+            resource_dependencies = {
+            },
+            show_in_1p = "true (boolean)",
+            slots = {
+                [1] = "slot_weapon_skin (string)",
+            },
+            source = "premium_store (string)",
+            tags = {
+            },
+            weapon_template_restriction = {
+                [1] = "autogun_p1_m1 (string)",
+                [2] = "autogun_p1_m2 (string)",
+                [3] = "autogun_p1_m3 (string)",
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
         ["content/items/weapons/player/skins/autogun/autogun_p1_us001"] = {
             attachments = {
                 receiver = {
@@ -888784,6 +897458,161 @@ return {
             },
             workflow_state = "RELEASABLE (string)",
         },
+        ["content/items/weapons/player/skins/autogun/autogun_p2_um003"] = {
+            attachments = {
+                receiver = {
+                    children = {
+                        barrel = {
+                            children = {
+                                bayonet = {
+                                    children = {
+                                    },
+                                    item = " (string)",
+                                    material_override_items = {
+                                    },
+                                    material_overrides = {
+                                    },
+                                },
+                                flashlight = {
+                                    children = {
+                                    },
+                                    item = " (string)",
+                                    material_override_items = {
+                                    },
+                                    material_overrides = {
+                                    },
+                                },
+                                muzzle = {
+                                    children = {
+                                    },
+                                    item = "content/items/weapons/player/ranged/muzzles/autogun_rifle_ak_muzzle_06 (string)",
+                                    material_override_items = {
+                                    },
+                                    material_overrides = {
+                                    },
+                                },
+                            },
+                            item = "content/items/weapons/player/ranged/barrels/autogun_rifle_barrel_ak_09 (string)",
+                            material_override_items = {
+                            },
+                            material_overrides = {
+                            },
+                        },
+                        emblem_right = {
+                            children = {
+                            },
+                            item = " (string)",
+                            material_override_items = {
+                            },
+                            material_overrides = {
+                            },
+                        },
+                        grip = {
+                            children = {
+                                slot_trinket_1 = {
+                                    children = {
+                                    },
+                                    item = " (string)",
+                                    material_override_items = {
+                                    },
+                                    material_overrides = {
+                                    },
+                                },
+                            },
+                            item = "content/items/weapons/player/ranged/grips/autogun_rifle_grip_ak_06 (string)",
+                            material_override_items = {
+                            },
+                            material_overrides = {
+                            },
+                        },
+                        magazine = {
+                            children = {
+                            },
+                            item = "content/items/weapons/player/ranged/magazines/autogun_rifle_ak_magazine_01 (string)",
+                            material_override_items = {
+                            },
+                            material_overrides = {
+                            },
+                        },
+                        rail = {
+                            children = {
+                            },
+                            item = " (string)",
+                            material_override_items = {
+                            },
+                            material_overrides = {
+                            },
+                        },
+                        sight = {
+                            children = {
+                            },
+                            item = " (string)",
+                            material_override_items = {
+                            },
+                            material_overrides = {
+                            },
+                        },
+                        stock = {
+                            children = {
+                            },
+                            item = "content/items/weapons/player/ranged/stocks/autogun_rifle_ak_stock_08 (string)",
+                            material_override_items = {
+                            },
+                            material_overrides = {
+                            },
+                        },
+                    },
+                    item = "content/items/weapons/player/ranged/recievers/autogun_rifle_ak_receiver_01 (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                zzz_shared_material_overrides = {
+                    children = {
+                    },
+                    item = "content/items/weapons/player/skins/mo_1538_color_black_02 (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            description = "loc_autogun_p2_um003_desc (string)",
+            dev_description = "Skin (string)",
+            dev_name = "Autogun P2 (string)",
+            display_name = "loc_autogun_p2_um003 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            is_fallback_item = "false (boolean)",
+            item_type = "WEAPON_SKIN (string)",
+            material_override_items = {
+            },
+            material_overrides = {
+            },
+            name = "content/items/weapons/player/skins/autogun/autogun_p2_um003 (string)",
+            preview_item = "content/items/weapons/player/ranged/autogun_p2_m1 (string)",
+            rarity = "-1 (number)",
+            resource_dependencies = {
+            },
+            show_in_1p = "true (boolean)",
+            slots = {
+                [1] = "slot_weapon_skin (string)",
+            },
+            source = "premium_store (string)",
+            tags = {
+            },
+            weapon_template_restriction = {
+                [1] = "autogun_p2_m1 (string)",
+                [2] = "autogun_p2_m2 (string)",
+                [3] = "autogun_p2_m3 (string)",
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
         ["content/items/weapons/player/skins/autogun/autogun_p2_us001"] = {
             attachments = {
                 receiver = {
@@ -892139,6 +900968,188 @@ return {
                 [3] = "autogun_p3_m3 (string)",
             },
             workflow_checklist = {
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/weapons/player/skins/autogun/autogun_p3_um001"] = {
+            attachments = {
+                receiver = {
+                    children = {
+                        barrel = {
+                            children = {
+                                bayonet = {
+                                    children = {
+                                    },
+                                    item = " (string)",
+                                    material_override_items = {
+                                    },
+                                    material_overrides = {
+                                    },
+                                },
+                                flashlight = {
+                                    children = {
+                                    },
+                                    item = " (string)",
+                                    material_override_items = {
+                                    },
+                                    material_overrides = {
+                                    },
+                                },
+                                muzzle = {
+                                    children = {
+                                    },
+                                    item = "content/items/weapons/player/ranged/muzzles/autogun_rifle_killshot_muzzle_06 (string)",
+                                    material_override_items = {
+                                    },
+                                    material_overrides = {
+                                    },
+                                },
+                            },
+                            item = "content/items/weapons/player/ranged/barrels/autogun_rifle_barrel_killshot_06 (string)",
+                            material_override_items = {
+                            },
+                            material_overrides = {
+                            },
+                        },
+                        emblem_left = {
+                            children = {
+                            },
+                            item = "content/items/weapons/player/trinkets/unused_trinket (string)",
+                            material_override_items = {
+                            },
+                            material_overrides = {
+                            },
+                        },
+                        emblem_right = {
+                            children = {
+                            },
+                            item = "content/items/weapons/player/trinkets/unused_trinket (string)",
+                            material_override_items = {
+                            },
+                            material_overrides = {
+                            },
+                        },
+                        grip = {
+                            children = {
+                            },
+                            item = "content/items/weapons/player/ranged/grips/autogun_rifle_grip_killshot_01 (string)",
+                            material_override_items = {
+                            },
+                            material_overrides = {
+                            },
+                        },
+                        magazine = {
+                            children = {
+                            },
+                            item = " (string)",
+                            material_override_items = {
+                            },
+                            material_overrides = {
+                            },
+                        },
+                        rail = {
+                            children = {
+                            },
+                            item = "content/items/weapons/player/trinkets/unused_trinket (string)",
+                            material_override_items = {
+                            },
+                            material_overrides = {
+                            },
+                        },
+                        sight = {
+                            children = {
+                            },
+                            item = "content/items/weapons/player/ranged/sights/autogun_rifle_killshot_sight_01 (string)",
+                            material_override_items = {
+                            },
+                            material_overrides = {
+                            },
+                        },
+                        stock = {
+                            children = {
+                                slot_trinket_1 = {
+                                    children = {
+                                    },
+                                    item = " (string)",
+                                    material_override_items = {
+                                    },
+                                    material_overrides = {
+                                    },
+                                },
+                                trinket_hook = {
+                                    children = {
+                                        slot_trinket_2 = {
+                                            children = {
+                                            },
+                                            item = " (string)",
+                                            material_override_items = {
+                                            },
+                                            material_overrides = {
+                                            },
+                                        },
+                                    },
+                                    item = "content/items/weapons/player/trinkets/trinket_hook_05_coated (string)",
+                                    material_override_items = {
+                                    },
+                                    material_overrides = {
+                                    },
+                                },
+                            },
+                            item = "content/items/weapons/player/ranged/stocks/autogun_rifle_killshot_stock_01 (string)",
+                            material_override_items = {
+                            },
+                            material_overrides = {
+                            },
+                        },
+                    },
+                    item = "content/items/weapons/player/ranged/recievers/autogun_rifle_killshot_receiver_03 (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                zzz_shared_material_overrides = {
+                    children = {
+                    },
+                    item = "content/items/weapons/player/skins/mo_1538_color_black_02 (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            description = "loc_autogun_p3_um001_desc (string)",
+            dev_description = "Skin (string)",
+            dev_name = "Autogun P3 (string)",
+            display_name = "loc_autogun_p3_um001 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            is_fallback_item = "false (boolean)",
+            item_type = "WEAPON_SKIN (string)",
+            material_override_items = {
+            },
+            material_overrides = {
+            },
+            name = "content/items/weapons/player/skins/autogun/autogun_p3_um001 (string)",
+            preview_item = "content/items/weapons/player/ranged/autogun_p3_m1 (string)",
+            rarity = "-1 (number)",
+            resource_dependencies = {
+            },
+            show_in_1p = "true (boolean)",
+            slots = {
+                [1] = "slot_weapon_skin (string)",
+            },
+            source = "premium_store (string)",
+            tags = {
+            },
+            weapon_template_restriction = {
+                [1] = "autogun_p3_m1 (string)",
+                [2] = "autogun_p3_m2 (string)",
+                [3] = "autogun_p3_m3 (string)",
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
             },
             workflow_state = "RELEASABLE (string)",
         },
@@ -902459,6 +911470,7 @@ return {
             display_name = "loc_boltpistol_p1_um001_1545 (string)",
             feature_flags = {
                 [1] = "ROTATION_victoria (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_type = "WEAPON_SKIN (string)",
@@ -921416,6 +930428,7 @@ return {
             display_name = "loc_combatknife_p1_um001_1545 (string)",
             feature_flags = {
                 [1] = "ROTATION_victoria (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_type = "WEAPON_SKIN (string)",
@@ -921424,6 +930437,108 @@ return {
             material_overrides = {
             },
             name = "content/items/weapons/player/skins/combatknife/combatknife_p1_um001_1545 (string)",
+            preview_item = "content/items/weapons/player/melee/combatknife_p1_m1 (string)",
+            rarity = "-1 (number)",
+            resource_dependencies = {
+            },
+            show_in_1p = "true (boolean)",
+            slots = {
+                [1] = "slot_weapon_skin (string)",
+            },
+            source = "premium_store (string)",
+            tags = {
+            },
+            weapon_template_restriction = {
+                [1] = "combatknife_p1_m1 (string)",
+                [2] = "combatknife_p1_m2 (string)",
+                [3] = "combatknife_p1_m3 (string)",
+                [4] = "combatknife_p1_m4 (string)",
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/weapons/player/skins/combatknife/combatknife_p1_um002"] = {
+            attachments = {
+                grip = {
+                    children = {
+                        body = {
+                            children = {
+                            },
+                            item = "content/items/weapons/player/melee/blades/combat_knife_blade_11 (string)",
+                            material_override_items = {
+                            },
+                            material_overrides = {
+                            },
+                        },
+                        slot_trinket_1 = {
+                            children = {
+                            },
+                            item = " (string)",
+                            material_override_items = {
+                            },
+                            material_overrides = {
+                            },
+                        },
+                        trinket_hook = {
+                            children = {
+                                slot_trinket_2 = {
+                                    children = {
+                                    },
+                                    item = " (string)",
+                                    material_override_items = {
+                                    },
+                                    material_overrides = {
+                                    },
+                                },
+                            },
+                            item = "content/items/weapons/player/trinkets/trinket_hook_empty (string)",
+                            material_override_items = {
+                            },
+                            material_overrides = {
+                            },
+                        },
+                    },
+                    item = "content/items/weapons/player/melee/grips/combat_knife_grip_09 (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                trail = {
+                    children = {
+                    },
+                    item = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                zzz_shared_material_overrides = {
+                    children = {
+                    },
+                    item = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            description = "loc_combatknife_p1_um002_desc (string)",
+            dev_description = "Skin (string)",
+            dev_name = "Combatknife P1 (string)",
+            display_name = "loc_combatknife_p1_um002 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            is_fallback_item = "false (boolean)",
+            item_type = "WEAPON_SKIN (string)",
+            material_override_items = {
+            },
+            material_overrides = {
+            },
+            name = "content/items/weapons/player/skins/combatknife/combatknife_p1_um002 (string)",
             preview_item = "content/items/weapons/player/melee/combatknife_p1_m1 (string)",
             rarity = "-1 (number)",
             resource_dependencies = {
@@ -925233,7 +934348,8 @@ return {
             display_name = "loc_combatsword_p1_s001_1019 (string)",
             feature_flags = {
                 [1] = "ROTATION_louise (string)",
-                [2] = "ROTATION_week_2 (string)",
+                [2] = "ROTATION_victoria_mick (string)",
+                [3] = "ROTATION_week_2 (string)",
             },
             is_fallback_item = "false (boolean)",
             item_type = "WEAPON_SKIN (string)",
@@ -929641,6 +938757,7 @@ return {
             display_name = "loc_combatsword_p3_um001_1545 (string)",
             feature_flags = {
                 [1] = "ROTATION_victoria (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_type = "WEAPON_SKIN (string)",
@@ -932748,6 +941865,7 @@ return {
             feature_flags = {
                 [1] = "ROTATION_lukas (string)",
                 [2] = "ROTATION_luke_2 (string)",
+                [3] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_type = "WEAPON_SKIN (string)",
@@ -958213,7 +967331,7 @@ return {
                         emblem_right = {
                             children = {
                             },
-                            item = " (string)",
+                            item = "content/items/weapons/player/trinkets/unused_trinket (string)",
                             material_override_items = {
                             },
                             material_overrides = {
@@ -958293,7 +967411,7 @@ return {
             description = "loc_lasgun_p3_um002_1538_desc (string)",
             dev_description = "Skin (string)",
             dev_name = "Lasgun P3 (string)",
-            display_name = "loc_lasgun_p3_um0012_1538 (string)",
+            display_name = "loc_lasgun_p3_um002_1538 (string)",
             feature_flags = {
                 [1] = "ROTATION_sebastian_duncan (string)",
             },
@@ -964640,6 +973758,7 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_louise (string)",
                 [3] = "ROTATION_week_2 (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDES (string)",
             material_override_apply_to_parent = "true (boolean)",
@@ -965263,6 +974382,7 @@ return {
                 [8] = "ROTATION_sebastian (string)",
                 [9] = "ROTATION_stefan (string)",
                 [10] = "ROTATION_urskyr (string)",
+                [11] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDES (string)",
             material_override_apply_to_parent = "true (boolean)",
@@ -965274,6 +974394,41 @@ return {
             material_overrides = {
             },
             name = "content/items/weapons/player/skins/mo_1538_color_black_01 (string)",
+            preview_item = "content/items/weapons/player/ranged/lasgun_p1_m1 (string)",
+            resource_dependencies = {
+                ["content/characters/empty_item/empty_item"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            tags = {
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/weapons/player/skins/mo_1538_color_black_02"] = {
+            attach_node = "1 (string)",
+            base_unit = "content/characters/empty_item/empty_item (string)",
+            display_name = "n/a (string)",
+            feature_flags = {
+                [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_frank (string)",
+                [3] = "ROTATION_johanna (string)",
+                [4] = "ROTATION_keyser (string)",
+                [5] = "ROTATION_kyria (string)",
+                [6] = "ROTATION_lenny (string)",
+                [7] = "ROTATION_oskar (string)",
+                [8] = "ROTATION_sebastian (string)",
+                [9] = "ROTATION_stefan (string)",
+                [10] = "ROTATION_urskyr (string)",
+            },
+            item_type = "MATERIAL_OVERRIDES (string)",
+            material_override_apply_to_parent = "true (boolean)",
+            material_override_items = {
+                [1] = "content/items/material_overrides/gear_colors/color_1_colour_black_05 (string)",
+                [2] = "content/items/material_overrides/gear_patterns/pattern_camo_default (string)",
+                [3] = "content/items/material_overrides/gear_materials/coated_wear_02 (string)",
+            },
+            material_overrides = {
+            },
+            name = "content/items/weapons/player/skins/mo_1538_color_black_02 (string)",
             preview_item = "content/items/weapons/player/ranged/lasgun_p1_m1 (string)",
             resource_dependencies = {
                 ["content/characters/empty_item/empty_item"] = "true (boolean)",
@@ -965410,6 +974565,7 @@ return {
                 [11] = "ROTATION_ursula_ulf (string)",
                 [12] = "ROTATION_rodger_catherine_3 (string)",
                 [13] = "ROTATION_nick (string)",
+                [14] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDES (string)",
             material_override_apply_to_parent = "true (boolean)",
@@ -965437,6 +974593,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_lukas (string)",
+                [3] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDES (string)",
             material_override_apply_to_parent = "true (boolean)",
@@ -965494,6 +974651,7 @@ return {
                 [3] = "ROTATION_catherine_2 (string)",
                 [4] = "ROTATION_rodcat_2 (string)",
                 [5] = "ROTATION_rodger_catherine_3 (string)",
+                [6] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDES (string)",
             material_override_apply_to_parent = "true (boolean)",
@@ -966673,6 +975831,7 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_nork (string)",
                 [3] = "ROTATION_week_3 (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDES (string)",
             material_override_apply_to_parent = "true (boolean)",
@@ -966806,6 +975965,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_rodger_catherine_3 (string)",
+                [3] = "ROTATION_victoria_mick (string)",
             },
             item_type = "MATERIAL_OVERRIDES (string)",
             material_override_apply_to_parent = "true (boolean)",
@@ -978882,6 +988042,7 @@ return {
             display_name = "loc_ogryn_gauntlet_p1_us001_1538 (string)",
             feature_flags = {
                 [1] = "ROTATION_johanna (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_type = "WEAPON_SKIN (string)",
@@ -990019,6 +999180,161 @@ return {
             },
             workflow_state = "RELEASABLE (string)",
         },
+        ["content/items/weapons/player/skins/ogryn_rippergun/ogryn_rippergun_p1_um002_1545"] = {
+            attachments = {
+                bullet_01 = {
+                    children = {
+                    },
+                    item = "content/items/weapons/player/ranged/bullets/rippergun_rifle_bullet_01 (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                bullet_02 = {
+                    children = {
+                    },
+                    item = "content/items/weapons/player/ranged/bullets/rippergun_rifle_bullet_02 (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                receiver = {
+                    children = {
+                        barrel = {
+                            children = {
+                            },
+                            item = "content/items/weapons/player/ranged/barrels/rippergun_rifle_barrel_01 (string)",
+                            material_override_items = {
+                            },
+                            material_overrides = {
+                            },
+                        },
+                        bayonet = {
+                            children = {
+                            },
+                            item = "content/items/weapons/player/ranged/bayonets/rippergun_rifle_bayonet_02 (string)",
+                            material_override_items = {
+                            },
+                            material_overrides = {
+                            },
+                        },
+                        emblem_left = {
+                            children = {
+                            },
+                            item = "content/items/weapons/player/trinkets/unused_trinket (string)",
+                            material_override_items = {
+                            },
+                            material_overrides = {
+                            },
+                        },
+                        emblem_right = {
+                            children = {
+                            },
+                            item = "content/items/weapons/player/trinkets/unused_trinket (string)",
+                            material_override_items = {
+                            },
+                            material_overrides = {
+                            },
+                        },
+                        handle = {
+                            children = {
+                            },
+                            item = "content/items/weapons/player/ranged/handles/rippergun_rifle_handle_06 (string)",
+                            material_override_items = {
+                            },
+                            material_overrides = {
+                            },
+                        },
+                        magazine = {
+                            children = {
+                            },
+                            item = "content/items/weapons/player/ranged/magazines/rippergun_rifle_magazine_08 (string)",
+                            material_override_items = {
+                            },
+                            material_overrides = {
+                            },
+                        },
+                        slot_trinket_1 = {
+                            children = {
+                            },
+                            item = " (string)",
+                            material_override_items = {
+                            },
+                            material_overrides = {
+                            },
+                        },
+                        trinket_hook = {
+                            children = {
+                                slot_trinket_2 = {
+                                    children = {
+                                    },
+                                    item = " (string)",
+                                    material_override_items = {
+                                    },
+                                    material_overrides = {
+                                    },
+                                },
+                            },
+                            item = "content/items/weapons/player/trinkets/trinket_hook_01_v (string)",
+                            material_override_items = {
+                            },
+                            material_overrides = {
+                            },
+                        },
+                    },
+                    item = "content/items/weapons/player/ranged/recievers/rippergun_rifle_receiver_10 (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                zzz_shared_material_overrides = {
+                    children = {
+                    },
+                    item = "content/items/weapons/player/skins/mo_1545_bare_01 (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            description = "loc_ogryn_rippergun_p1_um002_1545_desc (string)",
+            dev_description = "Skin (string)",
+            dev_name = "Ogryn Rippergun P1 (string)",
+            display_name = "loc_ogryn_rippergun_p1_um002_1545 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            is_fallback_item = "false (boolean)",
+            item_type = "WEAPON_SKIN (string)",
+            material_override_items = {
+            },
+            material_overrides = {
+            },
+            name = "content/items/weapons/player/skins/ogryn_rippergun/ogryn_rippergun_p1_um002_1545 (string)",
+            preview_item = "content/items/weapons/player/ranged/ogryn_rippergun_p1_m1 (string)",
+            rarity = "-1 (number)",
+            resource_dependencies = {
+            },
+            show_in_1p = "true (boolean)",
+            slots = {
+                [1] = "slot_weapon_skin (string)",
+            },
+            source = "premium_store (string)",
+            tags = {
+            },
+            weapon_template_restriction = {
+                [1] = "ogryn_rippergun_p1_m1 (string)",
+                [2] = "ogryn_rippergun_p1_m2 (string)",
+                [3] = "ogryn_rippergun_p1_m3 (string)",
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
         ["content/items/weapons/player/skins/ogryn_rippergun/ogryn_rippergun_p1_us001"] = {
             attachments = {
                 bullet_01 = {
@@ -992321,6 +1001637,7 @@ return {
                 [3] = "ROTATION_rodcat_2 (string)",
                 [4] = "ROTATION_rodger_catherine_3 (string)",
                 [5] = "ROTATION_victoria (string)",
+                [6] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_type = "WEAPON_SKIN (string)",
@@ -994226,6 +1003543,133 @@ return {
             material_overrides = {
             },
             name = "content/items/weapons/player/skins/ogryn_slabshield/ogryn_powermaul_slabshield_p1_um003_1545 (string)",
+            preview_item = "content/items/weapons/player/melee/ogryn_powermaul_slabshield_p1_m1 (string)",
+            rarity = "-1 (number)",
+            resource_dependencies = {
+            },
+            show_in_1p = "true (boolean)",
+            slots = {
+                [1] = "slot_weapon_skin (string)",
+            },
+            source = "premium_store (string)",
+            tags = {
+            },
+            weapon_template_restriction = {
+                [1] = "ogryn_powermaul_slabshield_p1_m1 (string)",
+                [2] = "ogryn_powermaul_slabshield_p1_m2 (string)",
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
+        ["content/items/weapons/player/skins/ogryn_slabshield/ogryn_powermaul_slabshield_p1_um004"] = {
+            attachments = {
+                left = {
+                    children = {
+                    },
+                    item = "content/items/weapons/player/melee/ogryn_slabshield_p1_08 (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                right = {
+                    children = {
+                        shaft = {
+                            children = {
+                                head = {
+                                    children = {
+                                    },
+                                    item = "content/items/weapons/player/melee/heads/power_maul_head_08 (string)",
+                                    material_override_items = {
+                                    },
+                                    material_overrides = {
+                                    },
+                                },
+                                pommel = {
+                                    children = {
+                                        slot_trinket_1 = {
+                                            children = {
+                                            },
+                                            item = " (string)",
+                                            material_override_items = {
+                                            },
+                                            material_overrides = {
+                                            },
+                                        },
+                                        trinket_hook = {
+                                            children = {
+                                                slot_trinket_2 = {
+                                                    children = {
+                                                    },
+                                                    item = " (string)",
+                                                    material_override_items = {
+                                                    },
+                                                    material_overrides = {
+                                                    },
+                                                },
+                                            },
+                                            item = "content/items/weapons/player/trinkets/trinket_hook_03 (string)",
+                                            material_override_items = {
+                                            },
+                                            material_overrides = {
+                                            },
+                                        },
+                                    },
+                                    item = "content/items/weapons/player/melee/pommels/power_maul_pommel_08 (string)",
+                                    material_override_items = {
+                                    },
+                                    material_overrides = {
+                                    },
+                                },
+                                trail = {
+                                    children = {
+                                    },
+                                    item = "content/items/weapons/player/melee/trails/ogryn_power_maul_trail_01 (string)",
+                                    material_override_items = {
+                                    },
+                                    material_overrides = {
+                                    },
+                                },
+                            },
+                            item = "content/items/weapons/player/ranged/shafts/power_maul_shaft_09 (string)",
+                            material_override_items = {
+                            },
+                            material_overrides = {
+                            },
+                        },
+                    },
+                    item = "content/items/weapons/player/melee/ogryn_powermaul_p1_empty (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                zzz_shared_material_overrides = {
+                    children = {
+                    },
+                    item = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            description = "loc_ogryn_powermaul_slabshield_p1_um004_desc (string)",
+            dev_description = "Skin (string)",
+            dev_name = "Ogryn Powermaul Slabshield P1 (string)",
+            display_name = "loc_ogryn_powermaul_slabshield_p1_um004 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            is_fallback_item = "false (boolean)",
+            item_type = "WEAPON_SKIN (string)",
+            material_override_items = {
+            },
+            material_overrides = {
+            },
+            name = "content/items/weapons/player/skins/ogryn_slabshield/ogryn_powermaul_slabshield_p1_um004 (string)",
             preview_item = "content/items/weapons/player/melee/ogryn_powermaul_slabshield_p1_m1 (string)",
             rarity = "-1 (number)",
             resource_dependencies = {
@@ -1010185,6 +1019629,116 @@ return {
             },
             workflow_state = "RELEASABLE (string)",
         },
+        ["content/items/weapons/player/skins/powersword/powersword_p2_um001"] = {
+            attachments = {
+                grip = {
+                    children = {
+                        blade = {
+                            children = {
+                            },
+                            item = "content/items/weapons/player/melee/blades/power_falchion_blade_04 (string)",
+                            material_override_items = {
+                            },
+                            material_overrides = {
+                            },
+                        },
+                        pommel = {
+                            children = {
+                                slot_trinket_1 = {
+                                    children = {
+                                    },
+                                    item = " (string)",
+                                    material_override_items = {
+                                    },
+                                    material_overrides = {
+                                    },
+                                },
+                                trinket_hook = {
+                                    children = {
+                                        slot_trinket_2 = {
+                                            children = {
+                                            },
+                                            item = " (string)",
+                                            material_override_items = {
+                                            },
+                                            material_overrides = {
+                                            },
+                                        },
+                                    },
+                                    item = "content/items/weapons/player/trinkets/trinket_hook_05_gold (string)",
+                                    material_override_items = {
+                                    },
+                                    material_overrides = {
+                                    },
+                                },
+                            },
+                            item = "content/items/weapons/player/melee/pommels/power_falchion_pommel_04 (string)",
+                            material_override_items = {
+                            },
+                            material_overrides = {
+                            },
+                        },
+                    },
+                    item = "content/items/weapons/player/melee/grips/power_falchion_grip_04 (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                trail = {
+                    children = {
+                    },
+                    item = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                zzz_shared_material_overrides = {
+                    children = {
+                    },
+                    item = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            description = "loc_powersword_p2_um001_desc (string)",
+            dev_description = "Skin (string)",
+            dev_name = "Powersword P2 (string)",
+            display_name = "loc_powersword_p2_um001 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            is_fallback_item = "false (boolean)",
+            item_type = "WEAPON_SKIN (string)",
+            material_override_items = {
+            },
+            material_overrides = {
+            },
+            name = "content/items/weapons/player/skins/powersword/powersword_p2_um001 (string)",
+            preview_item = "content/items/weapons/player/melee/powersword_p2_m1 (string)",
+            rarity = "-1 (number)",
+            resource_dependencies = {
+            },
+            show_in_1p = "true (boolean)",
+            slots = {
+                [1] = "slot_weapon_skin (string)",
+            },
+            source = "premium_store (string)",
+            tags = {
+            },
+            weapon_template_restriction = {
+                [1] = "powersword_p2_m1 (string)",
+                [2] = "powersword_p2_m2 (string)",
+                [3] = "powersword_p2_m3 (string)",
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
         ["content/items/weapons/player/skins/powersword/powersword_p3_deluxe01"] = {
             attachments = {
                 grip = {
@@ -1016428,6 +1025982,7 @@ return {
             display_name = "loc_shotgun_p2_us002_1545 (string)",
             feature_flags = {
                 [1] = "ROTATION_martinez (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_type = "WEAPON_SKIN (string)",
@@ -1024830,6 +1034385,125 @@ return {
             },
             workflow_state = "RELEASABLE (string)",
         },
+        ["content/items/weapons/player/skins/thunderhammer_2h/thunderhammer_2h_p1_um002"] = {
+            attachments = {
+                shaft = {
+                    children = {
+                        connector = {
+                            children = {
+                                head = {
+                                    children = {
+                                    },
+                                    item = "content/items/weapons/player/melee/heads/thunder_hammer_head_09 (string)",
+                                    material_override_items = {
+                                    },
+                                    material_overrides = {
+                                    },
+                                },
+                                slot_trinket_1 = {
+                                    children = {
+                                    },
+                                    item = " (string)",
+                                    material_override_items = {
+                                    },
+                                    material_overrides = {
+                                    },
+                                },
+                                trinket_hook = {
+                                    children = {
+                                        slot_trinket_2 = {
+                                            children = {
+                                            },
+                                            item = " (string)",
+                                            material_override_items = {
+                                            },
+                                            material_overrides = {
+                                            },
+                                        },
+                                    },
+                                    item = "content/items/weapons/player/trinkets/trinket_hook_01_v (string)",
+                                    material_override_items = {
+                                    },
+                                    material_overrides = {
+                                    },
+                                },
+                            },
+                            item = "content/items/weapons/player/melee/connectors/thunder_hammer_connector_09 (string)",
+                            material_override_items = {
+                            },
+                            material_overrides = {
+                            },
+                        },
+                        pommel = {
+                            children = {
+                            },
+                            item = "content/items/weapons/player/melee/pommels/thunder_hammer_pommel_08 (string)",
+                            material_override_items = {
+                            },
+                            material_overrides = {
+                            },
+                        },
+                    },
+                    item = "content/items/weapons/player/ranged/shafts/thunder_hammer_shaft_08 (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                trail = {
+                    children = {
+                    },
+                    item = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+                zzz_shared_material_overrides = {
+                    children = {
+                    },
+                    item = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            description = "loc_thunderhammer_2h_p1_um002_desc (string)",
+            dev_description = "Skin (string)",
+            dev_name = "Thunderhammer 2H P1 (string)",
+            display_name = "loc_thunderhammer_2h_p1_um002 (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            is_fallback_item = "false (boolean)",
+            item_type = "WEAPON_SKIN (string)",
+            material_override_items = {
+            },
+            material_overrides = {
+            },
+            name = "content/items/weapons/player/skins/thunderhammer_2h/thunderhammer_2h_p1_um002 (string)",
+            preview_item = "content/items/weapons/player/melee/thunderhammer_2h_p1_m1 (string)",
+            rarity = "-1 (number)",
+            resource_dependencies = {
+            },
+            show_in_1p = "true (boolean)",
+            slots = {
+                [1] = "slot_weapon_skin (string)",
+            },
+            source = "premium_store (string)",
+            tags = {
+            },
+            weapon_template_restriction = {
+                [1] = "thunderhammer_2h_p1_m1 (string)",
+                [2] = "thunderhammer_2h_p1_m2 (string)",
+                [3] = "thunderhammer_2h_p1_m3 (string)",
+            },
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
         ["content/items/weapons/player/skins/thunderhammer_2h/thunderhammer_2h_p1_us001"] = {
             attachments = {
                 shaft = {
@@ -1026587,6 +1036261,7 @@ return {
             display_name = "loc_trinket_11c (string)",
             feature_flags = {
                 [1] = "ROTATION_victoria (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             icon_render_camera_position_offset = {
                 [1] = "0 (number)",
@@ -1028151,6 +1037826,70 @@ return {
             },
             workflow_state = "RELEASABLE (string)",
         },
+        ["content/items/weapons/player/trinkets/trinket_20c"] = {
+            attach_node = "ap_trinket (string)",
+            attachments = {
+                zzz_shared_material_overrides = {
+                    children = {
+                    },
+                    item = " (string)",
+                    leaf_attach_node_override = " (string)",
+                    link_map_mode_override = " (string)",
+                    material_override_items = {
+                    },
+                    material_overrides = {
+                    },
+                },
+            },
+            base_unit = "content/weapons/player/attachments/trinkets/trinket_20c/trinket_20c (string)",
+            description = "loc_trinket_20c_desc (string)",
+            dev_description = " (string)",
+            dev_name = "Trinket (string)",
+            display_name = "loc_trinket_20c (string)",
+            feature_flags = {
+                [1] = "ROTATION_bobby_jeff (string)",
+            },
+            icon_render_camera_position_offset = {
+                [1] = "0 (number)",
+                [2] = "0 (number)",
+                [3] = "0 (number)",
+            },
+            icon_render_camera_rotation_offset = {
+                [1] = "0 (number)",
+                [2] = "0 (number)",
+                [3] = "0 (number)",
+            },
+            icon_render_unit_rotation_offset = {
+                [1] = "0 (number)",
+                [2] = "0 (number)",
+                [3] = "0 (number)",
+            },
+            is_fallback_item = "false (boolean)",
+            item_list_faction = "Player (string)",
+            item_type = "WEAPON_TRINKET (string)",
+            material_override_items = {
+            },
+            name = "content/items/weapons/player/trinkets/trinket_20c (string)",
+            rarity = "-1 (number)",
+            resource_dependencies = {
+                ["content/weapons/player/attachments/trinkets/trinket_20c/trinket_20c"] = "true (boolean)",
+            },
+            show_in_1p = "true (boolean)",
+            slots = {
+                [1] = "slot_trinket_1 (string)",
+                [2] = "slot_trinket_1 (string)",
+                [3] = "slot_trinket_2 (string)",
+                [4] = "slot_trinket_2 (string)",
+            },
+            source = "premium_store (string)",
+            tags = {
+            },
+            ui_alignment_tag = "trinket (string)",
+            workflow_checklist = {
+                [1] = "ART_DONE (string)",
+            },
+            workflow_state = "RELEASABLE (string)",
+        },
         ["content/items/weapons/player/trinkets/trinket_21a"] = {
             attach_node = "ap_trinket (string)",
             attachments = {
@@ -1029634,6 +1039373,7 @@ return {
                 [2] = "ROTATION_david (string)",
                 [3] = "ROTATION_rodger_catherine_3 (string)",
                 [4] = "ROTATION_twitch_1_13_0 (string)",
+                [5] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -1029671,6 +1039411,7 @@ return {
                 [2] = "ROTATION_rafal (string)",
                 [3] = "ROTATION_rodger_catherine_3 (string)",
                 [4] = "ROTATION_francisco_malcador (string)",
+                [5] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -1029705,6 +1039446,7 @@ return {
             display_name = "n/a (string)",
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
+                [2] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -1029910,6 +1039652,7 @@ return {
             feature_flags = {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_lenny (string)",
+                [3] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -1030087,6 +1039830,7 @@ return {
                 [5] = "ROTATION_zoya (string)",
                 [6] = "ROTATION_urskyr (string)",
                 [7] = "ROTATION_nick (string)",
+                [8] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -1030201,6 +1039945,7 @@ return {
                 [10] = "ROTATION_zoya (string)",
                 [11] = "ROTATION_ursula_ulf (string)",
                 [12] = "ROTATION_rodger_catherine_3 (string)",
+                [13] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -1030275,6 +1040020,7 @@ return {
                 [1] = "FEATURE_item_retained (string)",
                 [2] = "ROTATION_rodger_catherine_3 (string)",
                 [3] = "ROTATION_nick (string)",
+                [4] = "ROTATION_victoria_mick (string)",
             },
             is_fallback_item = "false (boolean)",
             item_list_faction = "Player (string)",
@@ -1030407,12 +1040153,12 @@ return {
     },
     metadata = {
         cache_metadata = {
-            url = "https://bsp-cdn-prod.atoma.cloud/items/versions/138518/Vr5FmXPhlgYEVLZvrAG5xOXjjQsTSUQ%252BysGp.json (string)",
-            version = "138518 (string)",
+            url = "https://bsp-cdn-prod.atoma.cloud/items/versions/139617/Vr5EnXTqhQINVLlsrwWwxuTs9JsVSUk5z8mY.json (string)",
+            version = "139617 (string)",
         },
-        cached_version = "138518 (string)",
-        exported_at = "2026-10-17 00:51:29 (string)",
-        exported_unix = "1792216289 (number)",
-        item_count = "13348 (number)",
+        cached_version = "139617 (string)",
+        exported_at = "2026-10-31 05:43:14 (string)",
+        exported_unix = "1793443394 (number)",
+        item_count = "13442 (number)",
     },
 }
